@@ -1,15 +1,15 @@
 ---
 title: 내가 작업한 Marketo
-description: 고객 생성 콘텐츠
+description: Marketo by You는 Adobe Marketo에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 28%
+source-wordcount: '218'
+ht-degree: 25%
 
 ---
 

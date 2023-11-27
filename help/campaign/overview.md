@@ -1,16 +1,16 @@
 ---
 title: 내가 수행한 캠페인
-description: 고객 생성 콘텐츠
+description: Campaign by You는 Adobe Campaign에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
 thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 38%
+source-wordcount: '226'
+ht-degree: 34%
 
 ---
 

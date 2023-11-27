@@ -1,15 +1,15 @@
 ---
 title: 내가 수행한 분석
-description: 고객 생성 콘텐츠
+description: Analytics by You는 Adobe Analytics에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 25%
+source-wordcount: '213'
+ht-degree: 22%
 
 ---
 

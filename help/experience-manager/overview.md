@@ -1,15 +1,15 @@
 ---
 title: 내가 작업한 Experience Manager
-description: 고객 생성 콘텐츠
+description: 사용자별 Experience Manager은 Adobe Experience Manager에 대한 지식으로 전문 지식 및 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 22%
+source-wordcount: '204'
+ht-degree: 19%
 
 ---
 
