@@ -52,7 +52,7 @@ ht-degree: 1%
 
 ### 2단계: [!DNL]에 포함될 요소 식별 [!DNL Marketo Engage]] 문서 및 [!DNL Changelogs]
 
-형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [다음은 간단한 설명서 및 변경 로그 Excel 템플릿입니다](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]시작할 수 있는 중요한 요소를 다루는 _Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 다음과 같은 보고서가 포함됩니다.
+형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [다음은 간단한 설명서 및 변경 로그 Excel 템플릿입니다](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).작할 수 있는 중요한 요소를 다루는  다음과 같은 보고서가 포함됩니다.
 
 * 설명서
    * 프로그램 템플릿 이름
