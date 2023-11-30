@@ -1,18 +1,18 @@
 ---
-user-guide-title: 귀하가 제공한 경험
-user-guide-description: 고객 생성 컨텐츠 Adobe
-breadcrumb-title: 귀하가 제공한 경험
+user-guide-title: 내가 만든 경험
+user-guide-description: Adobe 고객 생성 콘텐츠
+breadcrumb-title: 내가 만든 경험
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 69%
+ht-degree: 75%
 
 ---
 
 
-# 귀하가 제공한 경험 {#experiences-by-you}
+# 내가 만든 경험 {#experiences-by-you}
 
-+ [귀하가 제공한 경험](/help/overview.md)
++ [내가 만든 경험](/help/overview.md)
 
 + [!DNL Analytics] 귀하가 {#analytics}
    + [개요](/help/analytics/overview.md)
