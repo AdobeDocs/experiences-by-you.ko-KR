@@ -1,6 +1,6 @@
 ---
 title: 내가 작업한 Experience Manager
-description: 사용자별 Experience Manager은 Adobe Experience Manager에 대한 지식으로 전문 지식 및 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
+description: Experience Manager by You는 Adobe Experience Manager에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 19%
+source-wordcount: '188'
+ht-degree: 23%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 19%
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-    <strong>팁 및 요령</strong>
+    <strong>팁과 트릭</strong>
     </a>
     </div>
     <p>
@@ -58,11 +58,11 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="팁 및 요령" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="팁과 트릭" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-    <strong>팁 및 요령</strong>
+    <strong>팁과 트릭</strong>
     </a>
     </div>
     <p>

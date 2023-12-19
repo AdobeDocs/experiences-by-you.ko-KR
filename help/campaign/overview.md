@@ -1,6 +1,6 @@
 ---
 title: 내가 수행한 캠페인
-description: Campaign by You는 Adobe Campaign에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
+description: Campaign by You는 Adobe Campaign에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 34%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>마케터를 위한 문제 해결: 5가지 일반적인 워크플로 및 게재 오류</strong>
+    <strong>마케터 문제 해결: 5가지 일반적인 워크플로우 및 게재 오류</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ ht-degree: 34%
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>마케터를 위한 Adobe Campaign 성공 모범 사례 10가지</strong>
+    <strong>마케터를 위한 Adobe Campaign 성공 사례 10가지</strong>
     </a>
     </div>
     <p>

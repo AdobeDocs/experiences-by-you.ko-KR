@@ -1,6 +1,6 @@
 ---
 title: 내가 수행한 분석
-description: Analytics by You는 Adobe Analytics에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
+description: Analytics by You는 Adobe Analytics에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 22%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 22%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 팁 및 요령" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-    <strong>[!DNL Adobe Analytics] 팁 및 요령</strong>
+    <strong>[!DNL Adobe Analytics] 팁과 트릭</strong>
     </a>
     </div>
     <p>

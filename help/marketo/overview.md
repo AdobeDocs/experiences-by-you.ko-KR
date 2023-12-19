@@ -1,6 +1,6 @@
 ---
 title: 내가 작업한 Marketo
-description: Marketo by You는 Adobe Marketo에 대한 지식으로 전문 지식과 영향을 얻은 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
+description: Marketo by You는 Adobe Marketo에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 25%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 25%
     </a>
     </div>
     <p>
-    <em>사용자 인터페이스를 탐색하고 [!DNL Marketo Engage] 플랫폼에 익숙해지는 방법을 알아봅니다.</em>
+    <em>사용자 인터페이스를 탐색하고 를 탐색하는 방법에 대해 알아봅니다. [!DNL Marketo Engage] 플랫폼.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 25%
     </a>
     </div>
     <p>
-    <em>이 단계별 튜토리얼을 통해 A/B 테스트로 이메일 프로그램을 만드는 방법에 대해 알아보십시오.</em>
+    <em>이 단계별 자습서를 통해 A/B 테스트를 사용하여 이메일 프로그램을 만드는 방법을 알아보십시오.</em>
     <p>
   </td>
 </tr>
