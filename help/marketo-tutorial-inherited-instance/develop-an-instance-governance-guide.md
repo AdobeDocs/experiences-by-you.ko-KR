@@ -11,10 +11,10 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 1%
+source-wordcount: '905'
+ht-degree: 0%
 
 ---
 
@@ -52,13 +52,13 @@ ht-degree: 1%
 
 ### 2단계: [!DNL]에 포함될 요소 식별 [!DNL Marketo Engage]] 문서 및 [!DNL Changelogs]
 
-형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [다음은 간단한 설명서 및 변경 로그 Excel 템플릿입니다](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).작할 수 있는 중요한 요소를 다루는  다음과 같은 보고서가 포함됩니다.
+형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [다음은 간단한 설명서 및 변경 로그 Excel 템플릿입니다](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) 시작할 수 있는 중요한 요소를 설명합니다. 다음과 같은 보고서가 포함됩니다.
 
 * 설명서
    * 프로그램 템플릿 이름
    * 채널
    * 만든 날짜
-   * 제작자
+   * 작성자:
    * 프로그램 목적
    * 상태
    * 프로그램 템플릿 링크
@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ## 다음은 무엇입니까?
 
-다운로드 시작 [단순 템플릿](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+다운로드 시작 [단순 템플릿](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 위의 단계에 따라 거버넌스 안내서 및 설명서를 개발하십시오. 프로세스를 진행하면서 다음 경험 규칙을 염두에 두십시오.
 
