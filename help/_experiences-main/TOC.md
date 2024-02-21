@@ -2,10 +2,10 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 75%
+source-wordcount: '293'
+ht-degree: 64%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 75%
 
 + [!DNL Analytics] 귀하가 {#analytics}
    + [개요](/help/analytics/overview.md)
-   + [!DNL Analytics] 소개{#intro-to-analytics}
+   + 소개 [!DNL Analytics] {#intro-to-analytics}
       + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
          + [다음에서 전환 [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -26,7 +26,7 @@ ht-degree: 75%
          + [막대 그래프를 사용하여 인사이트 확보](/help/analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
          + [텍스트 시각화 및 설명을 사용하여 말 그 이상의 것 전달하기](/help/analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
          + [집단 분석을 사용하여 고객 비헤이비어 이해](/help/analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
-      + 세그먼테이션 {#segmentation}
+      + 세분화 {#segmentation}
          + [고객 여정 세그먼트 작성](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [고객 여정 세그먼트 작성 - 2부](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [세그먼트 빌더와 빠른 세그먼트의 차이점](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
@@ -63,18 +63,20 @@ ht-degree: 75%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [마케터 문제 해결](/help/campaign/acs/troubleshooting-for-marketers.md)
    + 전략 및 사고 리더십{#strategy}
-      + [마케터를 위한  [!DNL Adobe Campaign]  성공 모범 사례 10가지](/help/campaign/10-best-practices-for-marketers.md)
-+ 내가 작업한 Experience Manager {#experience-manager}
+      + [에 대한 10가지 모범 사례 [!DNL Adobe Campaign] 마케터를 위한 성공](/help/campaign/10-best-practices-for-marketers.md)
++ 귀하가 Experience Manager {#experience-manager}
    + [개요](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites 성숙도 평가](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
-      + 모범 사례 {#sites-best-practices}
+      + 우수 사례 {#sites-best-practices}
          + [AEM 챔피언 팁 및 요령: 세션 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [AEM 챔피언 팁 및 요령: 세션 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
    + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] 온보딩 플레이북](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] 환경 유형](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + 우수 사례 {#cloud-manager-best-practices}
+         + [Cloud Manager에서 로그 사용](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] 귀하가 {#marketo-engage}
    + [개요](/help/marketo/overview.md)
    + 기본 사항 {#fundamentals}
