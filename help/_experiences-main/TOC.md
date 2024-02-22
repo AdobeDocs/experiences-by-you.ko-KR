@@ -2,10 +2,10 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 64%
+source-wordcount: '297'
+ht-degree: 63%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 64%
          + [보기 전용 공유 기능 사용](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + 팁 및 요령 {#tips-and-tricks}
          + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - 개인 비서](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + 관리 {#administration}
       + 주요 관리 기술 {#key-admin-skills}
          + [자율 커뮤니티를 만들기](/help/analytics/administration/key-admin-skills/empowered-community.md)
