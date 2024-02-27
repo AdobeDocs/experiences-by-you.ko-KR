@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ _필요한 #TAGS을 효율적으로 찾기 위해 개인 비서 역할을 하면
 
 그래서, 그것은 첫날부터 게임이었지만, 우리가 규칙을 바꿀 수 있다면 어떨까요?
 
-사실, 우리가 그러한 역할들을 영원히 바꿀 수 있는 개인 비서를 만들 수 있다면 어떨까요?
+사실, 만약 우리가 그 규칙들을 영원히 바꿀 수 있는 개인 비서를 만들 수 있다면 어떨까요?
 
 진짜로, 우리가 여기서 말하는 것은 태그입니다!  그래!!  그것은 우리의 친구입니다. 해시태그는, 우리가 우리의 전화에서 보았던 것처럼, 이전에 &quot;숫자&quot;와 &quot;파운드 기호&quot;로 알려졌습니다.  우리 음악가들은 심지어 그것을 &quot;날카로운&quot; 이라고 부르기도 한다.
 
