@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 74%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -55,7 +54,7 @@ ht-degree: 74%
 
 
 
-##### 2.1.1.2. 홈 화면 인사이트 (Google [!DNL Analytics])
+##### 2.1.1.2. 홈 화면 인사이트(Google [!DNL Analytics])
 
 * Google [!DNL Analytics] 홈 화면에는 사전 설치된 시각화 가 있습니다. 이는 다음과 같은 내용을 다룹니다.
 * 지난 7일 동안의 사용자, 세션, 바운스 비율 및 세션 시간
@@ -271,7 +270,7 @@ API는 끌어오기 요청에 지정된 대로 분류 및 세그먼트를 적용
 * [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
 * [[!DNL Adobe] 사용자 그룹](https://analytics-augs.adobe.com/) - 사용자가 서로 연결하고 구현을 개선하는 데 도움이 되는 커뮤니티 실행 이벤트의 허브입니다.
 * [[!DNL Adobe Analytics] 사용자 그룹 YouTube 채널](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - 다음을 수행할 수 없음 [!DNL Adobe Analytics] 사용자 그룹 세션입니까? 전 세계의 이전 사용자 그룹 세션을 다시 시청하여 동료들이 도구를 사용하는 방법에 대해 자세히 알아보십시오.
-* [채팅 Slack 측정 채널](https://www.measure.chat/)[!DNL Adobe Analytics] - 전 세계 사용자와 연결하여 업계의 학습 내용을 공유하고, 동료들에게 질문하고, 측정 중심의 관심 그룹에 참여하십시오.
+* [채팅 Slack 채널 측정](https://www.measure.chat/) - 다음으로 연결 [!DNL Adobe Analytics] 전 세계의 사용자가 업계 지식을 공유하고, 동료에게 질문하고, 측정 중심의 관심 그룹에 참여합니다.
 * 이 외에도 다양한 내용이 있습니다!
 
 ## 작성자
