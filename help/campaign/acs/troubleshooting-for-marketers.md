@@ -10,15 +10,14 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 35e62c4f1a093b4f755e175e9b553a43887e4292
+source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
 workflow-type: tm+mt
-source-wordcount: '722'
-ht-degree: 3%
+source-wordcount: '711'
+ht-degree: 2%
 
 ---
 
-# 마케터를 위한 문제 해결: 5가지 일반적인 워크플로 및 게재 오류
+# 마케터 문제 해결: 5가지 일반적인 워크플로우 및 게재 오류
 
 수행한 사람: [수라지 파트라](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, 수석 컨설턴트, Meijer
 
@@ -73,7 +72,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ![공통 필드 데이터 세트 오류](/help/_assets/kt-13256/dataset-error.png)
 
-**솔루션:**
+**해결 방법:**
 
 이 오류를 해결하는 방법에는 두 가지가 있습니다.
 
@@ -98,7 +97,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 이 문제는 활동에서 표현식 이름을 수동으로 편집할 때 발생합니다. 이 그림에서는 표현식이 다음 위치에서 수정되었음을 보여 줍니다. `name `끝 `i__name`.
 
-**솔루션:**
+**해결 방법:**
 
 다음 세 가지 방법으로 이 오류를 해결할 수 있습니다.
 
