@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
+source-git-commit: 9be76d73344188d93b826d9195c10e4ee8cc3957
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# #Tags - 개인 비서
+# 태그 - 개인 비서
 
 _필요한 #TAGS을 효율적으로 찾기 위해 개인 비서 역할을 하면서 디지털 분석을 간소화하는 방법에 대해 알아보십시오. Adobe Analytics 챔피언 Jeff Bloomer는 도구의 이점을 극대화하는 데 대한 전문가의 통찰력을 공유합니다._
 
