@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,6 @@ ht-degree: 2%
 수행한 사람: [수라지 파트라](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, 수석 컨설턴트, Meijer
 
 의 수석 엔지니어 및 고객 전문가 [!DNL Adobe] 지난 5년간 제품 Experience Cloud, 비즈니스 사용자 지원 [마이어](https://www.meijer.com/){target="_blank"}, ACS와 함께 복잡한 마케팅 및 트랜잭션 캠페인을 실행하기 위해 1934년에 설립된 미국 슈퍼센터 체인입니다. 제가 작업한 몇 가지 프로젝트에는 오퍼를 저장하고 개인화를 위해 세부 정보를 주문하는 맞춤형 캠페인이 포함되어 있습니다. [!DNL Adobe] 세그먼트 수집을 위한 Audience Manager 및 고객 통찰력.
-
 
 ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 오류가 발생했습니다. 가장 일반적인 오류를 파악하면 보다 빠른 문제 해결과 생산성 향상에 도움이 될 수 있습니다. 다음은 유사한 오류가 발생할 때 효과적으로 해결하는 데 도움이 되는 내 문제 해결 팁입니다.
 
