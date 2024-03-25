@@ -2,10 +2,10 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 60%
+source-wordcount: '323'
+ht-degree: 58%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 60%
          + [고객 여정 세그먼트 작성 - 2부](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [세그먼트 빌더와 빠른 세그먼트의 차이점](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [Wait a segment… 세분화를 사용하여 새로운 인사이트 발견](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [커튼 뒤의 마법 - 복잡한 세그먼트](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + 지표 {#metrics}
          + [Excel을 대신할 계산된 지표](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [계산된 지표로 데이터 분석 수준을 한 차원 끌어올리기](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
