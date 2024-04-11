@@ -1,6 +1,6 @@
 ---
 title: AEM Champion 우수 사례 및 팁 - 마이그레이션 후
-description: AEM으로의 전환을 as a Cloud Service으로 최적화하는 중요한 마이그레이션 후 전략 및 팁에 대해 알아봅니다.
+description: 마이그레이션 후 중요한 전략과 AEM으로의 전환을 as a Cloud Service으로 최적화하는 팁에 대해 알아봅니다.
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -9,9 +9,9 @@ doc-type: Value Video
 duration: 224
 last-substantial-update: 2024-04-11T00:00:00Z
 jira: KT-15324
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 4c59b1ed049e541cc1f6d9585be531958cf218af
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
