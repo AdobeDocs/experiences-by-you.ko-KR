@@ -2,9 +2,9 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '333'
 ht-degree: 57%
 
 ---
@@ -80,6 +80,7 @@ ht-degree: 57%
       + 우수 사례 {#cloud-manager-best-practices}
          + [Cloud Manager에서 로그 사용](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [AEM as a Cloud Service으로의 마이그레이션 계획](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [마이그레이션 후 전략 및 팁](/help/experience-manager/cloud-service/expert-resources/aem-champions/post-migration.md)
          + [모범 사례 분석기 사용](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
          + [AEM as a Cloud Service으로 마이그레이션할 때의 문제 해결](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] 귀하가 {#marketo-engage}
