@@ -9,13 +9,13 @@ duration: 36000
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
-source-git-commit: 2b566eda7d088e9e48e4042dae0fe2e6385c178d
+exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
+source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4102'
 ht-degree: 2%
 
 ---
-
 
 # 커튼 뒤의 마법: 복잡한 세그먼트: 제외, 컨테이너 및 속성
 
@@ -202,13 +202,36 @@ _복잡한 데이터 세분화의 복잡성을 파악하고 제외, 컨테이너
 
 먼저, 일일 분류를 표시하는 대신 페이지 분류를 표시합니다. 이렇게 하면 두 세그먼트를 더 잘 보여 줄 수 있습니다.
 
-![Segment3C-ComparisonTable-Detail1](assets/segment-example-3/segment3c-comparison-table-detail1.png) 처음 세 열(페이지 보기 수, 방문 횟수 및 고유 방문자 수)은 세그먼트화되지 않으므로 사이트 내의 모든 페이지를 표시합니다. 주문이 작업에 대해 추적되므로 여기에 주문이 포함되지 않았으므로 페이지 차원의 범위에 포함되지 않습니다.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">처음 세 열(페이지 보기 수, 방문 횟수 및 고유 방문자 수)은 세그먼트화되지 않으므로 사이트 내의 모든 페이지를 표시합니다. 주문이 작업에 대해 추적되므로 여기에 주문이 포함되지 않았으므로 페이지 차원의 범위에 포함되지 않습니다.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail2](assets/segment-example-3/segment3c-comparison-table-detail2.png) 다음으로 단순세그먼트만 보고 그 결과를 보여주고 있습니다. **히트 수** 지정한 두 페이지에서 분류에 있는 다른 모든 페이지는 예상대로 0이 됩니다.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">다음으로 단순세그먼트만 보고 그 결과를 보여주고 있습니다. <strong>히트 수</strong> 지정한 두 페이지에서 분류에 있는 다른 모든 페이지는 예상대로 0이 됩니다.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail3](assets/segment-example-3/segment3c-comparison-table-detail3.png) 이제 약간의 추가 팁이 있습니다. 고급 세그먼트의 결과를 표시하기 전에 &quot;주문이 있음&quot;의 다른 간단한 세그먼트를 사용했으며(히트 수준 범위에서) 이를 고유 방문자와 연결했습니다. 이렇게 하면 보고서 기간에 주문한 총 UV와 각 페이지에 도달한 UV가 반환됩니다. 다음 열 세트를 더 잘 설명하는 데 도움이 됩니다.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">이제 약간의 추가 팁이 있습니다. 고급 세그먼트의 결과를 표시하기 전에 "주문이 있음"의 다른 간단한 세그먼트를 사용했으며(히트 수준 범위에서) 이를 고유 방문자와 연결했습니다. 이렇게 하면 보고서 기간에 주문한 총 UV와 각 페이지에 도달한 UV가 반환됩니다. 다음 열 세트를 더 잘 설명하는 데 도움이 됩니다.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail4](assets/segment-example-3/segment3c-comparison-table-detail4.png) 최종 열 세트는 복잡한 세그먼트로 스택됩니다. 주문이 있는 전체 UV는 각 페이지에서 간단한 &quot;주문이 있음&quot; 세그먼트와 일치하지만, 합계가 상당히 다르다는 것을 알 수 있습니다. 이 데이터 세트는 주문을 하고 페이지를 히트한 방문자로만 데이터 세트를 명시적으로 제한하므로 이에 대해 확실히 관심이 있습니다.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">최종 열 세트는 복잡한 세그먼트로 스택됩니다. 주문이 있는 전체 UV는 각 페이지에서 간단한 "주문이 있음" 세그먼트와 일치하지만, 합계가 상당히 다르다는 것을 알 수 있습니다. 이 데이터 세트는 주문을 하고 페이지를 히트한 방문자로만 데이터 세트를 명시적으로 제한하므로 이에 대해 확실히 관심이 있습니다.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
+        </td>
+    </tr>
+</table>
 
 ### 세그먼트 예 4: 추천 거래 또는 추천 제품을 히트하고 동일한 방문 내에서 주문하는 방문
 
@@ -310,13 +333,29 @@ eVar가 두 개 있다고 가정해 보겠습니다. 두 개 중 한 개는 방�
 
 ![세그먼트5A-테이블 비교](assets/segment-example-5/segment5a-table-comparison.png)
 
-![Segment5A-TableComparison-Detail1](assets/segment-example-5/segment5a-table-comparison-detail1.png) 처음 4개의 열은 세분화되지 않았으므로 이해하기 쉬워야 합니다. 참고: *&quot;항목&quot;* 는 기본적으로 방문자가 세션을 시작하는 위치를 기반으로 계산된 값입니다. 사용자가 여러 마케팅 채널(소셜 미디어 조회, 검색, 마케팅 이메일 클릭 등을 통해 사이트)을 통해 입력할 수 있으므로 이것이 우리가 찾는 정보를 반환하지 않는다는 것을 보여주기 위해 여기에 추가했습니다. 모두 동일한 방문/세션 내에 있어야 합니다.)
+<table>
+    <tr>
+        <td width="352" style="border: 0;">처음 4개의 열은 세분화되지 않았으므로 이해하기 쉬워야 합니다. *"시작"*은 기본적으로 방문자가 세션을 시작하는 위치를 기반으로 계산된 값입니다. 사용자가 여러 마케팅 채널(소셜 미디어 조회, 검색, 마케팅 이메일 클릭 등을 통해 사이트)을 통해 입력할 수 있으므로 이것이 우리가 찾는 정보를 반환하지 않는다는 것을 보여주기 위해 여기에 추가했습니다. 모두 동일한 방문/세션 내에 있어야 합니다.)</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
+        </td>
+    </tr>
+</table>
 
-![Segment5A-TableComparison-Detail2](assets/segment-example-5/segment5a-table-comparison-detail2.png) 다음 열 세트는 &quot;표준 히트 세그먼트&quot;를 사용하며, 기본적으로 마케팅 채널이 &quot;유료 검색&quot;인 히트를 봅니다. 하지만 이렇게 하면 마케팅 채널 속성에 따라 모든 히트가 반환되고 실제 &quot;유료 검색&quot; 클릭스루가 분리되지 않습니다. 따라서 필요한 데이터가 반환되지 않습니다.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">다음 열 세트는 "표준 히트 세그먼트"를 사용하며, 기본적으로 마케팅 채널이 "유료 검색"인 히트를 봅니다. 하지만 이렇게 하면 마케팅 채널 속성에 따라 모든 히트가 반환되고 실제 "유료 검색" 클릭스루가 분리되지 않습니다. 따라서 필요한 데이터가 반환되지 않습니다.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
+        </td>
+    </tr>
+</table>
+
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-![Segment5A-TableComparison-Detail3.png](assets/segment-example-5/segment5a-table-comparison-detail3.png) 이제, 다음 두 세트의 데이터는 동일하게 보입니다. 그리고 실제로 이 두 세트는 동일한 데이터를 두 가지 다른 방식으로 반환합니다. 하지만 지금은 구체적으로 *인스턴스* 마케팅 채널 위치 **set** &quot;유료 검색&quot;으로 변경되었습니다.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">이제, 다음 두 세트의 데이터는 동일하게 보입니다. 그리고 실제로 이 두 세트는 동일한 데이터를 두 가지 다른 방식으로 반환합니다. 하지만 지금은 구체적으로 <i>인스턴스</i> 마케팅 채널 위치 <strong>set</strong> "유료 검색"으로 변경되었습니다.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
+        </td>
+    </tr>
+</table>
 
 이 작업은 다음 두 가지 방법으로 수행할 수 있습니다.
 
