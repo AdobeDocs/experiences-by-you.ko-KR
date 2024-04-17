@@ -2,10 +2,10 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 57%
+source-wordcount: '341'
+ht-degree: 55%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 57%
          + [계산된 지표로 데이터 분석 수준을 한 차원 끌어올리기](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + 프로젝트 선별 및 공유 {#curate-and-share-projects}
          + [보기 전용 공유 기능 사용](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [분석 인사이트 잠금 해제, 주석의 기능 활용](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + 팁 및 요령 {#tips-and-tricks}
          + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags - 개인 비서](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
