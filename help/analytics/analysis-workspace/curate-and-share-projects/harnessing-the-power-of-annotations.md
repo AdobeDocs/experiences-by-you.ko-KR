@@ -9,7 +9,7 @@ duration: 72000
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15331
 thumbnail: KT-15331.jpeg
-source-git-commit: 5cb5f529de40637d37e04288af5971547a6a81de
+source-git-commit: 41ca454dc8526d42848033ef30036e200b8adc99
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
@@ -84,4 +84,3 @@ ht-degree: 1%
 ![토마스 헤드샷](assets/thomas-headshot.png)
 
 Thomas Edward Buckley, Miles &amp; More(Lufthansa Group) Data Warehouse 및 Business Intelligence 관리자
-
