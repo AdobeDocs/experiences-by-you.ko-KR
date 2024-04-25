@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
-source-git-commit: aff0b385ce3ba9c31245e26f0b14cc201ea57fb9
+source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 96%
@@ -85,3 +85,4 @@ _경영진은 월별 Excel 차트에 의존하거나 세분화된 데이터에�
 **Gitai Ben-Ammi**, Concentrix Catalyst 수석 컨설턴트
 
 [!DNL Adobe Analytics] 챔피언
+
