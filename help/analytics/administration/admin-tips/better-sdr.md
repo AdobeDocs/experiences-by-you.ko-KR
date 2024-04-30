@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # 데이터 문화 구축 및 더 나은 솔루션 디자인 참조
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 ***미리보기 대시보드***
 
 1. 단계 맵 을 안내서로 사용하여 목업 대시보드를 만듭니다.
-1. 실행 요약 대시보드와 같은 전체 보기 및 각 단계 흐름에 대한 대시보드가 있어야 합니다.
+1. 다음과 같은 전반적인 보기가 있어야 합니다. [실행 요약 대시보드](driving-success-with-executive-summary-dashboards.md), 각 유입경로에 대한 대시보드
 1. 제품 성능이나 콘텐츠 성능과 같이 사이트나 앱에 특정한 기능도 있습니다.
 1. 관련 이해 당사자에게 배포하고 디자인에 대한 피드백을 받습니다.
 1. 요청된 업데이트를 수행하고 새 지표 또는 차원이 필요한 경우 SDR에 추가합니다.
@@ -112,4 +112,3 @@ ht-degree: 0%
 Gitai Ben-Ammi, Accenture 비즈니스 아키텍처 담당 부사장
 
 Adobe Analytics 챔피언
-
