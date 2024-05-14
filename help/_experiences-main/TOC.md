@@ -2,10 +2,10 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: Adobe 고객 생성 콘텐츠
 breadcrumb-title: 내가 만든 경험
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 54%
+source-wordcount: '358'
+ht-degree: 53%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 54%
          + [경영진 요약 대시보드로 성공 촉진](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [운영 대시보드 만들기](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [데이터 문화 구축 및 더 나은 솔루션 디자인 참조](../analytics/administration/admin-tips/better-sdr.md)
+   + 구현 {#implementation}
+      + [Web SDK 구현에 대한 전략적 안내서](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] 귀하가 {#campaign}
    + [개요](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
