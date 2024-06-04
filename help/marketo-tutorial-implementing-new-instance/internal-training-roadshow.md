@@ -4,11 +4,12 @@ description: 에 대한 설명서 및 변경 로그를 만들고 유지 관리�
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: f587cf8a54c18017e4c39cffb7496c9c375cf3f7
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%

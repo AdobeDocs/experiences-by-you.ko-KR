@@ -4,10 +4,11 @@ description: Adobe Marketo Engage 내의 기본 대화형 참여 채널인 Adobe
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 4ac24e1297287adbd6832030fda5590b696e45ed
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%

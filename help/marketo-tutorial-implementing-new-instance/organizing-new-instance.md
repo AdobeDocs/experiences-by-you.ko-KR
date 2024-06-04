@@ -4,11 +4,12 @@ description: Marketo Engage 인스턴스 내에 좋은 조직을 설정하여 �
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 849a0022ea3a64ad964c9d2fc368b4b79b9c0cfa
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
