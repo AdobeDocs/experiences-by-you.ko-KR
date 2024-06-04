@@ -2,9 +2,9 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: 고객 생성 컨텐츠 Adobe
 breadcrumb-title: 내가 만든 경험
-source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
+source-git-commit: fdff1bbb525abf98e8923d6bff327470e09b32a0
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '367'
 ht-degree: 5%
 
 ---
@@ -91,6 +91,7 @@ ht-degree: 5%
    + [개요](/help/marketo/overview.md)
    + 기본 사항 {#fundamentals}
       + [UI 탐색](/help/marketo/fundamentals/ui-navigation.md)
+      + [새 인스턴스 구현을 위한 팁과 요령](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
       + [상속된 인스턴스 감사 - 자습서](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + 프로그램 및 캠페인 {#programs-and-campaigns}
       + [이메일 프로그램](/help/marketo/programs/email-programs.md)
