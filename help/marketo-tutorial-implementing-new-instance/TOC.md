@@ -2,15 +2,15 @@
 user-guide-title: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
 user-guide-description: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
 breadcrumb-title: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-engage/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
@@ -28,3 +28,4 @@ ht-degree: 2%
 + [Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인](./designing-omnichannel-conversational-marketing.md)
 + [인스턴스 거버넌스 및 설명서 시작하기](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
++ [[!DNL Marketo Engage] 귀하가](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)

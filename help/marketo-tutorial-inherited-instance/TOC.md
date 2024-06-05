@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 3f0c335cc1660e7fbafd46dc372d3bab65eff763
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 2%
 
 ---
@@ -25,5 +25,5 @@ ht-degree: 2%
 + [마케팅 기술 스택을 시각적으로 매핑](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [프로그램 출시 전 품질 보증 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
-
++ [[!DNL Marketo Engage] 귀하가](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
 
