@@ -1,15 +1,15 @@
 ---
-title: 귀하가 제공한 경험
+title: 내가 만든 경험
 description: 동료 Adobe 고객으로부터 Experience Cloud 애플리케이션 및 기능을 사용하는 방법에 대해 알아보십시오.
 role: User, Developer, Admin, Data Architect
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 10bf432c85cabe2f131aad05da42b5b1c0af467f
+source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 13%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 13%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 팁 및 요령" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -77,5 +77,6 @@ ht-degree: 13%
 
 * [Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/)
 * [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/)
-* [Experience Cloud 자습서](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [Experience Cloud 자습서](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)
 * [business.adobe.com](https://business.adobe.com)
+

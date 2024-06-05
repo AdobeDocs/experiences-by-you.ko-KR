@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
+source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
 
 ---
-
 
 # 기본 CRM 커넥터의 필드 동기화
 
@@ -190,3 +190,4 @@ Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 
 {{peter-livadas}}
 
 {{amy-chiu}}
+
