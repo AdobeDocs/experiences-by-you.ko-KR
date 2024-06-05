@@ -8,13 +8,13 @@ solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
+source-git-commit: 80553c5127afda315e97183e0d3b160871352183
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
 
 ---
-
 
 # Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인
 
@@ -119,7 +119,7 @@ Sara가 대화 흐름 매핑에서 대화 상자 구성 및 Dynamic Chat 및 Mar
 
 #### 단계 1
 
-지속적인 캠페인 사용을 위해 &quot;이벤트 등록&quot; 대화 상자용 템플릿을 빌드합니다.
+1. 지속적인 캠페인 사용을 위해 &quot;이벤트 등록&quot; 대화 상자용 템플릿을 빌드합니다.
 
 #### 단계 2
 
