@@ -2,13 +2,13 @@
 user-guide-title: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
 user-guide-description: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
 breadcrumb-title: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-engage/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: c4c4ff3c3456ea48fbd144ac8ef5d509a9bb0714
+source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%

@@ -2,9 +2,9 @@
 user-guide-title: 내가 만든 경험
 user-guide-description: 고객 생성 컨텐츠 Adobe
 breadcrumb-title: 내가 만든 경험
-source-git-commit: c4c4ff3c3456ea48fbd144ac8ef5d509a9bb0714
+source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '367'
 ht-degree: 5%
 
 ---
@@ -99,4 +99,3 @@ ht-degree: 5%
    + 보고 및 분석 {#reporting-and-analytics}
       + [보고 및 분석](/help/marketo/reporting/reporting-and-analytics.md)
 
-experiences-by-you/marketo-engage-by-you/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
