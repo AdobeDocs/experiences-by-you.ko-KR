@@ -11,16 +11,16 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # 간편한 문제 해결을 위한 CRM 동기화 오류 기록
 
-로서의 [!DNL Marketo Engage] 관리자, 인스턴스가 CRM과 동기화 상태인지 확인하는 것은 [일상](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (위치 오른쪽 상단에서 찾기 [!DNL Marketo Engage] 인터페이스)는 자주 발생하는 동기화 문제를 찾아 조사하는 곳입니다. 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 pro 팁이 있습니다. [!DNL Adobe] Marketo Champion(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
+로서의 [!DNL Marketo Engage] 관리자, 인스턴스가 CRM과 동기화 상태인지 확인하는 것은 [일상](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. 동안 [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (위치 오른쪽 상단에서 찾기 [!DNL Marketo Engage] 인터페이스)는 자주 발생하는 동기화 문제를 찾아 조사하는 곳입니다. 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 pro 팁이 있습니다. [!DNL Adobe] Marketo Champion(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
 
 ![동기화 오류 탭의 스크린샷](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -42,7 +42,7 @@ CRM 동기화 오류를 기록하여 [!DNL Marketo Engage] 관리자는 CRM 관�
 
 **5단계:** 오류의 영향을 받는 한 사람의 이메일 주소를 메모하십시오. 이렇게 하면 CRM 관리자와 오류를 쉽게 참조하고 논의할 수 있습니다.
 
-**6단계:** [!DNL]에 있는 개인 레코드에 링크 붙여넣기 [!DNL Marketo Engage]] 및 [!UICONTROL CRM 리드/연락처] 그 사람의 기록.
+**6단계:** 의 개인 레코드에 대한 링크 붙여넣기 [!DNL Marketo Engage] 및 [!UICONTROL CRM 리드/연락처] 그 사람의 기록.
 
 **7단계:** 마지막 열에 오류의 실제 텍스트를 붙여넣습니다.
 
