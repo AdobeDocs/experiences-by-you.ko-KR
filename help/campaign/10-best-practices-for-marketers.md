@@ -1,19 +1,19 @@
 ---
-title: 마케터를 위한  [!DNL Adobe] [!DNL Campaign] 성공 모범 사례 10가지
+title: 에 대한 10가지 모범 사례 [!DNL Adobe] [!DNL Campaign] 마케터를 위한 성공
 description: 도움이 되는 10가지 모범 사례에 대해 알아봅니다. [!DNL Adobe] [!DNL Campaign] 실무자는 디지털 소비자 전환과 더 나은 고객 경험을 제공하고 가속화합니다.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 80%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 고객과 마찬가지로 캠페인 관리자에게도 매일 따를 일정이 있습니다. 캠페인을 보내고 오케스트레이션하는 시점이 이 리듬에 맞아야 합니다. 그렇지 않은 경우에는 [보낸 메일의 85%가 열리지 않으며 보낸 메일의 98%가 클릭스루로 이어지지 않습니다](https://www.validity.com/resource-center/state-of-email-2021/).
 
-예를 들어 고객이 아침에 전화기로 좋은 세일이 있는지 확인하면 문자로 프로모션을 보내는 방안을 고려해 보세요. 밤에 다음에 유행할 제품을 찾아보는 고객에게는 후속 이메일로 무료 배송 프로모션 코드를 보내는 것도 생각해 보세요. [!DNL]에서 열 지도 도구를 사용하는 것도 중요합니다 [!DNL Campaign]] 워크플로우와 전송이 실행되는 시기를 추적합니다. 여러 브랜드 간의 커뮤니케이션을 조정하고 촉진하는 일은 어려울 수 있습니다. [이메일의 리듬, 주기, 시점을 계속 지켜보고 파악하는 일](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ko)[!DNL Campaign]은 메시지와 인스턴스의 전반적인 안정성과 위력에 매우 중요합니다.
+예를 들어 고객이 아침에 전화기로 좋은 세일이 있는지 확인하면 문자로 프로모션을 보내는 방안을 고려해 보세요. 밤에 다음에 유행할 제품을 찾아보는 고객에게는 후속 이메일로 무료 배송 프로모션 코드를 보내는 것도 생각해 보세요. [!DNL]에서 열 지도 도구를 사용하는 것도 중요합니다 [!DNL Campaign]] 워크플로우와 전송이 실행되는 시기를 추적합니다. 여러 브랜드 간의 커뮤니케이션을 조정하고 촉진하는 일은 어려울 수 있습니다. [이메일의 리듬, 케이던스 및 타이밍을 주시하고 알기](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ko) 는 메시지 및 의 전반적인 안정성과 강도에 매우 유용합니다. [!DNL Campaign] 인스턴스.
 
 ## 4. 필요한 경우 개인화 사용
 
