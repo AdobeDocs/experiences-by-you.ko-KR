@@ -1,7 +1,7 @@
 ---
-user-guide-title: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
-user-guide-description: 튜토리얼 - 새로운 기능을 구현하기 위한 팁과 요령 [!DNL Marketo Engage] 인스턴스
-breadcrumb-title: 새 를 구현하기 위한 팁과 트릭 [!DNL Marketo Engage] 인스턴스
+user-guide-title: 자습서 - 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
+user-guide-description: 자습서 - 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
+breadcrumb-title: 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# 새 를 구현하기 위한 팁과 트릭 [!DNL Marketo Engage] 인스턴스 {#implementing-new-instance}
+# 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령 {#implementing-new-instance}
 
 + [자습서 - 개요](./overview.md)
 + [Marketo Engage 구현을 위한 이해 당사자 관리](./managing-stakeholder-communications.md)
@@ -28,4 +28,4 @@ ht-degree: 2%
 + [Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인](./designing-omnichannel-conversational-marketing.md)
 + [인스턴스 거버넌스 및 설명서 시작하기](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
-+ [[!DNL Marketo Engage] 귀하가](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ 귀하가 [[!DNL Marketo Engage] 제공](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)

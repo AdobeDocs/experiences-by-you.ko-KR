@@ -13,7 +13,7 @@ solution: Marketo Engage
 exl-id: 6bd2433a-ec79-4ce6-873c-4c897c4b9f82
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '56'
 ht-degree: 25%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 25%
 * [참여 프로그램 이해 설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
 동료로부터 참여 프로그램 사용 방법에 대해 알아보십시오.
-* [Expert Customer 블로그 게시물: 참여 프로그램](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+* [전문 고객 블로그 게시물: 참여 프로그램](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

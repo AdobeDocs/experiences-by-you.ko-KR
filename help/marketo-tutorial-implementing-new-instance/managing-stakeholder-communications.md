@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engage 구현을 위한 이해 당사자 관리
 
@@ -31,9 +31,9 @@ Marketo Engage 구현은 MarTech 스택을 성장시키는 중요한 순간입�
 | --- | --- | --- |
 | 어떤 관련자에 초점을 맞추어야 하는가? | <ul><li>영업 담당자</li><li>CMO</li><li>CEO</li> |  |
 | 주요(마케팅/판매/비즈니스) 목표는 무엇입니까? | <ol><li>고객 및 잠재 고객과의 소통 강화</li><li>운영 규모를 확대합니다.</li> | <ul><li>[마케팅 목표 및 전략 개발에 대해 알아보기](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target="_blank}</li><ul> |
-| Marketo Engage은 이러한 목표를 달성하는 데 어떻게 도움이 됩니까? | <ol><li>토큰, 다이내믹 콘텐츠 등을 사용하여 개인화된 프로그램을 만들 수 있습니다</li><li> Dell은 잠재 고객 및 고객과 장기적인 관계를 유지할 수 있는 육성 프로그램을 제작할 수 있습니다</li><li>마케팅 프로그램을 자동화하여 각 프로그램에 투자하는 인원수를 줄여 더 많은 사람들에게 다가갈 수 있습니다.</li></ol> | <ul><li>[자동화가 모든 마케팅 전략에 필수적인 이유](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target="_blank}</li><li>[마케팅 자동화 로드맵 구축을 위한 팁](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target="_blank}</li></ul> |
-| 마케팅 운영 팀/주주가 알아야 하는 온보딩 및 구현 중 예상되는 잠재적인 장애/장애물은 무엇입니까? | <ol><li>CRM의 많은 사용자 지정 개체</li><li>명확하게 정의된 리드/개인 점수 책정 전략 없음</li><li>더티 데이터</li><li>비현실적인 일정 및/또는 관리로부터의 기대치</li><li>리소스를 가져오는 경쟁 프로젝트</li></ul> | <ul><li>[새 구현 팁 Marketo Engage](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target="_blank}</li><li>[Marketo을 처음 구현하고 관리하기 위한 신입 직원 팁](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target="_blank}</li><li>[Adobe Marketo Engage 온보딩을 위한 피어의 상위 10가지 팁](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target="_blank}</li></ul> |
-| 어떤 리소스/지원이 필요하며, 조직의 누구/누구로부터 지원받습니까? | <ol><li>CRM 관리자와 협력</li><li>영업 리더와의 정기적인 커뮤니케이션을 통해 리드/개인 점수 책정 전략 결정</li><li>관리자/경영진과의 정기적인 회의 및 지원</li><li>경영진의 우선 순위 및 전략에 대한 지침</li><li>IT, SOP(표준 운영 절차), 재무 등의 지원</li></ul> | <ul><li>[Marketo 성공을 위한 범용 키: 거버넌스 및 지속적인 교육](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target="_blank}</li></ul> |
+| Marketo Engage은 이러한 목표를 달성하는 데 어떻게 도움이 됩니까? | <ol><li>토큰, 다이내믹 콘텐츠 등을 사용하여 개인화된 프로그램을 만들 수 있습니다</li><li> Dell은 잠재 고객 및 고객과 장기적인 관계를 유지할 수 있는 육성 프로그램을 제작할 수 있습니다</li><li>마케팅 프로그램을 자동화하여 각 프로그램에 투자하는 인원수를 줄여 더 많은 사람들에게 다가갈 수 있습니다.</li></ol> | <ul><li>[자동화가 마케팅 전략에 필수적인 이유](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target="_blank}</li><li>[마케팅 자동화 로드맵 구축을 위한 팁](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target="_blank}</li></ul> |
+| 마케팅 운영 팀/주주가 알아야 하는 온보딩 및 구현 중 예상되는 잠재적인 장애/장애물은 무엇입니까? | <ol><li>CRM의 많은 사용자 지정 개체</li><li>명확하게 정의된 리드/개인 점수 책정 전략 없음</li><li>더티 데이터</li><li>비현실적인 일정 및/또는 관리로부터의 기대치</li><li>리소스를 가져오는 경쟁 프로젝트</li></ul> | <ul><li>[새 구현 팁 Marketo Engage](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target="_blank}</li><li>[Marketo을 처음 구현하고 관리하기 위한 팁](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target="_blank}</li><li>[Adobe Marketo Engage 온보딩을 위한 피어의 상위 10개 팁](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target="_blank}</li></ul> |
+| 어떤 리소스/지원이 필요하며, 조직의 누구/누구로부터 지원받습니까? | <ol><li>CRM 관리자와 협력</li><li>영업 리더와의 정기적인 커뮤니케이션을 통해 리드/개인 점수 책정 전략 결정</li><li>관리자/경영진과의 정기적인 회의 및 지원</li><li>경영진의 우선 순위 및 전략에 대한 지침</li><li>IT, SOP(표준 운영 절차), 재무 등의 지원</li></ul> | <ul><li>[Marketo 성공에 대한 유니버설 키: 거버넌스 및 진행 중인 교육](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target="_blank}</li></ul> |
 
 ### 작업 2 - 주주에게 타기팅된 커뮤니케이션 제공
 
@@ -47,20 +47,20 @@ Marketo Engage 구현은 MarTech 스택을 성장시키는 중요한 순간입�
 <th>샘플 이메일</th>
 </tr>
 <tr>
-<td>귀중하 <i>[NAME]</i>,
+<td><i>[NAME]</i>님,
 
-좋은 소식! 이번 주부터 Marketo Engage 온보딩을 시작했습니다. 이 마케팅 자동화 기술을 MarTech 스택에 통합하면 다음과 같은 효과를 얻을 수 있습니다. <i>[회사 이름]</i> 완전히 새로운 수준으로. 에 집중하여 <i>[마케팅 목표]</i>, Marketo Engage을 통해 고객을 확보, 육성, 확장 및 유지하기 위한 크로스 채널 캠페인을 통합 및 실행할 수 있습니다.
+좋은 소식! 이번 주부터 Marketo Engage 온보딩을 시작했습니다. 이 마케팅 자동화 기술을 MarTech 스택에 통합하면 <i>[회사 이름]</i>이 완전히 새로운 수준으로 변경됩니다. <i>[마케팅 목표]</i>에 초점을 맞춘 Marketo Engage을 통해 고객을 확보, 육성, 확장 및 유지하기 위해 크로스 채널 캠페인을 통합 및 실행할 수 있습니다.
 
-이 구현 중 우선 순위는 다음과 같습니다. <i>[온보딩 우선 순위]</i>. 매끄러운 프로세스가 예상되지만 을(를) 지적하고자 합니다.<i>[잠재적 장애물]</i> 약간의 추가 시간과 투자가 필요할 수 있습니다. 이 프로세스를 가능한 한 효율적이고 효과적으로 수행하기 위해, 우리 팀은 감사할 것입니다 <i>[주주 요구]</i>. 이 노력에 대한 귀하의 지속적인 지지와 투자에 감사드립니다 <i>[회사 이름]</i>의 성공.
+이 구현 중 우선 순위는 <i>[온보딩 우선 순위]</i>입니다. 원활한 프로세스가 예상되지만 ,<i>[잠재적인 장애 요소]</i>에는 추가 시간과 투자가 필요할 수 있습니다. 이 프로세스를 최대한 효율적이고 효과적으로 수행하기 위해 내 팀은 <i>[ASSUES OF SHAREHOLDERS]</i>에게 감사할 것입니다. 이 노력에 대한 지속적인 지원과 <i>[회사 이름]</i>의 성공에 대한 투자에 감사드립니다.
 
 우수 사례,
-<i>[사용자 이름]</i></td>
+<i>[내 이름]</i></td>
 
-<td>귀중하 <i>[영업 담당자]</i>,
+<td><i>[Sales Executive]</i>님께,
 
-좋은 소식! 이번 주부터 Marketo Engagement Platform 온보딩을 시작했습니다. 이 마케팅 자동화 기술을 MarTech 스택에 통합하면 다음과 같은 효과를 얻을 수 있습니다. <i>[우리 회사]</i> 완전히 새로운 수준으로. 에 집중하여 <i>[판매 담당자를 더 많이, 더 높은 품질의 리드를 제공하기 위한 마케팅 활동 확대]</i>, Marketo Engage을 통해 <i>[많은 프로세스를 자동화하고 맞춤형 잠재 고객/개인 점수 구조를 생성하며 잠재 고객을 육성하여 영업 팀에 합류할 때 구매할 수 있도록 지원합니다.]</i>.
+좋은 소식! 이번 주부터 Marketo Engagement Platform 온보딩을 시작했습니다. 이 마케팅 자동화 기술을 MarTech 스택에 통합하면 <i>[회사]</i>가 완전히 새로운 수준으로 올라가게 됩니다. <i>[영업 담당자를 더 많이, 더 높은 품질의 잠재 고객을 확보하기 위한 마케팅 활동 확장]</i>에 집중함으로써, Marketo Engage은 <i>[많은 프로세스를 자동화하고, 사용자 정의 잠재 고객/개인 점수 구조를 만들고, 잠재 고객이 영업 팀에 합류할 때 구매할 준비가 되었는지 확인하기 위해 잠재 고객을 육성할 수 있도록 해 줍니다]</i>.
 
-이 구현 중 우선 순위는 다음과 같습니다. <i>[crm 통합 및 리드/고객 육성 프로그램 구축]</i>. 순조로운 과정을 기대하는 동안 <i>[잠재적인 문제(예: 데이터 위생 강화 및 명확한 리드 점수 책정 전략 부족)]</i> 약간의 추가 시간과 투자가 필요할 수 있습니다. 이 프로세스를 가능한 한 효율적이고 효과적으로 수행하기 위해, 우리 팀은 감사할 것입니다 <i>[포괄적인 리드/개인 점수 매기기 전략을 수립하기 위해 영업 리더팀에서 데이터를 정리하는 데 도움이 되는 영업 활동 참여 지원]</i>. 이 노력에 대한 귀하의 지속적인 지지와 투자에 감사드립니다 <i>[우리의 사업]</i>의 성공.
+이 구현 중 우선 순위는 <i>[CRM 통합 및 리드/고객 육성 프로그램 구축]</i>입니다. 순조로운 프로세스를 기대하는 동안 <i>[잠재적인 문제(예: 데이터 위생 향상 및 명확한 리드 점수 책정 전략 부족]</i>)가 추가로 시간 및 투자가 필요할 수 있습니다. 이 프로세스를 최대한 효율적이고 효과적으로 수행하기 위해, 저희 팀에서는 <i>[영업 리더십 팀에서 데이터를 정리하여 종합적인 리드/개인 점수 매기기 전략을 수립할 수 있도록 영업 업무 참여에 대한 지원을 해 주셔서 감사합니다]</i>. 이 노력에 대한 지속적인 지원과 <i>[비즈니스]</i>의 성공에 대한 투자에 감사드립니다.
 
 우수 사례,
 <i>[이름/마케팅 작업]</i>
@@ -82,7 +82,7 @@ Marketo Engage의 효과를 입증할 수 있는 빠른 성공 또는 파일럿 
 </tr>
 <tr>
 <td>
-귀중하 <i>[NAME]</i>,
+<i>[NAME]</i>님,
 
 Marketo Engage 구현에 관한 환상적인 소식을 전하게 되어 기쁩니다! 협력적인 노력과 전략적 접근 덕분에, 우리는 상당한 초기 성공을 거두었고, 이는 Marketo Engage이 우리 조직에 엄청난 가치를 가져다 준다고 생각합니다.
 
@@ -90,36 +90,36 @@ Marketo Engage 구현에 관한 환상적인 소식을 전하게 되어 기쁩�
 
 1. 타겟팅된 이메일 캠페인 성공
    * 프로그램 이름: <i>[캠페인 이름]</i>
-   * 목표: <i>[웨비나 등록 증가, 새 제품 홍보 등과 같은 캠페인 목표를 간략하게 설명합니다.]</i>
+   * 목표: <i>[웨비나 등록 증가, 새 제품 홍보 등 캠페인 목표를 간단히 설명합니다.]</i>
    * 결과:
    * 열람률: <i>[백분율]</i>
    * 클릭스루 비율: <i>[백분율]</i>
-   * 전환율: <i>[달성한 비율 또는 특정 결과]</i>
-   * 주요 학습: <i>[캠페인에서 얻은 통찰력 또는 학습 내용 공유]</i>
+   * 전환율: <i>[백분율 또는 특정 결과 달성]</i>
+   * 주요 학습: <i>[캠페인에서 얻은 통찰력이나 교훈을 공유합니다]</i>
 2. 능률적인 리드 육성 워크플로
    * 프로그램 이름: <i>[워크플로 이름]</i>
-   * 목표: <i>[영업 단계를 통한 잠재 고객 양성, 후속 작업 자동화 등 워크플로의 목적을 간략하게 설명합니다.]</i>
+   * 목표: <i>[워크플로우의 목적을 간략하게 설명합니다(예: 판매 단계를 통한 리드 육성, 후속 작업 자동화 등)]</i>
    * 결과:
-   * 리드 참여 증가: <i>[더 높은 응답률, 더 빠른 리드 진행 등 리드 참여 지표의 개선 사항을 설명합니다.]</i>
-   * 시간 절약: <i>[자동화를 통해 얻을 수 있는 시간 절약형 혜택 언급]</i>
-   * 주요 학습: <i>[워크플로우 최적화를 통해 얻은 통찰력 공유]</i>
+   * 잠재 고객 참여 증가: <i>[더 높은 응답률, 더 빠른 잠재 고객 진행 등 잠재 고객 참여 지표의 개선 사항을 설명합니다.]</i>
+   * 시간 절약: <i>[자동화를 통해 얻은 시간 절약 혜택을 모두 언급하십시오]</i>
+   * 주요 학습: <i>[워크플로우 최적화를 통해 얻은 통찰력을 공유합니다]</i>
 
 이러한 성공은 타기팅된 참여와 효율적인 자동화를 추진하는 데 있어 Marketo Engage의 헌신과 역량의 증거입니다. 그들은 우리의 노력이 이미 우리의 마케팅 노력에 끼치고 있는 긍정적인 영향을 보여줍니다.
 
 이러한 성과를 축하하고 Marketo Engage을 더욱 활용하여 전략적 목표를 달성할 수 있도록 여러분의 지속적인 지원을 기대합니다.
 
 우수 사례,
-<i>[사용자 이름]</i> </td>
+<i>[내 이름]</i> </td>
 
-<td>귀중하 <i>[NAME]</i>,
+<td><i>[NAME]</i>님,
 
 Marketo Engage 구현에 관한 흥미로운 소식을 전하게 되어 기쁩니다! 우리 팀은 이미 인상적인 결과를 낳은 목표 전략을 짜는 데 열심히 노력해 왔다. 이러한 조기 승리는 사용자 참여를 유도하고 리드 육성 프로세스를 간소화하는 Marketo Engage의 힘과 잠재력을 보여줍니다.
 
 최근 성공의 주요 내용은 다음과 같습니다.
 
-1. 타깃팅된 이메일 캠페인 성공: 최근 이메일 캠페인 <i>[새 제품 출시 홍보]</i>Marketo Engage과 함께 배포된 은(는) 놀라운 성과를 달성했습니다 <i>[50% 열람율 및 10% 전환율]</i>. 이 캠페인은 고객을 효과적으로 참여시켰을 뿐만 아니라 전체 리드 생성 목표에 크게 기여했습니다.
+1. 목표 이메일 캠페인 성공: Marketo Engage과 함께 배포된 최근 이메일 캠페인 <i>[새 제품 출시 홍보]</i>이(가) <i>[열람율 50% 및 전환율 10%로 놀라운 성과를 달성했습니다]</i>. 이 캠페인은 고객을 효과적으로 참여시켰을 뿐만 아니라 전체 리드 생성 목표에 크게 기여했습니다.
 
-2. 자동화된 워크플로 효율성: Marketo Engage의 자동화 기능을 활용하여 선두 육성 워크플로를 간소화했으며 그 결과 다음과 같은 결과가 발생합니다. <i>[응답 시간이 3일 단축되고 리드 전환율이 10% 증가함]</i>. 이러한 효율성 향상은 우리의 수익과 고객 만족에 실질적인 영향을 미쳤습니다.
+2. 자동화된 워크플로 효율성: Marketo Engage의 자동화 기능을 활용하여 리드 육성 워크플로를 간소화함으로써 <i>[3일 동안 응답 시간을 줄이고 리드 전환율을 10% 높였습니다]</i>. 이러한 효율성 향상은 우리의 수익과 고객 만족에 실질적인 영향을 미쳤습니다.
 
 이러한 성과는 Marketo Engage이 조직에 제공하는 가치와 조직의 기능을 계속 탐색함에 따라 더 큰 성공을 거둘 수 있는 잠재력을 강조합니다.
 
@@ -128,7 +128,7 @@ Marketo Engage 구현에 관한 흥미로운 소식을 전하게 되어 기쁩�
 Marketo Engage 구현에 대한 지속적인 파트너십에 감사드립니다.
 
 우수 사례,
-<i>[사용자 이름]</i>
+<i>[내 이름]</i>
 </td> 
 </tr>
 </table>
@@ -146,31 +146,31 @@ Marketo Engage 구현에 대한 지속적인 파트너십에 감사드립니다.
 </tr>
 <tr>
 <td>
-귀중하 <i>[NAME]</i>,
+<i>[NAME]</i>님,
 
 몇 주 전에 우리 팀은 Marketo Engage 플랫폼을 구현하는 프로세스를 시작했습니다. 진행 상황에 대한 업데이트와 더불어 다음 단계 및 귀하의 팀에 대한 의미에 대해 간략히 살펴보고자 했습니다.
 
 <i>[관련 프로젝트 마일스톤 및 작업 상태를 나열합니다. 필요에 따라 진행률을 업데이트합니다.]</i>
 
-진심으로 감사 드립니다 <i>[팀]</i> 에 대한 그들의 도움을 <i>[과제]</i>. 다음 단계를 적시에 완료하기 위해서는 <i>[주주의 요구]</i>.
+<i>[도전]</i>을 도와주신 <i>[팀]</i>에게 진심으로 감사드립니다. 다음 단계를 적시에 완료하려면 <i>[주주의 요청]</i>이 필요합니다.
 
-이 노력에 대한 귀하의 지속적인 지지와 투자에 감사드립니다 <i>[회사 이름]</i>의 성공.
+이 노력에 대한 지속적인 지원과 <i>[회사 이름]</i>의 성공에 대한 투자에 감사드립니다.
 
 우수 사례,
-<i>[사용자 이름]</i> </td>
+<i>[내 이름]</i> </td>
 
-<td>귀중하 <i>[영업 담당자]</i>,
+<td><i>[Sales Executive]</i>님께,
 
 몇 주 전에 우리 팀은 Marketo Engage을 구현하는 프로세스를 시작했습니다. 진행 상황에 대한 업데이트와 더불어 다음 단계 및 귀하와 귀하의 팀에 어떤 영향을 미칠 수 있는지 간략히 살펴보고자 했습니다.
 
-잠재 고객/개인 점수 지정 전략 정의 - <i>[완료/진행 중/시작되지 않음]</i>
+잠재 고객/개인 점수 매기기 전략 정의 - <i>[완료/진행 중/시작되지 않음]</i>
 CRM Marketo Engage 필드 매핑 - <i>[완료/진행 중/시작되지 않음]</i>
 Salesforce를 Marketo Engage과 통합 - <i>[완료/진행 중/시작되지 않음]</i>
 첫 번째 Marketo Engage 프로그램 빌드 - <i>[완료/진행 중/시작되지 않음]</i>
 
-진심으로 감사 드립니다 [영업 운영 팀] 에 대한 그들의 도움을 [공동 작업(예: Salesforce-Marketo Engage 필드 매핑)]. 앞으로의 우선 순위는 리드 채점 전략을 마무리하고 Marketo에서 리드 채점 전략을 구축하고 CRM과 Marketo Engage을 통합하는 것입니다.
+[공동 작업(예: Salesforce-Marketo Engage 필드 매핑])에 도움을 주신 [영업 운영 팀]에게 진심으로 감사드립니다. 앞으로의 우선 순위는 리드 채점 전략을 마무리하고 Marketo에서 리드 채점 전략을 구축하고 CRM과 Marketo Engage을 통합하는 것입니다.
 
-이 노력에 대한 귀하의 지속적인 지지와 투자에 감사드립니다 <i>[우리 회사]</i> 성공.
+이 노력에 대한 지속적인 지원과 <i>[우리 회사]</i>의 성공에 대한 투자에 감사드립니다.
 
 우수 사례,
 <i>[이름/마케팅 작업]</i>
@@ -182,7 +182,7 @@ Salesforce를 Marketo Engage과 통합 - <i>[완료/진행 중/시작되지 않�
 
 ## 다음은 무엇입니까?
 
-다운로드 및 사용 [온보딩 내부 커뮤니케이션 안내서 및 템플릿](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} 이해 당사자를 위한 정기 업데이트 및 보고 진행 상황 작성. 주요 지표, 성과 및 예정된 마일스톤을 포함시켜 정보를 얻고 참여하도록 하십시오.
+[온보딩 내부 커뮤니케이션 안내서 및 템플릿](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank}을(를) 다운로드하여 사용하여 이해 당사자에 대한 정기 업데이트를 작성하고 진행 상황을 보고합니다. 주요 지표, 성과 및 예정된 마일스톤을 포함시켜 정보를 얻고 참여하도록 하십시오.
 
 ### 작성자
 

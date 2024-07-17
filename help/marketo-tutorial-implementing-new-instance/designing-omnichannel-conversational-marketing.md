@@ -26,7 +26,7 @@ ht-degree: 0%
 
 방문자는 이유가 있어서 웹 사이트를 탐색합니다. 제품 또는 서비스에 대한 콘텐츠를 검색하거나 영업 담당자에게 문의할 연락처 정보를 찾고 있을 수 있습니다. 추가 제품 정보를 찾는 고객이 될 수도 있습니다. 채팅을 통해 웹 사이트 방문자가 영업 팀에 문의할 준비가 되었는지 셀프 서비스를 제공하고 자격을 부여할 수 있습니다.
 
-Sara Barriuso는 Dynamic Chat을 구현할 때 Marketo Engage과 [미리 빌드된 활동 트리거](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} Marketo Engage 프로그램을 활성화하거나 그 반대로 활성화할 수 있습니다. 그녀는 세 가지 대상 세그먼트를 염두에 두고 대화 참여 전략을 개발했습니다.
+Sara Barriuso가 Dynamic Chat을 구현했을 때, Sara Barriuso는 Marketo Engage 및 Marketo Engage 프로그램을 활성화하는 [미리 빌드된 활동 트리거](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}와의 매끄러운 통합에 이끌렸습니다. 그녀는 세 가지 대상 세그먼트를 염두에 두고 대화 참여 전략을 개발했습니다.
 
 1. 알 수 없는 잠재 고객: 새로운 잠재 고객을 생성하기 위해 미리 데모 호출을 제공합니다.
 2. 알려진 리드/고객: 방문자의 콘텐츠 탐색 시간을 연장하고 데모 호출을 제공하여 상향 판매 및 교차 판매 기회를 생성합니다.
@@ -65,7 +65,7 @@ Sara가 대화 흐름 매핑에서 대화 상자 구성 및 Dynamic Chat 및 Mar
 
 1. &quot;Audience&quot;에서 &quot;Target&quot;에 웹 페이지 URL을 추가하여 대화 상자가 표시될 위치를 나타냅니다.
 2. &quot;설정&quot;에서 캠페인 이름, 설명, 우선 순위 및 언어를 추가합니다.
-3. &quot;게시&quot; 클릭
+3. &quot;Publish&quot; 클릭
 
 >[!TAB Marketo Engage]
 
@@ -93,12 +93,12 @@ Sara가 대화 흐름 매핑에서 대화 상자 구성 및 Dynamic Chat 및 Mar
 >[!TAB Dynamic Chat]
 
 1. &quot;기본 대화 상자&quot;를 복제하고 이름을 변경합니다.
-2. &quot;스트림 디자이너&quot;에서 대화 상자 메시지를 대상 산업에 맞게 조정합니다(하나의 스트림 + 초기 질문만).
+2. &quot;스트림 Designer&quot;에서 대화 상자 메시지를 대상 산업에 맞게 조정합니다(하나의 스트림 + 초기 질문만).
 3. 2-3명이 대화 상자를 테스트하고 피드백을 수집하도록 합니다.
 4. 테스트 링크를 만들고 공유합니다.
 5. &quot;대상&quot;에서 대화 상자가 표시될 웹 페이지 URL을 추가하고 대상을 원하는 산업으로 업데이트합니다.
 6. &quot;설정&quot;에서 캠페인 이름, 설명 우선 순위 및 언어를 추가합니다.
-7. &quot;게시&quot;를 클릭합니다.
+7. &quot;Publish&quot;를 클릭합니다.
 
 >[!TAB Marketo Engage]
 
@@ -126,7 +126,7 @@ Sara가 대화 흐름 매핑에서 대화 상자 구성 및 Dynamic Chat 및 Mar
 1. 템플릿을 복제합니다.
 2. 새 이벤트에 대한 대화 상자 메시지에 텍스트 복사 및 붙여넣기
 3. 이벤트 링크에 사용된 UTM 매개 변수를 업데이트합니다(예: utm_medium=website&amp;utm_source=adobe).
-4. 테스트 링크를 만들고 &quot;게시&quot;를 클릭한 다음 요청자와 공유합니다.
+4. 테스트 링크를 만들고 &quot;Publish&quot;를 클릭한 다음 요청자와 공유합니다.
 5. 동료 검토 및 피드백 적용.
 
 
@@ -157,11 +157,11 @@ Sara가 대화 흐름 매핑에서 대화 상자 구성 및 Dynamic Chat 및 Mar
 >[!TAB Dynamic Chat]
 
 1. 이벤트/웨비나 프로모션 대화 상자를 복제합니다.
-2. 스트림 디자이너에서 사용자가 &quot;예&quot;라고 답한 후 &quot;이전에 이메일 주소를 공유했습니다.&quot;라는 질문 카드를 추가합니다. 이벤트 세부 사항을 위해 이 항목을 유지하시겠습니까?&quot;
+2. 스트림 Designer에서 사용자가 &quot;예&quot;라고 답한 후 &quot;이전에 이메일 주소를 공유했습니다.&quot;라는 질문 카드를 추가합니다. 이벤트 세부 사항을 위해 이 항목을 유지하시겠습니까?&quot;
 3. &quot;예&quot;라고 답변하는 경우 - &quot;이벤트/웨비나 세부 정보가 포함된 이메일에 확인 이메일을 받게 됩니다&quot;라는 메시지 카드를 추가합니다.
 4. &quot;아니요&quot;로 답한 경우 &quot;등록 페이지에서 양식을 작성하십시오&quot;라는 메시지 카드를 추가합니다.
-5. 테스트 링크를 만들고 &quot;게시&quot;를 클릭한 다음 요청자와 공유합니다.
-6. 대상 탭에서 을(를) 추가합니다 [이메일이 비어 있지 않음].
+5. 테스트 링크를 만들고 &quot;Publish&quot;를 클릭한 다음 요청자와 공유합니다.
+6. 대상 탭에서 [전자 메일이 비어 있지 않습니다] 추가
 
 >[!TAB Marketo Engage]
 
@@ -193,7 +193,7 @@ Campaign 컨텐츠 참여 확장 - 구성:
 
 ## 다음은 무엇입니까?
 
-* 에서 대화 흐름 매핑 [스트림 디자이너](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} 또는 순서도를 오프라인으로 설정합니다.
+* [Designer 스트리밍](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} 또는 오프라인 순서도에서 대화 흐름을 매핑합니다.
 * Dynamic Chat에서 기본 다목적 캐치 대화 상자를 만듭니다.
 * Marketo Engage에서 자동화 트리거를 사용하여 캠페인 후 대화 활성화.
 

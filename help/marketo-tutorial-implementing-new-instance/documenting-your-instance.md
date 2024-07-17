@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # 인스턴스 거버넌스 및 설명서 시작하기
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 하지만 거기서 멈추지 않습니다. Marketo Engage 숙련도를 높이기 위해 보충 지원 문서 또는 교육 자료가 필요할 수 있습니다. 이러한 리소스에는 대화형 연습, 액세스 퀴즈 또는 Marketo Engage 내의 허용되는 작업에 대한 지침이 포함될 수 있으므로 조직 내의 모든 Marketo Engage 사용자에게 도움이 됩니다. 포괄적인 거버넌스 가이드를 만들거나 주요 설정 측면을 처음에 문서화하든, 온보딩 중에 결정된 사항을 기록하는 것은 현재 팀과 미래 세대의 새로운 채용을 위한 Marketo Engage을 성공적으로 수행하는 데 핵심적입니다.
 
-이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문가 동료가 제공한 모범 사례를 살펴봅니다 [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} 프로세스를 배치하고 내부 사용자와 관련된 설명서를 유지하는 데 도움이 됩니다.
+이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문가 동료가 제공한 모범 사례를 살펴봅니다. [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank}을(를) 통해 프로세스를 구축하고 내부 사용자와 관련된 문서를 유지할 수 있습니다.
 
 ## 인스턴스 구현 중 변경 사항 및 결정을 문서화하는 것이 중요한 이유
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ## 다음은 무엇입니까?
 
-* 다운로드 [샘플 설명서 및 변경 로그](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) 조직의 요구 사항에 따라 조정할 수 있습니다.
+* [샘플 설명서 및 변경 로그](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx)를 다운로드하고 조직의 필요에 따라 조정하십시오.
 * 조직에서 참조하고 정기적으로 업데이트하기를 원하는 액세스 가능한 플랫폼에 설명서를 저장합니다. 예를 들어 일부 Marketo Engage 챔피언은 Confluence(Atlassian의 설명) 또는 Excel 스프레드시트를 사용합니다.
 * 거버넌스에 대해 만드는 모든 규칙에 이를 적용하고 설명서를 조정하여 시간이 지남에 따라 최신 상태로 유지할 수 있는 소유자가 있는지 확인합니다.
 
