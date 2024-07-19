@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
+source-git-commit: 4ea2f60e2bfa658add920c947f5455fe0572ce04
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
 일반적으로 가장 좋은 방법은 마케팅 목적에 필요한 CRM 필드만 동기화하는 것입니다. 이 연습으로 시작하여 Marketo Engage에 매핑해야 하는 CRM의 필드를 구성하고 처음 CRM 동기화를 올바르게 실행하십시오.
 
 >[!NOTE]
->CRM에 초기 동기화를 시작하기 전에 이미 Marketo Engage에 동등한 사용자 지정 필드가 있는 사용자 지정 필드가 있는 경우 CRM 필드의 Marketo Engage에 새 &quot;복제&quot; 필드가 만들어집니다. 초기 동기화가 완료되면 CRM 필드를 원래 Marketo Engage 필드에 다시 매핑하고 중복 필드를 숨길 수 있지만 [Adobe 고객 지원 센터](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}에 문의해야 합니다. 자세한 내용은 7단계 를 참조하십시오.
+>CRM에 초기 동기화를 시작하기 전에 이미 Marketo Engage에 동등한 사용자 지정 필드가 있는 사용자 지정 필드가 있는 경우 CRM 필드의 Marketo Engage에 새 &quot;복제&quot; 필드가 만들어집니다. 초기 동기화가 완료되면 CRM 필드를 원래 Marketo Engage 필드에 다시 매핑하고 중복 필드를 숨길 수 있지만 [고객 지원 Adobe](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"}에 연락하여 동기화해야 합니다. 자세한 내용은 7단계 를 참조하십시오.
 
 **1단계:** 현재 CRM에서 사용할 수 있는 대략적인 필드 목록을 작성하고 Marketo Engage에 표시할지 여부를 표시합니다.
 
@@ -83,7 +83,7 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
 * 두 시스템에 동일한 필드가 있는 경우 동일한 줄에 해당 필드를 포함하고 데이터 사전 시트의 맨 오른쪽에 있는 &quot;메모&quot; 섹션에서 다시 매핑해야 함을 나타냅니다.
 
 >[!NOTE]
->동기화 필터 필드([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"})를 만들 계획인 경우 | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"})에서 이 단계에 API를 포함시키되 CRM에 필드가 만들어질 때까지 API 이름을 비워 두십시오.
+>동기화 필터 필드([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"})를 만들 계획인 경우 | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"})에서 이 단계에 API를 포함시키되 CRM에 필드가 만들어질 때까지 API 이름을 비워 두십시오.
 
 **5단계:** CRM 관리자와 데이터 사전 검토
 
@@ -97,8 +97,8 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
 **6단계:** 초기 동기화 수행
 
 * Marketo Engage과 동기화하려는 모든 필드에 데이터 사전에 정의된 대로 CRM에서 적절한 권한이 있는지 확인하십시오.
-* ***Marketo Engage과 동기화하지***&#x200B;하려는 모든 필드가 [Marketo 동기화 프로필에서 숨겨져 있는지 확인](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}합니다. 실수로 동기화된 필드를 제거하는 것보다 새 필드를 동기화에 더 늦게 추가하는 것이 훨씬 더 쉽습니다.
-* CRM을 동기화 필터 필드와 연결하시겠습니까? Salesforce에 동기화하는 경우 초기 동기화를 시작하기 전에 필터 기능이 켜져 있는지 확인하려면 Adobe 고객 지원 센터에 문의하십시오.
+* **Marketo Engage과 동기화하지**&#x200B;하려는 모든 필드가 [Marketo 동기화 프로필에서 숨겨져 있는지 확인](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}합니다. 실수로 동기화된 필드를 제거하는 것보다 새 필드를 동기화에 더 늦게 추가하는 것이 훨씬 더 쉽습니다.
+* CRM을 동기화 필터 필드와 연결하시겠습니까? Salesforce에 동기화하는 경우 초기 동기화를 시작하기 전에 Adobe 고객 지원 센터에 문의하여 필터 기능이 켜져 있는지 확인하십시오.
 
 
 **7단계:** Marketo Engage의 필드 관리 섹션 검토
@@ -133,21 +133,21 @@ Marketo Engage과 Salesforce가 함께 판매와 마케팅 데이터를 동기�
 
 +++**비디오에 사용된 링크:**
 
-* [Salesforce 동기화 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
+* [Salesforce 동기화 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync){target="_blank"}
 
-* [Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html){target="_blank"}
+* [Salesforce에 Marketo 필드 추가(Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited){target="_blank"}
 
-* [Salesforce에서 Marketo 사용자 만들기(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html){target="_blank"}
+* [Salesforce에서 Marketo 사용자 만들기(Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited){target="_blank"}
 
-* [Marketo 및 Salesforce(Enterprise/Unlimited) 연결](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html){target="_blank"}
+* [Marketo 및 Salesforce(Enterprise/Unlimited) 연결](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited){target="_blank"}
 
-* [사용자가 Marketo 및 Salesforce 동기화로 진행하기 전에 Salesforce 측에서 연결된 앱을 설정해야 합니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html){target="_blank"}
+* [사용자가 Marketo 및 Salesforce 동기화로 진행하기 전에 Salesforce 측에서 연결된 앱을 설정해야 합니다.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0){target="_blank"}
 
-* [Salesforce 동기화 상태](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html){target="_blank"}
+* [Salesforce 동기화 상태](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status){target="_blank"}
 
-* [필드 숨기기 및 숨기기 취소](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html){target="_blank"}
+* [필드 숨기기 및 숨기기 취소](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field){target="_blank"}
 
-* [자습서: Marketo을 CRM과 동기화하는 방법에 대해 알아보기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [자습서: Marketo을 CRM과 동기화하는 방법에 대해 알아보기](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -159,27 +159,27 @@ Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 
 
 +++**비디오에 사용된 링크:**
 
-* [Microsoft Dynamics 동기화 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html){target="_blank"}
+* [Microsoft Dynamics 동기화 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync){target="_blank"}
 
-* [Marketo 리드 관리 솔루션 다운로드](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html){target="_blank"}
+* [Marketo 리드 관리 솔루션 다운로드](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution){target="_blank"}
 
-* [Microsoft Dynamics용 Marketo 솔루션 업데이트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html){target="_blank"}
+* [Microsoft Dynamics용 Marketo 솔루션 업데이트](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics){target="_blank"}
 
-* [클라이언트 Id 및 앱 등록에 동의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+* [클라이언트 Id 및 앱 등록에 동의](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration)
 
-* [Microsoft Dynamics 동기화 확인](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html){target="_blank"}
+* [Microsoft Dynamics 동기화 확인](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync){target="_blank"}
 
-* [동기화 상태](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html){target="_blank"}
+* [동기화 상태](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status){target="_blank"}
 
-* [Dynamics 유효성 검사 동기화 문제 해결](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html){target="_blank"}
+* [Dynamics 유효성 검사 동기화 문제 해결](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues){target="_blank"}
 
-* [사용자 지정 Dynamics 동기화 필터 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
+* [사용자 지정 Dynamics 동기화 필터 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
 
-* [조직 서비스 URL 보기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html){target="_blank"}
+* [조직 서비스 URL 보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url){target="_blank"}
 
-* [Dynamics에서 삭제하기 전에 동기화할 필드 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html){target="_blank"}
+* [Dynamics에서 삭제하기 전에 동기화할 필드 편집](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics){target="_blank"}
 
-* [자습서: Marketo을 CRM과 동기화하는 방법에 대해 알아보기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [자습서: Marketo을 CRM과 동기화하는 방법에 대해 알아보기](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -190,4 +190,3 @@ Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 
 {{peter-livadas}}
 
 {{amy-chiu}}
-
