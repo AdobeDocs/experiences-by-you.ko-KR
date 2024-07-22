@@ -28,4 +28,4 @@ ht-degree: 2%
 + [Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인](./designing-omnichannel-conversational-marketing.md)
 + [인스턴스 거버넌스 및 설명서 시작하기](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
-+ [관점으로 돌아가기](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [관점으로 돌아가기](https://experienceleague.adobe.com/en/perspectives?lang=en#f-el_product=Marketo%20Engage&aq=&#40;&#40;%40el_contenttype%20NOT%20%22Community%7CUser%22&#41;%20AND%20&#40;%40el_contenttype%3D%22perspective%22&#41;&#41;)
