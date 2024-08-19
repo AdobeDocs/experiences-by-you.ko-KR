@@ -1,5 +1,5 @@
 ---
-title: Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인
+title: Dynamic Chat을 통한 옴니채널 대화형 마케팅 디자인
 description: Adobe Marketo Engage 내의 기본 대화형 참여 채널인 Adobe Dynamic Chat을 사용하여 대화형 마케팅을 디자인할 수 있습니다. 이 튜토리얼에서는 판매 회의 예약, 웹 사이트 콘텐츠 참여 및 이벤트/웨비나 프로모션과 같은 사용 사례를 구현하는 실행 가능한 레시피를 제공합니다.
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 80553c5127afda315e97183e0d3b160871352183
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%

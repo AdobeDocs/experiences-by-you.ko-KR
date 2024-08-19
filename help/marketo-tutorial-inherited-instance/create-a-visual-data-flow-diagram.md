@@ -1,5 +1,5 @@
 ---
-title: 마케팅 기술 스택을 이해할 수 있는 시각적 데이터 흐름 다이어그램 만들기
+title: 마케팅 기술 스택을 이해하는 데이터 흐름 다이어그램 만들기
 description: 데이터 세계를 이해하고, 인스턴스를 효율적으로 감사하고 정리하기 위해 "리드 및 데이터 소스"의 다이어그램을 만드는 방법을 알아봅니다.
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# 마케팅 기술 스택을 이해할 수 있는 시각적 데이터 흐름 다이어그램 만들기
+# 마케팅 기술 스택을 이해하는 데이터 흐름 다이어그램 만들기
 
 수년 동안 라이브된 [!DNL Marketo Engage] 인스턴스를 인수하는 관리자로서 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. [!DNL Adobe] [!DNL Marketo Champion](2019), Kelly Jo Horton이 오래 지속된 인스턴스에 발을 들였을 때 [잠재 고객 및 데이터 소스 다이어그램 만들기](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}를 통해 데이터 세계를 숙지하는 방식으로 이 문제를 해결했습니다. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
 

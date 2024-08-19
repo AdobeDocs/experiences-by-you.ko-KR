@@ -11,14 +11,14 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
-# 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령 - 자습서 개요
+# 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
 
 *Source: Marketo 챔피언 Adobe*
 

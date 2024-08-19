@@ -1,6 +1,6 @@
 ---
-title: 새 [!DNL Marketo Engage] 인스턴스 구현 팁과 요령 - 자습서 개요
-description: 성능을 최대한 활용하기 위해 새 [!DNL Marketo Engage] 인스턴스를 구현하는 방법을 알아봅니다. 이 '새 Marketo Engage 구현' 팁과 트릭 시리즈는 Adobe [!DNL Marketo Engage] 챔피언이 입증한 모범 사례를 제공합니다. 다루는 주제에는 관련자 관리, 구현 프로젝트 관리, 내부 교육, 잠재 고객/개인 점수 책정 모델 구축, 초기 CRM 동기화 설정 등이 있습니다.
+title: 새 인스턴스 구현 팁과 요령
+description: 성능을 최대한 활용하기 위해 새 [!DNL Marketo Engage] 인스턴스를 구현하는 방법을 알아봅니다.
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령 - 튜토리얼 개요
+# 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
 
 [!DNL Marketo Engage] Adobe 시작! 새 인스턴스를 설정하는 것은 마케팅 자동화를 통해 디지털 마케팅 전략을 향상시키는 첫 번째 단계입니다. 성공적인 [!DNL Marketo Engage] 구현의 핵심은 설명서입니다.
 
-이 &#39;새 인스턴스 팁과 트릭 구현&#39; 시리즈는 이전에 구현을 정복한 Adobe [!DNL Marketo Engage] 챔피언입니다. 이 자습서에서는 새로운 관리자가 다양한 기능을 통해 구현 프로젝트를 관리하고 기술 설정을 독립적으로 구성할 수 있는 단계별 지침을 제공합니다. 또한 다운로드 가능한 체크리스트와 템플릿을 함께 사용하여 처음부터 새로 시작하지 않고도 원하는 대로 맞춤화할 수 있습니다. 동료들의 지혜에 대해 알아봅시다!
+이 _새 인스턴스 팁과 트릭 구현_ 시리즈는 이전에 구현을 정복한 Adobe [!DNL Marketo Engage] 챔피언입니다. 이 자습서에서는 새로운 관리자가 다양한 기능을 통해 구현 프로젝트를 관리하고 기술 설정을 독립적으로 구성할 수 있는 단계별 지침을 제공합니다. 또한 다운로드 가능한 체크리스트와 템플릿을 함께 사용하여 처음부터 새로 시작하지 않고도 원하는 대로 맞춤화할 수 있습니다. 동료들의 지혜에 대해 알아봅시다!
 
 ## 주제 및 학습 내용
 

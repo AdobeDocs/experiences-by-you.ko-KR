@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
 
-# 기본 CRM 커넥터의 필드 동기화
+# 기본 CRM 커넥터의 동기화 필드
 
 조직 내에서 Salesforce 또는 Microsoft Dynamics를 사용하고 있습니까? 그렇다면 Marketo Engage의 기본 CRM 커넥터(예: Salesforce, Microsoft Dynamics 및 Veeva)를 사용하여 Marketo Engage과 CRM 간에 관련 정보를 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다. 초기 CRM 동기화를 구성하기 전에 Marketo Engage 데이터베이스를 깔끔하게 유지하기 위해 두 시스템 간에 동기화할 필드를 식별해야 합니다.
 
@@ -31,7 +31,7 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
 
 초기 동기화를 수행하기 전에 CRM에서 동기화할 필드를 식별하고 구성하는 것은 기본 커넥터 설정 프로세스의 중요한 단계입니다. 이를 데이터 사전 연습이라고 하며, 이를 통해 생성되는 중복 필드 수를 최소화하고 후속 재매핑 단계를 최대한 원활하게 수행할 수 있습니다. 이 연습에는 일반적으로 마케팅 및 영업 팀과 CRM 관리자의 입력이 포함되어 관련 필드만 Marketo Engage 인스턴스에 동기화됩니다.
 
-## 데이터 사전을 작성하는 방법
+## 데이터 사전 구축
 
 일반적으로 가장 좋은 방법은 마케팅 목적에 필요한 CRM 필드만 동기화하는 것입니다. 이 연습으로 시작하여 Marketo Engage에 매핑해야 하는 CRM의 필드를 구성하고 처음 CRM 동기화를 올바르게 실행하십시오.
 

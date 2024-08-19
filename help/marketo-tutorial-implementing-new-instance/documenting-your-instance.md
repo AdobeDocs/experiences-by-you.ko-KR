@@ -1,5 +1,5 @@
 ---
-title: 인스턴스 거버넌스 및 설명서 시작하기
+title: 인스턴스 거버넌스 및 설명서 시작
 description: Marketo Engage 거버넌스 및 설명서를 시작하기 위한 필수 전략과 모범 사례에 대해 알아봅니다. 확장 가능한 설명서를 만들고, 사용자 교육을 간소화하고, Marketo Engage 인스턴스의 구조를 빌드하는 방법을 알아봅니다.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%

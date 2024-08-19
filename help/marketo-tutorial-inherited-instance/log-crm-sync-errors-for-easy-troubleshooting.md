@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# 간편한 문제 해결을 위한 CRM 동기화 오류 기록
+# 문제 해결을 위한 CRM 동기화 오류 기록
 
 [!DNL Marketo Engage] 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 [일별 루틴](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}의 핵심 부분이어야 합니다. [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"}([!DNL Marketo Engage] 인터페이스의 오른쪽 상단 모서리에서 찾기)에서 자주 발생하는 동기화 문제를 찾아 조사하기 시작하지만 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 Pro 팁이 있습니다. [!DNL Adobe] Marketo 챔피언(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
 
