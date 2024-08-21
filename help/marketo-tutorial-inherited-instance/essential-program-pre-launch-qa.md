@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 
 ## 다음은 무엇입니까?
 
-사용자 지정할 편집 가능한 프로그램 사전 실행 검사 목록을 다운로드하려면 [여기](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)를 클릭하십시오. 조직의 워크플로에 맞게 조정해야 합니다. 효과적인 QA 프로세스를 개발하면 고객의 실수를 책임지고 제한할 수 있습니다.
+사용자 지정할 편집 가능한 프로그램 실행 전 검사 목록을 다운로드하려면 [여기](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx)를 클릭하십시오. 조직의 워크플로에 맞게 조정해야 합니다. 효과적인 QA 프로세스를 개발하면 고객의 실수를 책임지고 제한할 수 있습니다.
 
 ### 작성자
 
