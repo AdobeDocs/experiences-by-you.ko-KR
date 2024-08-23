@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
+source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
@@ -61,3 +61,4 @@ ht-degree: 1%
 
 * [모범 사례 확인 목록을 사용하여 새 Marketo Engage 인스턴스 구현](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *각 검사 목록은 구성 진행 상황을 추적하는 데 유용한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.*
+
