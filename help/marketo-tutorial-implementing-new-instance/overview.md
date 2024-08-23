@@ -10,10 +10,10 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 [!DNL Marketo Engage] Adobe 시작! 새 인스턴스를 설정하는 것은 마케팅 자동화를 통해 디지털 마케팅 전략을 향상시키는 첫 번째 단계입니다. 성공적인 [!DNL Marketo Engage] 구현의 핵심은 설명서입니다.
 
-이 _새 인스턴스 팁과 트릭 구현_ 시리즈는 이전에 구현을 정복한 Adobe [!DNL Marketo Engage] 챔피언입니다. 이 자습서에서는 새로운 관리자가 다양한 기능을 통해 구현 프로젝트를 관리하고 기술 설정을 독립적으로 구성할 수 있는 단계별 지침을 제공합니다. 또한 다운로드 가능한 체크리스트와 템플릿을 함께 사용하여 처음부터 새로 시작하지 않고도 원하는 대로 맞춤화할 수 있습니다. 동료들의 지혜에 대해 알아봅시다!
+이 &#39;새 인스턴스 팁과 트릭 구현&#39; 시리즈는 이전에 구현을 정복한 Adobe [!DNL Marketo Engage] 챔피언에서 가져온 것입니다. 이 자습서에서는 새로운 관리자가 다양한 기능을 통해 구현 프로젝트를 관리하고 기술 설정을 독립적으로 구성할 수 있는 단계별 지침을 제공합니다. 또한 다운로드 가능한 체크리스트와 템플릿을 함께 사용하여 처음부터 새로 시작하지 않고도 원하는 대로 맞춤화할 수 있습니다. 동료들의 지혜에 대해 알아보겠습니다!
 
 ## 주제 및 학습 내용
 
@@ -50,7 +50,7 @@ ht-degree: 0%
   *Marketo Engage 인스턴스 내에 올바른 조직을 설정하여 조직 내의 향후 마케터가 프로그램을 쉽게 탐색하고, 자산을 수정하고, 보고서를 가져올 수 있도록 하는 방법을 알아봅니다.*
 <br>
 
-* [Dynamic Chat을 사용하여 옴니채널 대화 마케팅 디자인](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [Dynamic Chat을 활용한 옴니채널 대화형 마케팅 설계](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *Adobe Marketo Engage 내의 기본 대화 참여 채널인 Adobe Dynamic Chat을 사용하여 대화 마케팅을 디자인할 수 있는 빠른 시작입니다. 이 자습서에서는 영업 회의 예약, 웹 사이트 콘텐츠 참여 및 이벤트/웨비나 프로모션과 같은 사용 사례를 구현하는 실행 가능한 방법을 제공합니다.*
 <br>
 
