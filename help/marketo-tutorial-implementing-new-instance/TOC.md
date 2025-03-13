@@ -1,16 +1,15 @@
 ---
 user-guide-title: 자습서 - 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
 user-guide-description: 자습서 - 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
-breadcrumb-title: 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
+breadcrumb-title: 새 [!DNL Marketo Engage] 인스턴스 구현
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -19,7 +18,7 @@ ht-degree: 3%
 # 새 [!DNL Marketo Engage] 인스턴스를 구현하기 위한 팁과 요령 {#implementing-new-instance}
 
 + [튜토리얼 개요](./overview.md)
-+ [Marketo Engage 구현을 위한 이해 당사자 관리](./managing-stakeholder-communications.md)
++ [Marketo Engage을 구현할 이해 당사자 관리](./managing-stakeholder-communications.md)
 + [Marketo Engage 구현을 위한 계획](./planning-for-new-implementation.md)
 + [내부 온보딩 및 교육 로드쇼 개발](./internal-training-roadshow.md)
 + [잠재 고객/개인 점수 모델 구축](./building-person-scoring-model.md)
