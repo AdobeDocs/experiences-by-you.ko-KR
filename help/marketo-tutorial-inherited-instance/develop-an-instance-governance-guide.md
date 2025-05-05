@@ -22,7 +22,7 @@ ht-degree: 0%
 
 기존 [!DNL Marketo Engage] 인스턴스를 시작할 때 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 발생합니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. [설정된 [!DNL Marketo Engage] 인스턴스](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)에서 작업할 때 효율성을 높이는 중요한 전략 중 하나입니다.
 
-[!DNL [!DNL Adobe] Marketo Champion](2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
+[!DNL [!DNL Adobe] Marketo Champion] (2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
 
 ## 상속된 인스턴스에 대한 인스턴스 거버넌스 안내서 개발
 
@@ -111,7 +111,7 @@ ht-degree: 0%
 ### 작성자
 
 **Nick Hajdin**
-[!DNL [!DNL Adobe] Marketo Champion](2018)
+[!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}

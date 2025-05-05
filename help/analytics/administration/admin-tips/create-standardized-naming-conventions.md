@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 표준화된 이름 지정 규칙 만들기
 
-**내용:** 표준화된 이름 지정 규칙은 [!DNL Adobe Analytics](AA) 관리 UI에서 활성화된 경우 변수 이름 자체와 차원으로 전달된 값에 모두 적용됩니다. (즉, 페이지 이름은 변수 이름으로 &quot;page name (v1)&quot;이 되고 전달된 페이지 이름 값은 균일해야 하며 &quot;sitename|homepage&quot; 또는 &quot;sitename|search|searchresults&quot;와 같은 특정 구조/계층 구조를 따라야 합니다.)
+**내용:** 표준화된 이름 지정 규칙은 [!DNL Adobe Analytics] (AA) 관리 UI에서 활성화된 경우 변수 이름 자체와 차원으로 전달된 값에 모두 적용됩니다. (즉, 페이지 이름은 변수 이름으로 &quot;page name (v1)&quot;이 되고 전달된 페이지 이름 값은 균일해야 하며 &quot;sitename|homepage&quot; 또는 &quot;sitename|search|searchresults&quot;와 같은 특정 구조/계층 구조를 따라야 합니다.)
 
 **이유:** 이름 지정 규칙은 일관성을 유지하고 사용자가 인터페이스를 쉽게 이해할 수 있도록 하는 좋은 방법입니다. 처음부터 이를 만들고 플랫폼과 코드에서 적용하면 확장이 더 쉬워집니다.
 

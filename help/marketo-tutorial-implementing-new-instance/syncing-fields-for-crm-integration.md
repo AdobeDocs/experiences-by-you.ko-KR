@@ -60,6 +60,7 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
    * 두 번째 열: Marketo Engage API 이름
    * 세 번째 열: [Marketo Engage 필드 형식](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}(예: 부울, 통화, 날짜 등)
    * 후속 열에서 CRM 객체 유형(가망 고객, 연락처, 계정, 기회)에 대해 을 반복하고 Marketo Engage에 원하는 액세스 수준(예: 읽기, 쓰기, 편집)에 대한 추가 열을 추가합니다.
+
   <br>
 
   다음은 그 모습의 샘플입니다.

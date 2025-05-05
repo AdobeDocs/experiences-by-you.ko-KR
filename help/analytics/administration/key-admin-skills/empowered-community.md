@@ -65,7 +65,7 @@ ht-degree: 0%
 
 ## 3. 도구를 사용하여 커뮤니티 구축 시작
 
-* [프로젝트 헌장 만들기](assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
+* [프로젝트 헌장 만들기] (assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
 
   프로젝트 헌장은 종종 비즈니스를 내부 자율 커뮤니티를 위한 기회에 맞춰 조정할 수 있는 좋은 방법입니다. 다음 질문에 답함으로써 헌장 초안을 작성하는 데 필요한 사항을 알 수 있습니다.
 

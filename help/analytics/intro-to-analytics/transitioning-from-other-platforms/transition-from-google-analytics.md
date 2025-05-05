@@ -1,6 +1,6 @@
 ---
 title: Google에서  [!DNL Adobe Analytics] 로 전환 [!DNL Analytics]에 대한 포괄적인 안내서
-description: Google [!DNL Analytics] 에서  [!DNL Adobe Analytics](으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
+description: Google [!DNL Analytics] 에서  [!DNL Adobe Analytics] (으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Google [!DNL Analytics]에서 [!DNL Adobe Analytics](으)로 전환에 대한 포괄적인 안내서{#comprehensive-guide-for-transitioning-to-adobe-analytics}
+# Google [!DNL Analytics]에서 [!DNL Adobe Analytics] (으)로 전환에 대한 포괄적인 안내서{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## 1. 소개
 
-도구 간에 전환할 때 겪는 가장 큰 어려움 중 하나는 동일한 기능을 찾는 것과 이를 효율적으로 사용하는 방법을 학습하는 것입니다. 이 논의는 사용자가 [!DNL Adobe Analytics](새 사용자 또는 Google [!DNL Analytics]에서 온 사용자)으로 쉽게 전환할 수 있도록 돕기 위한 대규모 안내서의 일부입니다. 대부분의 사용자에게 친숙한 비교 도구인 GA와 상세하게 비교합니다. 이를 통해 사용자는 기존 지식을 새로운 도구 세트와 연관시킬 수 있습니다. 연습을 대체할 수 없는 경우 시작하는 데 도움이 되며 이 시간 동안 겪을 수 있는 어려움을 줄일 수 있습니다.
+도구 간에 전환할 때 겪는 가장 큰 어려움 중 하나는 동일한 기능을 찾는 것과 이를 효율적으로 사용하는 방법을 학습하는 것입니다. 이 논의는 사용자가 [!DNL Adobe Analytics] (새 사용자 또는 Google [!DNL Analytics]에서 온 사용자)으로 쉽게 전환할 수 있도록 돕기 위한 대규모 안내서의 일부입니다. 대부분의 사용자에게 친숙한 비교 도구인 GA와 상세하게 비교합니다. 이를 통해 사용자는 기존 지식을 새로운 도구 세트와 연관시킬 수 있습니다. 연습을 대체할 수 없는 경우 시작하는 데 도움이 되며 이 시간 동안 겪을 수 있는 어려움을 줄일 수 있습니다.
 
 간단한 용어 비교가 필요합니다.
 
