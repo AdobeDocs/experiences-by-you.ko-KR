@@ -25,4 +25,4 @@ ht-degree: 4%
 + [마케팅 기술 스택을 시각적으로 매핑](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [프로그램 출시 전 품질 보증 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
-+ [관점으로 돌아가기](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [관점으로 돌아가기](https://experienceleague.adobe.com/ko/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

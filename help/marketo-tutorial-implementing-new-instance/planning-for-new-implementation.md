@@ -38,7 +38,7 @@ ht-degree: 5%
 
 ### 3단계 - 프로그램 라이브러리 만들기 및 캠페인 설정
 
-- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
+- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
 - 세그먼테이션 및 Personalization 규칙 설정
 - 리드 생성 및 육성을 위한 초기 캠페인 만들기
 

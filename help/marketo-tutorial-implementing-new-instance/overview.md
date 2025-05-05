@@ -42,8 +42,8 @@ ht-degree: 1%
 
 * [기본 CRM 커넥터의 필드 동기화](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Marketo Engage에서 사용할 필수 CRM 필드를 전략적으로 선택하여 초기 CRM 통합을 간소화하는 방법을 알아봅니다. 데이터 사전 연습을 수행하여 판매 및 마케팅 팀이 정렬되는 데 도움이 되는 원활한 CRM 동기화에 필요한 필드를 식별합니다.*
-   * [Salesforce 동기화 시작](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Microsoft Dynamics 동기화 시작](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Salesforce 동기화 시작](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Microsoft Dynamics 동기화 시작](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [새 인스턴스 구성 및 명명 규칙 설정](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ ht-degree: 1%
 
 ## 추가 리소스
 
-* [모범 사례 확인 목록을 사용하여 새 Marketo Engage 인스턴스 구현](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [모범 사례 확인 목록을 사용하여 새 Marketo Engage 인스턴스 구현](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *각 검사 목록은 구성 진행 상황을 추적하는 데 유용한 단계를 제공합니다. 다운로드 가능한 체크리스트를 사용하여 향후 인스턴스 감사 및 사용자 온보딩을 위해 작업을 문서화합니다.*
 

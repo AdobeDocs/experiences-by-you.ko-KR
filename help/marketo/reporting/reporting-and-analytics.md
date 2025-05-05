@@ -27,7 +27,7 @@ ht-degree: 2%
 ## 추가 리소스
 
 * **제품 설명서**
-가져올 수 있는 다양한 보고서에 대해 알아봅니다. - [보고 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+가져올 수 있는 다양한 보고서에 대해 알아봅니다. - [보고 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=ko&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
 * **전문 고객 블로그 게시물**
 챔피언 첼시 키코에게 다양한 보고서 만들기에 대해 알아보기 - [다양한 공간에서 보고 [!DNL Marketo Engage] 공간](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

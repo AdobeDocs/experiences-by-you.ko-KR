@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 구현 이해:
 
-  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항에는 구현된 내용이 포함되어야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
+  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항에는 구현된 내용이 포함되어야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
 
 * 보고서 템플릿 사용:
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 자율 커뮤니티를 설정하고 유지하는 데에는 많은 작업이 필요합니다. 한 걸음 물러서서 조직이 이러한 작업을 통해 얻을 수 있는 이점을 인식하는 것이 중요합니다. 내가 직접 본 이점은 다음과 같습니다.
 
-* 데이터 중심의 의사 결정 - [!DNL Adobe Analytics]이(가) 데이터 스토리텔링을 활성화하고 결과를 예측 및 규정하므로, 자율 커뮤니티는 조직 전체에 걸쳐 고객 인텔리전스 및 데이터 중심의 의사 결정을 지원하도록 [비즈니스를 변경](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=en)할 수 있습니다.
+* 데이터 중심의 의사 결정 - [!DNL Adobe Analytics]이(가) 데이터 스토리텔링을 활성화하고 결과를 예측 및 규정하므로, 자율 커뮤니티는 조직 전체에 걸쳐 고객 인텔리전스 및 데이터 중심의 의사 결정을 지원하도록 [비즈니스를 변경](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=ko)할 수 있습니다.
 
 * 전문 지식 및 효율성 향상 - 활성화 참여와 마케팅 투자 수익률 간에 직접적인 상관 관계를 만들 수 있습니다. 자율 커뮤니티는 모든 사용자의 전문 지식 수준을 향상시켜 통찰력, 모범 사례, 프로젝트 및 제품 업데이트의 공유를 용이하게 하고 공동 작업을 활성화합니다. 이 작업은 [!DNL Adobe Analytics]을(를) 통해 자급자족 및 더 나은 최적화를 활성화하면서 이 작업을 수행합니다. 마케팅 채널, 페이지, 지리적 위치, 대상자 등을 지원합니다. 또한 경험 최적화를 지원하므로 팀은 가장 큰 영향을 미칠 수 있는 부분에 집중할 수 있습니다.
 
@@ -115,4 +115,4 @@ ht-degree: 0%
 
 * 경력 개발 - 자율 커뮤니티는 많은 분석가 팀의 초점을 반응적이고 전술적인 것에서 규범적이고 전략적인 것으로 전환합니다. 이를 통해 커뮤니티 관리 프로젝트 팀의 경력을 개발할 수 있습니다.
 
-내부 [!DNL Adobe Analytics] 사용자 그룹 또는 보다 공식적인 &quot;커뮤니티&quot;가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)에서 귀하의 이야기를 들려 주십시오.
+내부 [!DNL Adobe Analytics] 사용자 그룹 또는 보다 공식적인 &quot;커뮤니티&quot;가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=ko)에서 귀하의 이야기를 들려 주십시오.

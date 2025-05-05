@@ -23,7 +23,7 @@ ht-degree: 2%
 
 ## 폴더를 구조화하고 이름 지정 규칙을 적용하는 것이 필요한 이유는 무엇입니까?
 
-인스턴스에서 정돈되어 있으면 사용자와 동료가 캠페인, 프로그램 및 에셋을 쉽게 추적하고 프로그램 성과를 보고할 수 있습니다. 인스턴스에서 탐색 트리를 구성하고 규모에 맞게 빌드하려면 [폴더](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [표준 명명 규칙](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} 및 [복제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}와 같은 기능을 사용하는 것이 좋습니다.
+인스턴스에서 정돈되어 있으면 사용자와 동료가 캠페인, 프로그램 및 에셋을 쉽게 추적하고 프로그램 성과를 보고할 수 있습니다. 인스턴스에서 탐색 트리를 구성하고 규모에 맞게 빌드하려면 [폴더](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [표준 명명 규칙](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} 및 [복제](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}와 같은 기능을 사용하는 것이 좋습니다.
 
 ## Marketo Engage 인스턴스 구성 방법
 
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ### 1단계 - 프로그램을 순서대로 배치하기 위한 폴더 구조 설정
 
-인스턴스를 구성하는 첫 번째 단계는 [폴더 구조를 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)하는 것입니다. 이 단계를 통해 프로그램 및 자산을 쉽고 질서 있게 찾을 수 있습니다.
+인스턴스를 구성하는 첫 번째 단계는 [폴더 구조를 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ko)하는 것입니다. 이 단계를 통해 프로그램 및 자산을 쉽고 질서 있게 찾을 수 있습니다.
 
 다음은 트리에서 폴더를 구조화할 때의 몇 가지 빠른 팁입니다.
 

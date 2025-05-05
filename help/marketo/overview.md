@@ -77,6 +77,6 @@ ht-degree: 16%
 ## 추가 리소스
 
 * [Marketo 국가(커뮤니티)](https://nation.marketo.com/)
-* [Adobe Marketo Engage 설명서](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Adobe Marketo Engage 설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko)
+* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)
 * [Adobe Marketo Engage 제품 정보](https://business.adobe.com/products/marketo/adobe-marketo.html)

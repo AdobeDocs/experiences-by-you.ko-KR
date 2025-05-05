@@ -27,4 +27,4 @@ ht-degree: 2%
 
 ## 추가 리소스 {#additional-resources}
 
-* [소개 [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html) - AEM as a Cloud Service의 [!DNL Cloud Manager] 사용에 대한 설명서
+* [소개 [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=ko) - AEM as a Cloud Service의 [!DNL Cloud Manager] 사용에 대한 설명서

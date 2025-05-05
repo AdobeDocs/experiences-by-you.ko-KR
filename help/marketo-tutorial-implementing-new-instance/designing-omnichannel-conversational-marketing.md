@@ -26,7 +26,7 @@ ht-degree: 0%
 
 방문자는 이유가 있어서 웹 사이트를 탐색합니다. 제품 또는 서비스에 대한 콘텐츠를 검색하거나 영업 담당자에게 문의할 연락처 정보를 찾고 있을 수 있습니다. 추가 제품 정보를 찾는 고객이 될 수도 있습니다. 채팅을 통해 웹 사이트 방문자가 영업 팀에 문의할 준비가 되었는지 셀프 서비스를 제공하고 자격을 부여할 수 있습니다.
 
-Sara Barriuso가 Dynamic Chat을 구현했을 때, Sara Barriuso는 Marketo Engage 및 Marketo Engage 프로그램을 활성화하는 [미리 빌드된 활동 트리거](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}와의 매끄러운 통합에 이끌렸습니다. 그녀는 세 가지 대상 세그먼트를 염두에 두고 대화 참여 전략을 개발했습니다.
+Sara Barriuso가 Dynamic Chat을 구현했을 때, Sara Barriuso는 Marketo Engage 및 Marketo Engage 프로그램을 활성화하는 [미리 빌드된 활동 트리거](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}와의 매끄러운 통합에 이끌렸습니다. 그녀는 세 가지 대상 세그먼트를 염두에 두고 대화 참여 전략을 개발했습니다.
 
 1. 알 수 없는 잠재 고객: 새로운 잠재 고객을 생성하기 위해 미리 데모 호출을 제공합니다.
 2. 알려진 리드/고객: 방문자의 콘텐츠 탐색 시간을 연장하고 데모 호출을 제공하여 상향 판매 및 교차 판매 기회를 생성합니다.
@@ -193,7 +193,7 @@ Campaign 컨텐츠 참여 확장 - 구성:
 
 ## 다음은 무엇입니까?
 
-* [Designer 스트리밍](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} 또는 오프라인 순서도에서 대화 흐름을 매핑합니다.
+* [Designer 스트리밍](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} 또는 오프라인 순서도에서 대화 흐름을 매핑합니다.
 * Dynamic Chat에서 기본 다목적 캐치 대화 상자를 만듭니다.
 * Marketo Engage에서 자동화 트리거를 사용하여 캠페인 후 대화 활성화.
 

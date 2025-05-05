@@ -26,7 +26,7 @@ ht-degree: 2%
 
 1. **라이브 인스턴스에서 상속받은 마케팅 기술 스택에 대해 숙지합니다.** 새 회사에서 시작할 때 모든 마케팅 작업 관리자/플랫폼 작업 관리자가 이 연습을 수행하는 것이 좋습니다. 이 만들기 프로세스를 통해 관리자는 외부 통합에서 [!DNL Marketo Engage] (으)로 전송된 데이터 및 활동의 전체 그림을 보고 API 오류를 쉽게 해결할 수 있습니다.
 2. **외부 통합을 관리하는 주요 이해 당사자에 대해 숙지하십시오.** Kelly Jo Horton이 이해 당사자를 빠르게 식별하는 데 사용하는 팁은 API 사용자 목록을 참조하는 것입니다.
-   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
+   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ko){target="_blank"}.
    2. API 호출 정보 섹션의 통합>웹 서비스 탭에서 API 사용자별 API 사용 통계를 찾습니다. API 호출 번호를 클릭하면 각 사용자가 수행한 특정 개별 호출을 볼 수 있습니다.
 
 ## 이 시각적 데이터 흐름 다이어그램 연습을 수행하는 방법

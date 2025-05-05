@@ -46,7 +46,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="마케터 문제 해결" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="마케터 문제 해결" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ko" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="마케터를 위한 Adobe Campaign 성공 모범 사례 10가지" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="마케터를 위한 Adobe Campaign 성공 모범 사례 10가지" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ko" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -77,8 +77,8 @@ ht-degree: 26%
 
 ## 추가 리소스
 
-* [Adobe Campaign 커뮤니티 Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Adobe Campaign 커뮤니티 Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko)
 * Adobe Campaign v8 - [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko-KR)
-* Adobe Campaign Classic v7 - [설명서](https://experienceleague.adobe.com/docs/campaign-classic.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR)
-* Adobe Campaign Standard - [설명서](https://experienceleague.adobe.com/docs/campaign-standard.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR)
+* Adobe Campaign Classic v7 - [설명서](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR)
+* Adobe Campaign Standard - [설명서](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR)
 * [Adobe Campaign 제품 정보](https://business.adobe.com/products/campaign/adobe-campaign.html)

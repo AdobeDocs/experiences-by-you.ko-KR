@@ -30,7 +30,7 @@ ht-degree: 0%
 
 1. 확장 가능한 방식으로 내부 사용자를 보다 쉽게 교육합니다.
 2. 장기적으로 [!DNL Marketo Engage]에서 보다 효율적으로 빌드합니다.
-3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
+3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ko) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ko)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
 4. 팀에 이직이 있는 경우 새 [!DNL Marketo Engage] 관리자에게 [!DNL Marketo Engage] 지식을 전송하는 데 시간을 절약하십시오.
 
 ## [!DNL Marketo Engage] 거버넌스 안내서 101

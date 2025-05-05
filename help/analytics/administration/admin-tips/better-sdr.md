@@ -65,7 +65,7 @@ _측정 회의에 대해 알아봅니다. 단계 맵을 사용하여 계획의 �
 1. 디자이너와 제품 관리자와 함께 각 단계를 진행하고 모든 사람이 해당 단계에서 성공이라고 생각하는 사항을 논의합니다. 전환율입니까? 특별한 길을 택하고 있는 건가요? 특정 기능을 사용하고 있습니까?
 1. 단계 및 전체의 각 단계에서 단계 성능을 이해하는 데 필요한 지표 및 차원에 대해 질문합니다.
 1. 단계의 각 단계 위에 계산된 지표를 포함하여 해당 단계에서 측정된 지표 및 차원을 추가합니다.
-1. 각 단계를 시작할 때 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성하십시오. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 단계와 관련된 모든 내용이 포함됩니다.
+1. 각 단계를 시작할 때 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성하십시오. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 단계와 관련된 모든 내용이 포함됩니다.
 1. 발견한 새 지표와 차원을 SDR에 추가하고 관련자에게 보내 두 번째 검토를 수행합니다.
 
 ### 미리보기 대시보드

@@ -234,7 +234,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 ## 다음은 무엇입니까?
 
 * 오프라인 채점 모델을 개발하려면 [개인 채점 연습 시트](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}를 다운로드하십시오.
-* Marketo Engage에서 개인 점수를 매깁니다. 시작하려면 이 [튜토리얼](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} 및 [데모](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}를 확인하세요. Marketo Engage 참조 라이브러리에서 잠재 고객/개인 채점 프로그램 [템플릿](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}을(를) 가져와 프로그램 빌드를 가속화할 수 있습니다.
+* Marketo Engage에서 개인 점수를 매깁니다. 시작하려면 이 [튜토리얼](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} 및 [데모](https://experienceleague.adobe.com/ko/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}를 확인하세요. Marketo Engage 참조 라이브러리에서 잠재 고객/개인 채점 프로그램 [템플릿](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}을(를) 가져와 프로그램 빌드를 가속화할 수 있습니다.
 * 채점 프로그램의 두 가지 버전을 만듭니다.
    * 로컬로 업데이트할 수 없는 모든 채점을 실행하는 중앙 프로그램입니다.
    * 구성 가능한 채점 요소가 있는 로컬 복사본입니다.
@@ -244,8 +244,8 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
    * 한 번만 점수를 매기는 인구 통계학 및 행동 활동(즉, 업계)과 잠재 고객이 자격을 얻을 때마다 점수를 매기는 활동(즉, 웨비나에 참석함)을 결정합니다. 이렇게 하면 데이터 값 변경으로 트리거된 잠재적 연락처가 매출과 관련이 있습니다.
    * 여러분의 선택이 상호 배타적인지 확인하십시오.
    * 개인 점수가 인구 통계 점수와 동일한 방식으로 업데이트되도록 두 흐름 단계에서 모두 업데이트합니다. 이렇게 하면 개인 점수는 행동 점수와 인구 통계학적 점수의 조합과 일치합니다.
-* 프로그램 빌드가 완료되면 스마트 캠페인을 테스트합니다. 예를 들어, 데모 양식으로 이동하여 테스트 전자 메일을 작성하고 [Marketo Engage 데이터베이스](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}에서 테스트 개인의 점수를 확인합니다.
-* 모델을 만든 후 개인의 점수가 판매 핸드오프 임계값에 도달하면 판매로 이동하도록 경고를 설정하는 것이 좋습니다. 이 [자습서](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}를 사용하여 경고를 설정하는 방법에 대해 자세히 알아보세요.
+* 프로그램 빌드가 완료되면 스마트 캠페인을 테스트합니다. 예를 들어, 데모 양식으로 이동하여 테스트 전자 메일을 작성하고 [Marketo Engage 데이터베이스](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}에서 테스트 개인의 점수를 확인합니다.
+* 모델을 만든 후 개인의 점수가 판매 핸드오프 임계값에 도달하면 판매로 이동하도록 경고를 설정하는 것이 좋습니다. 이 [자습서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}를 사용하여 경고를 설정하는 방법에 대해 자세히 알아보세요.
 
 ### 작성자
 

@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-주석 작동 방식에 대한 모든 세부 정보는 [Experience League에 대한 비디오 튜토리얼](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)을(를) 참조하십시오.
+주석 작동 방식에 대한 모든 세부 정보는 [Experience League에 대한 비디오 튜토리얼](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)을(를) 참조하십시오.
 
 ## 시작하기 위한 팁과 요령
 
@@ -75,7 +75,7 @@ ht-degree: 3%
 
 ![9thimage](assets/9thimage.png)
 
-자세한 설명서는 [주석 개요](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) 및 관련 문서를 참조하십시오.
+자세한 설명서는 [주석 개요](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/annotations/overview) 및 관련 문서를 참조하십시오.
 
 ## 작성자
 
