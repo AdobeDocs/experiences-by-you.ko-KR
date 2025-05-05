@@ -32,7 +32,7 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] 사용자 인터페이스 탐색" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] 사용자 인터페이스 탐색" src="https://video.tv.adobe.com/v/3450433?format=jpeg&captions=kor" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="보고 및 분석" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="보고 및 분석" src="https://video.tv.adobe.com/v/3446427?format=jpeg&captions=kor" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="이메일 프로그램" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="이메일 프로그램" src="https://video.tv.adobe.com/v/3453374?format=jpeg&captions=kor" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

@@ -22,7 +22,7 @@ ht-degree: 22%
 
 이 단계별 튜토리얼을 통해 A/B 테스트로 이메일 프로그램을 만드는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453374/?learn=on&captions=kor){transcript=true}
 
 
 ## 추가 리소스:

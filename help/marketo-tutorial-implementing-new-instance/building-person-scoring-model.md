@@ -121,7 +121,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 
 이 연습을 위한 비디오 연습이 더 좋습니까? Marketo Engage 챔피언 Katja Keesom이 채점 모델에 로컬 유연성을 구축하는 방법을 보여 주므로 이를 활용하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457446/?learn=on&captions=kor)
 
 **1단계** - 연습 1과 2의 활동 및 특성을 가져와서 각 항목에 대해 위치 또는 제품 라인별로 다른지 여부를 결정합니다.
 

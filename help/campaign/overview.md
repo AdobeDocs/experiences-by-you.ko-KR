@@ -33,7 +33,7 @@ ht-degree: 26%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="마케터를 위한 상위 5개 워크플로우 모범 사례" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="마케터를 위한 상위 5개 워크플로우 모범 사례" src="https://video.tv.adobe.com/v/3413955?format=jpeg&captions=kor" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

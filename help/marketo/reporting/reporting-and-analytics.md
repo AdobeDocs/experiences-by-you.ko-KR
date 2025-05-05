@@ -22,7 +22,7 @@ ht-degree: 2%
 
 [!DNL Analytics] 및 데이터베이스 섹션을 탐색하여 [!DNL Marketo Engage]에서 다른 기본 보고서를 가져오는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446427/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

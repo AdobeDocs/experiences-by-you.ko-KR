@@ -22,4 +22,4 @@ ht-degree: 47%
 
 동료 AEM 전문가인 Wilson Faure가 공유하는 귀중한 통찰력과 모범 사례를 살펴보십시오. 이 비디오에서는 AEM as a Cloud Service으로 마이그레이션하는 동안 발생하는 일반적인 문제를 자세히 살펴보고 원활하고 성공적인 전환을 촉진하기 위한 권장 사항과 전문가 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427673/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448618/?learn=on&captions=kor)

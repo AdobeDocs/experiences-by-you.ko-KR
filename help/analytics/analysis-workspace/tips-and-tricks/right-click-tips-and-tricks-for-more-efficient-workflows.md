@@ -20,7 +20,7 @@ ht-degree: 0%
 
 다음은 워크플로우의 효율성을 높이기 위해 Analysis Workspace에서 사용할 수 있는 7가지 마우스 오른쪽 버튼 클릭 팁입니다. 아래 텍스트에서 읽거나 비디오를 통해 시연된 내용을 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422280/?quality=12&learn=on&captions=kor)
 
 다음은 Analysis Workspace에서 워크플로를 보다 효율적으로 만들기 위해 사용할 수 있는 7가지 마우스 오른쪽 버튼 클릭 팁입니다.
 

@@ -22,4 +22,4 @@ ht-degree: 12%
 
 동료 AEM 챔피언인 Wilson Faure의 전문가 조언과 모범 사례를 살펴봅니다. 이 비디오에서 그는 AEM as a Cloud Service으로의 마이그레이션을 위한 계획과 준비의 복잡성을 탐색합니다. 성능 벤치마크 설정, 고객 코드 호환성과 같은 장애 요소 극복, 외부/내부 API 관리 등 마이그레이션 여정의 중요한 이정표에 대한 유용한 모범 사례를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445936/?learn=on&captions=kor)

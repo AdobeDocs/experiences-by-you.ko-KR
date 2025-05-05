@@ -22,7 +22,7 @@ ht-degree: 22%
 
 이 단계별 튜토리얼을 따라 첫 번째 참여 프로그램을 구축하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452686/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스:
 

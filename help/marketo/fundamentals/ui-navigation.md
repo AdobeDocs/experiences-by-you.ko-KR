@@ -22,7 +22,7 @@ ht-degree: 27%
 
 사용자 인터페이스를 탐색하고 [!DNL Marketo Engage] 플랫폼에 익숙해지는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450433/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

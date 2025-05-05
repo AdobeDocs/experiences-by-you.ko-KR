@@ -24,4 +24,4 @@ ht-degree: 0%
 
 이 자습서에서는 관리, 마케팅 활동, Design Studio 및 데이터베이스를 포함하여 [!DNL Marketo Engage] 내에서 가장 중요한 섹션을 안내하고 그 과정에서 감사 및 최적화를 위한 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453029/?learn=on&captions=kor)

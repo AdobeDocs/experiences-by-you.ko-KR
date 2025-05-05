@@ -21,4 +21,4 @@ ht-degree: 54%
 
 AEM 전문가 Wilson Faure의 중요한 통찰력을 살펴보십시오. 이 비디오에서 그는 전환을 최적화하기 위한 필수 마이그레이션 이후 전략과 팁을 자세히 설명합니다. 마이그레이션 이후 며칠과 몇 주 동안 집중해야 할 사항을 명확하게 파악해 보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446606/?learn=on&captions=kor)
