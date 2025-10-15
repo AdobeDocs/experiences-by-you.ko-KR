@@ -294,7 +294,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
 >[!NOTE]
 >제공된 예제는 실제 구현 타임라인을 기반으로 하지 않습니다. 모든 구현은 조직의 요구 사항에 따라 서로 다른 이정표와 요구 사항을 가지고 있으므로 이러한 사항을 Marketo Engage으로 온보딩하기 위한 표준 타임라인으로 사용하지 마십시오.
 
-인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
+인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
 
 ### 작성자
 

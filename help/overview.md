@@ -78,5 +78,5 @@ ht-degree: 9%
 * [Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=ko)
 * [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/?lang=ko)
 * [Experience Cloud 자습서](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/kr)
 

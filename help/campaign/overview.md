@@ -81,4 +81,4 @@ ht-degree: 26%
 * Adobe Campaign v8 - [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko-KR)
 * Adobe Campaign Classic v7 - [설명서](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR)
 * Adobe Campaign Standard - [설명서](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR)
-* [Adobe Campaign 제품 정보](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Adobe Campaign 제품 정보](https://business.adobe.com/kr/products/campaign/adobe-campaign.html)

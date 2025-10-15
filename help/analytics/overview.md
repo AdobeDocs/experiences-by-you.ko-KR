@@ -79,4 +79,4 @@ ht-degree: 19%
 * [Adobe Analytics 커뮤니티 Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko)
 * [Adobe Analytics 설명서](https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR)
 * [Adobe Analytics 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko)
-* [Adobe Analytics 제품 정보](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics 제품 정보](https://business.adobe.com/kr/products/analytics/adobe-analytics.html)
