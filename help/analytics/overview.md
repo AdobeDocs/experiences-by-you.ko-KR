@@ -1,12 +1,12 @@
 ---
 title: 내가 수행한 분석
 description: Analytics by You는 Adobe Analytics에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 19%
@@ -32,7 +32,7 @@ ht-degree: 19%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3422280?format=jpeg&captions=kor" />
+      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -45,12 +45,12 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역" src="https://video.tv.adobe.com/v/345331?format=jpeg&captions=kor" />
+      <img alt="[!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
-    <strong>기술 언어를 비기술 언어로 번역</strong>
-    </a>[!DNL Adobe Analytics]
+    <strong>기술 언어를 비기술 언어로 번역[!DNL Adobe Analytics]
+    </strong></a>
     </div>
     <p>
     <em>이해 당사자와 연락하여 Adobe Analytics의 기술 언어를 이해할 때 유용한 팁</em>
@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="표준화된 이름 지정 규칙 만들기" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=ko" />
+      <img alt="표준화된 이름 지정 규칙 만들기" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## 추가 리소스
 
-* [Adobe Analytics 커뮤니티 Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko)
-* [Adobe Analytics 설명서](https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR)
-* [Adobe Analytics 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko)
-* [Adobe Analytics 제품 정보](https://business.adobe.com/kr/products/analytics/adobe-analytics.html)
+* [Experience League Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Adobe Analytics 설명서](https://experienceleague.adobe.com/docs/analytics.html?lang=ko)
+* [Adobe Analytics 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [Adobe Analytics 제품 정보](https://business.adobe.com/products/analytics/adobe-analytics.html)

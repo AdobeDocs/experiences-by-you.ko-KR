@@ -1,13 +1,13 @@
 ---
 title: 내가 수행한 캠페인
 description: Campaign by You는 Adobe Campaign에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
 thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 26%
@@ -33,7 +33,7 @@ ht-degree: 26%
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="마케터를 위한 상위 5개 워크플로우 모범 사례" src="https://video.tv.adobe.com/v/3413955?format=jpeg&captions=kor" />
+      <img alt="마케터를 위한 상위 5개 워크플로우 모범 사례" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
@@ -46,7 +46,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="마케터 문제 해결" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ko" />
+      <img alt="마케터 문제 해결" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ ht-degree: 26%
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="마케터를 위한 Adobe Campaign 성공 모범 사례 10가지" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=ko" />
+      <img alt="마케터를 위한 Adobe Campaign 성공 모범 사례 10가지" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -77,8 +77,8 @@ ht-degree: 26%
 
 ## 추가 리소스
 
-* [Adobe Campaign 커뮤니티 Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko)
-* Adobe Campaign v8 - [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko-KR)
-* Adobe Campaign Classic v7 - [설명서](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko-KR)
-* Adobe Campaign Standard - [설명서](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=ko) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko-KR)
-* [Adobe Campaign 제품 정보](https://business.adobe.com/kr/products/campaign/adobe-campaign.html)
+* [Experience League Adobe Campaign 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* Adobe Campaign v8 - [설명서](https://experienceleague.adobe.com/docs/campaign-v8.html) / [자습서](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko-KR)
+* Adobe Campaign Classic v7 - [설명서](https://experienceleague.adobe.com/docs/campaign-classic.html) / [자습서](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko)
+* Adobe Campaign Standard - [설명서](https://experienceleague.adobe.com/docs/campaign-standard.html) / [자습서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko)
+* [Adobe Campaign 제품 정보](https://business.adobe.com/products/campaign/adobe-campaign.html)

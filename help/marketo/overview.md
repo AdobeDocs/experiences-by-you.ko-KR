@@ -1,12 +1,12 @@
 ---
 title: 내가 작업한 Marketo
 description: Marketo by You는 Adobe Marketo에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 16%
@@ -32,7 +32,7 @@ ht-degree: 16%
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="[!DNL Marketo Engage] 사용자 인터페이스 탐색" src="https://video.tv.adobe.com/v/3450433?format=jpeg&captions=kor" />
+      <img alt="[!DNL Marketo Engage] 사용자 인터페이스 탐색" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="보고 및 분석" src="https://video.tv.adobe.com/v/3446427?format=jpeg&captions=kor" />
+      <img alt="보고 및 분석" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ ht-degree: 16%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="이메일 프로그램" src="https://video.tv.adobe.com/v/3453374?format=jpeg&captions=kor" />
+      <img alt="이메일 프로그램" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -77,6 +77,6 @@ ht-degree: 16%
 ## 추가 리소스
 
 * [Marketo 국가(커뮤니티)](https://nation.marketo.com/)
-* [Adobe Marketo Engage 설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko)
-* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)
-* [Adobe Marketo Engage 제품 정보](https://business.adobe.com/kr/products/marketo/adobe-marketo.html)
+* [Adobe Marketo Engage 설명서](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage 자습서](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Adobe Marketo Engage 제품 정보](https://business.adobe.com/products/marketo/adobe-marketo.html)
