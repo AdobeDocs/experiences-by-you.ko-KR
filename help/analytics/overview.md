@@ -32,7 +32,7 @@ ht-degree: 19%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3422280?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -45,7 +45,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역" src="https://video.tv.adobe.com/v/345331?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
