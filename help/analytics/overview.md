@@ -58,7 +58,7 @@ ht-degree: 19%
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="표준화된 이름 지정 규칙 만들기" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="표준화된 이름 지정 규칙 만들기" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=ko" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ ht-degree: 19%
 
 ## 추가 리소스
 
-* [Experience League Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [Experience League Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko)
 * [Adobe Analytics 설명서](https://experienceleague.adobe.com/docs/analytics.html?lang=ko)
-* [Adobe Analytics 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
-* [Adobe Analytics 제품 정보](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko)
+* [Adobe Analytics 제품 정보](https://business.adobe.com/kr/products/analytics/adobe-analytics.html)

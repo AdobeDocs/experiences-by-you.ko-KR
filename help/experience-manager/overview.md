@@ -76,7 +76,7 @@ ht-degree: 20%
 
 ## 추가 리소스
 
-* [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
-* [Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
-* [Experience Manager 제품 정보](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ko)
+* [Experience Manager 설명서](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ko)
+* [Experience Manager 자습서](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=ko)
+* [Experience Manager 제품 정보](https://business.adobe.com/kr/products/experience-manager/adobe-experience-manager.html)
