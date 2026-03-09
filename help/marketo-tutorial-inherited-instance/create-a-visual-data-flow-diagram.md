@@ -11,22 +11,22 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 2%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
 # 마케팅 기술 스택을 이해하는 데이터 흐름 다이어그램 만들기
 
-수년 동안 라이브된 [!DNL Marketo Engage] 인스턴스를 인수하는 관리자로서 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton이 오래 지속된 인스턴스에 발을 들였을 때 [잠재 고객 및 데이터 소스 다이어그램 만들기](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}를 통해 데이터 세계를 숙지하는 방식으로 이 문제를 해결했습니다. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
+수년 동안 라이브된 [!DNL Marketo Engage] 인스턴스를 인수하는 관리자로서 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. [!DNL Adobe] [!DNL Marketo Champion]&#x200B;(2019), Kelly Jo Horton이 오래 지속된 인스턴스에 진입했을 때, Kelly Jo Horton은 데이터 세계를 숙지하기 위해 [리드 및 데이터 소스 다이어그램을 생성](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}하여 이 문제를 해결했습니다. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
 
 ## 상속된 인스턴스에 대해 아키텍처 다이어그램을 만드는 이유는 무엇입니까?
 
-1. **라이브 인스턴스에서 상속받은 마케팅 기술 스택에 대해 숙지합니다.** 새 회사에서 시작할 때 모든 마케팅 작업 관리자/플랫폼 작업 관리자가 이 연습을 수행하는 것이 좋습니다. 이 만들기 프로세스를 통해 관리자는 외부 통합에서 [!DNL Marketo Engage] (으)로 전송된 데이터 및 활동의 전체 그림을 보고 API 오류를 쉽게 해결할 수 있습니다.
+1. **라이브 인스턴스에서 상속받은 마케팅 기술 스택에 대해 숙지하십시오.** 모든 마케팅 운영 관리자/플랫폼 운영 관리자는 새 회사에서 시작할 때 이 연습을 수행하는 것이 좋습니다. 이 만들기 프로세스를 통해 관리자는 외부 통합에서 [!DNL Marketo Engage]&#x200B;(으)로 전송된 데이터 및 활동의 전체 그림을 보고 API 오류를 쉽게 해결할 수 있습니다.
 2. **외부 통합을 관리하는 주요 이해 당사자에 대해 숙지하십시오.** Kelly Jo Horton이 이해 당사자를 빠르게 식별하는 데 사용하는 팁은 API 사용자 목록을 참조하는 것입니다.
-   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ko){target="_blank"}.
+   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. API 호출 정보 섹션의 통합>웹 서비스 탭에서 API 사용자별 API 사용 통계를 찾습니다. API 호출 번호를 클릭하면 각 사용자가 수행한 특정 개별 호출을 볼 수 있습니다.
 
 ## 이 시각적 데이터 흐름 다이어그램 연습을 수행하는 방법
@@ -46,7 +46,7 @@ ht-degree: 2%
 
 ### 3단계: 기술 버전
 
-각 통합에 대한 API 사용자 이름, [!DNL Marketo Engage] (으)로 푸시되거나 [!DNL Marketo Engage]에서 가져오는 데이터 유형에 대한 간단한 설명, 미들웨어 흐름 및 트리거에 대한 세부 다이어그램과 같은 세부 정보를 표시하는 기술 버전을 만듭니다.  다음은 한 예입니다.
+각 통합에 대한 API 사용자 이름, [!DNL Marketo Engage]&#x200B;(으)로 푸시되거나 [!DNL Marketo Engage]&#x200B;(으)로부터 가져오는 데이터 유형에 대한 간단한 설명, 미들웨어 흐름 및 트리거에 대한 세부 다이어그램과 같은 세부 정보를 표시하는 기술 버전을 만드십시오. 예를 들면 다음과 같습니다.
 
 ![기술 버전](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
@@ -118,9 +118,9 @@ ht-degree: 2%
       </td>
 </table>
 
-사용할 수 있는 몇 가지 도구는 다음과 같습니다. draw.io(Google 문서), [!DNL Adobe] XD, Figma, Gliffy(Confluence)
+사용할 수 있는 도구는 다음과 같습니다. draw.io(Google Docs), [!DNL Adobe] XD, Figma, Gliffy(Confluence)
 
-**아키텍처 다이어그램이 이미 있으면 어떻게 합니까?**&#x200B;명의 새 팀원은 다양한 관점을 가질 수 있습니다. 새 [!DNL Marketo Engage] 관리자가 온보딩 프로세스의 일부로 이 연습을 수행하고 다른 사용자와 공유하도록 하는 것은 가치가 있습니다.
+**아키텍처 다이어그램이 이미 있으면 어떻게 합니까?** 새로운 팀원들은 서로 다른 관점을 가질 수 있다. 새 [!DNL Marketo Engage] 관리자가 온보딩 프로세스의 일부로 이 연습을 수행하고 다른 사용자와 공유하도록 하는 것은 가치가 있습니다.
 
 ## 작성자
 
@@ -133,4 +133,4 @@ ht-degree: 2%
 **에이미 추**
 *채택 및 유지 마케팅 관리자,[!DNL Adobe]*
 
-(/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![에이미 추](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
