@@ -12,22 +12,22 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 0%
+source-wordcount: '1574'
+ht-degree: 2%
 
 ---
 
 # 자율 커뮤니티를 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/341116/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/341116/?captions=kor&quality=12&learn=on)
 
 자율 커뮤니티는 몇 가지 주목할 만한 특성을 가지고 있습니다. 먼저 [!DNL Adobe Analytics] 관리자가 이를 지원합니다. 구현 내에서 비즈니스 요구 사항이 표현되는 방식에 대해 잘 알고 있습니다. 마지막으로, 데이터 중심의 의사 결정을 위해 분석을 자신 있게 사용할 수 있는 수단을 갖추고 있습니다. 많은 기업이 내부 [!DNL Adobe Analytics] 사용자 그룹 또는 보다 공식적인 커뮤니티에서 제공하는 구조에서 혜택을 누리고 있습니다.
 
 조직 내에 자율 커뮤니티를 만들 수 있습니다. 방법은 다음과 같습니다.
 
-## 1. 자율 커뮤니티의 기반이 되는 견고한 인프라 구축
+## &#x200B;1. 자율 커뮤니티의 기반이 되는 견고한 인프라 구축
 
 * 사용자 온보딩 프로세스 만들기:
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
 * 구현 이해:
 
-  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항에는 구현된 내용이 포함되어야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
+  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko)&#x200B;(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko)&#x200B;(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항에는 구현된 내용이 포함되어야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
 
 * 보고서 템플릿 사용:
 
   [!DNL Adobe Analytics] 보고서 템플릿 및 프로젝트는 귀사의 구현, 사용 사례 보고 및 모범 사례에 도구 사용자를 사용하도록 설정하는 데 중요한 리소스입니다. 이러한 리소스는 일반적인 비즈니스 관련 질문과 도구 내에서 이러한 질문을 가장 잘 답변할 수 있는 방법을 다룹니다.
 
-## 2. 운영자 및 참여자에 대한 계획 수립
+## &#x200B;2. 운영자 및 참여자에 대한 계획 수립
 
 * 커뮤니티 운영자 결정:
 
@@ -61,17 +61,17 @@ ht-degree: 0%
 
    * **도구 사용자:** 귀사의 [!DNL Adobe Analytics] 구현에 사용되는 데이터에 영향을 줄 수 있는 가능성이 있는 사용자는 직함이나 역할에 관계없이 누구나 참여할 수 있습니다.
 
-* 기억하십시오 - &quot;고객에게 어떤 혜택이 제공됩니까?&quot; 비즈니스 사용 사례와 우선 순위에 초점을 맞추면 커뮤니티에서의 참여와 성공을 이끌어낼 수 있습니다.
+* 기억해둬 - &quot;그들이 얻을 수 있는 이득은 무엇인가?&quot; 비즈니스 사용 사례와 우선 순위에 초점을 맞추면 커뮤니티에서의 참여와 성공을 이끌어낼 수 있습니다.
 
-## 3. 도구를 사용하여 커뮤니티 구축 시작
+## &#x200B;3. 도구를 사용하여 커뮤니티 구축 시작
 
-* [프로젝트 헌장 만들기] (assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
+* [프로젝트 헌장 만들기](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
 
   프로젝트 헌장은 종종 비즈니스를 내부 자율 커뮤니티를 위한 기회에 맞춰 조정할 수 있는 좋은 방법입니다. 다음 질문에 답함으로써 헌장 초안을 작성하는 데 필요한 사항을 알 수 있습니다.
 
    * 당신이 해결하고자 하는 문제진술은 무엇입니까? 커뮤니티 목표는 무엇이며, 범위 또는 범위 외의 것으로 예상합니까?
-   * &quot;나에게 있어 이득은 무엇입니까?&quot; 잠재적인 이점 또는 비용, 성공을 측정하는 방법, 그리고 위험은 무엇입니까?
-   * 커뮤니티 라이브를 시작하기 위한 타임라인은 어떻게 됩니까? 활성화, 도구, 관리 사용자 그룹 등에서 필요한 설정 작업 관점? 일반적으로 더 큰 규모의 이니셔티브를 실행하기 전에 기준선 활성화 리소스를 개발하는 것이 가장 좋습니다.
+   * &quot;나에게 무엇이 필요한가?&quot; 잠재적인 이점 또는 비용, 성공을 측정하는 방법, 그리고 위험은 무엇입니까?
+   * 커뮤니티 라이브를 시작하기 위한 타임라인은 어떻게 됩니까? 활성화, 도구, 관리자 사용자 그룹 등의 관점에서 필요한 설정 작업은 무엇입니까? 일반적으로 더 큰 규모의 이니셔티브를 실행하기 전에 기준선 활성화 리소스를 개발하는 것이 가장 좋습니다.
    * 핵심 팀 멤버가 커뮤니티의 성공에 미치는 영향은 어느 정도이며, 해당 이니셔티브 내에서 지원을 받을 사람은 누구입니까?
    * 마지막으로, 경영 스폰서는 누구입니까? 작업과 그 가치에 대한 지원을 승인할 강력한 경영 스폰서의 가치를 아무리 강조해도 지나치지 않습니다.
 
@@ -89,9 +89,9 @@ ht-degree: 0%
    * 커뮤니케이션을 전송할 사용자는 누구입니까?
    * 언제? 커뮤니티 출시 전의 커뮤니케이션과 더불어 출시 이후 지속적인 개선에 제공되어야 하는 사항을 모두 고려해야 합니다.
 
-* 커뮤니티 수단을 사용하여 실행해 보십시오! 귀사의 기술 스택에 따라 커뮤니티를 위한 도구 또는 수단을 선택해야 할 수도 있습니다. 이는 조직에 따라 다르지만 많은 경우 제대로 작동할 Microsoft Teams을 찾습니다.
+* 커뮤니티 수단을 사용하여 실행해 보십시오! 귀사의 기술 스택에 따라 커뮤니티를 위한 도구 또는 수단을 선택해야 할 수도 있습니다. 이는 조직에 따라 다르지만 대부분의 경우 Microsoft Teams이 제대로 작동합니다.
 
-## 4. 커뮤니티 유지, 지속적인 성공 보장
+## &#x200B;4. 지속적인 성공을 보장하면서 커뮤니티 유지
 
 * 시간 예약 - 캘린더에 커뮤니티 회의를 추가하여 시간을 미리 예약하십시오. 가능한 경우 정기 회의는 훌륭한 아이디어이며 콘텐츠 계획을 실행하는 데 도움이 됩니다. 다음은 시작하는 데 도움이 되는 몇 가지 안건 아이디어입니다.
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 자율 커뮤니티를 설정하고 유지하는 데에는 많은 작업이 필요합니다. 한 걸음 물러서서 조직이 이러한 작업을 통해 얻을 수 있는 이점을 인식하는 것이 중요합니다. 내가 직접 본 이점은 다음과 같습니다.
 
-* 데이터 중심의 의사 결정 - [!DNL Adobe Analytics]이(가) 데이터 스토리텔링을 활성화하고 결과를 예측 및 규정하므로, 자율 커뮤니티는 조직 전체에 걸쳐 고객 인텔리전스 및 데이터 중심의 의사 결정을 지원하도록 [비즈니스를 변경](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=ko)할 수 있습니다.
+* 데이터 중심의 의사 결정 - [!DNL Adobe Analytics]이(가) 조직 전체에서 고객 인텔리전스 및 데이터 중심의 의사 결정을 지원하기 위해 액세스할 수 있는 방식으로 데이터 storytelling을 활성화하고 결과를 예측 및 규정하므로, 자율 커뮤니티는 [비즈니스를 변경](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=ko)할 수 있습니다.
 
 * 전문 지식 및 효율성 향상 - 활성화 참여와 마케팅 투자 수익률 간에 직접적인 상관 관계를 만들 수 있습니다. 자율 커뮤니티는 모든 사용자의 전문 지식 수준을 향상시켜 통찰력, 모범 사례, 프로젝트 및 제품 업데이트의 공유를 용이하게 하고 공동 작업을 활성화합니다. 이 작업은 [!DNL Adobe Analytics]을(를) 통해 자급자족 및 더 나은 최적화를 활성화하면서 이 작업을 수행합니다. 마케팅 채널, 페이지, 지리적 위치, 대상자 등을 지원합니다. 또한 경험 최적화를 지원하므로 팀은 가장 큰 영향을 미칠 수 있는 부분에 집중할 수 있습니다.
 
