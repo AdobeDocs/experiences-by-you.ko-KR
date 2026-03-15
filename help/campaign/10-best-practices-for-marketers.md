@@ -28,7 +28,7 @@ Christian Klimczyk는 7년간의 [!DNL [!DNL Adobe] Experience Cloud] 전문 지
 
 [!DNL [!DNL Adobe] [!DNL Campaign]]을(를) 통해 성공을 보장하기 위한 첫 번째 단계는 도구 및 고객 기대치를 이해하는 것입니다. 이는 모든 유형의 마케팅에서 적용됩니다. 소비자에게 연락하는 데 사용할 채널을 명확히 정의하고 이해하며 이 채널을 사용해야 하는 시점과 그 이유를 알아 두어야 합니다.
 
-[!DNL Adobe] [!DNL Campaign]은(는) 다양한 방법으로 커뮤니케이션을 실행하고 오케스트레이션할 수 있는 유연한 도구입니다. [고객의 절반이 각 구매 여정 ](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters) 동안 3~5개의 채널을 사용합니다. 따라서 미리 이 채널을 이해하고 어떻게 사용할지에 대한 계획을 갖추는 것이 플랫폼의 잠재력을 최대한 실현하고 고객의 마음을 움직이는 데 중요합니다.
+[!DNL Adobe] [!DNL Campaign]은(는) 다양한 방법으로 커뮤니케이션을 실행하고 오케스트레이션할 수 있는 유연한 도구입니다. [고객의 절반이 각 구매 여정 &#x200B;](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters) 동안 3~5개의 채널을 사용합니다. 따라서 미리 이 채널을 이해하고 어떻게 사용할지에 대한 계획을 갖추는 것이 플랫폼의 잠재력을 최대한 실현하고 고객의 마음을 움직이는 데 중요합니다.
 
 ## &#x200B;2. 고객 데이터 문서화 및 이해
 
