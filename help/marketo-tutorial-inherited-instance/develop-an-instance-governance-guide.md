@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -62,7 +61,7 @@ ht-degree: 0%
    * 프로그램 목적
    * 상태
    * 프로그램 템플릿 링크
-   * 참고 사항
+   * 메모
 * 변경 로그
    * 프로그램 템플릿 이름
    * 변경 날짜
@@ -119,4 +118,4 @@ ht-degree: 0%
 **에이미 추**
 *채택 및 유지 마케팅 관리자,[!DNL Adobe]*
 
-![에이미 주](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![에이미 추](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

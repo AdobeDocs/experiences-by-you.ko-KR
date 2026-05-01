@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: a7a52347dbf9c3c12f3653c23e01bce611588580
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '4894'
+source-wordcount: '6045'
 ht-degree: 2%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 2%
 QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 
 * **검토자 및 승인자 역할을 담당할 수 있는 사람은 누구입니까?**
-소규모 조직에 있는 경우 [!DNL Marketo Engage] 관리자는 마케팅 및 마케팅 운영의 하이브리드 역할을 할 수 있습니다. 빌더가 아닌 [!DNL Marketo Engage]이(가) 있는 것이 좋습니다. 고급 사용자가 프로그램을 감사하도록 하십시오. 새로운 눈 한 쌍은 문제를 발견하는 데 도움이 된다.
+더 작은 조직에 있는 경우 [!DNL Marketo Engage] 관리자는 마케팅 및 마케팅 운영의 하이브리드 역할을 할 수 있습니다. 빌더가 아닌 [!DNL Marketo Engage]이(가) 있는 것이 좋습니다. 고급 사용자가 프로그램을 감사하도록 하십시오. 새로운 눈 한 쌍은 문제를 발견하는 데 도움이 된다.
 
 * **빌더와 검토자가 어떻게 공동 작업하고 메모 및 변경 내용을 문서화할 수 있습니까?**
 스프레드시트나 프로젝트 관리 플랫폼 내에 정리된 내용을 유지할 수 있습니다. 아래 체크리스트를 참조하고 템플릿을 조직에 가장 적합한 형식으로 변환하십시오. 팀이 프로그램을 빌드하고 시작할 때마다 템플릿을 복제하면 됩니다.
@@ -156,7 +155,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 |---|---|---|---|---|
 | 1 | **법적 근거:**<br>&#x200B;대상자에게 연락할 수 있는 적절한 법적 근거가 있습니다. | <ul><li>**명시적:** 브랜드에서 마케팅 알림을 받도록 명시적으로 옵트인했습니까? </li><li>**유추(준수하는 경우):** 사용자가 연락처 세부 정보를 제공했으며 이 정보를 사용하여 연락하는 데 도움이 될 것으로 예상할 수 있습니까? </li><li>**간주됨(준수하는 경우):** 공용 소스에서 연락처 세부 정보를 가져왔으며 공용 소스를 고려할 때 콘텐츠가 사용자와 관련이 있다고 합리적으로 가정할 수 있습니까?</li></ul> | **예, 근거를 명시합니다.** 선택한 기준이 준수 환경에서 유효한지 확인하십시오. 예로 대답할 수 없는 경우 프로그램 시작을 보류하고 이 대상자에게 연락하는 법적 근거에 대한 설명을 요청하십시오. | [개인 정보 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ko){target="_blank"} |
 | 2 | **데이터 소스** | 가져오기 목록을 통해 대상자를 식별하는 경우 데이터 소스를 신뢰할 수 있습니까? | **예 또는 적용할 수 없음:**<br>&#x200B;예로 대답할 수 없는 경우 데이터 원본에 대한 설명을 확인하십시오. | [목록을 가져와서 대상 정의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.html?lang=ko){target="_blank"} |
-| 3 | **구매 목록** | 대상자가 목록 구매 또는 후원 활동을 통해 소싱되었습니까? | **소스 = 목록 구매:**<br> 목록 구매는 잘못된 관행이고, 많은 곳에서 불법이며, Marketing Automation 플랫폼과의 계약을 위반하는 경우가 많습니다.<br><br>**예, source = sponsorship인 경우** <br>후원 및 경쟁 사례에서 데이터 캡처가 준수되었는지 확인하십시오. 첫 번째 커뮤니케이션에서 정보를 받은 방식을 명확히 하고 사람들이 쉽게 옵트아웃할 수 있도록 하는 것이 좋습니다. |  |
+| 3 | **구매 목록** | 대상자가 목록 구매 또는 후원 활동을 통해 소싱되었습니까? | **출처 = 목록 구매인 경우 아니오:**<br> 목록 구매는 잘못된 관행이고, 많은 곳에서 불법이며, Marketing Automation 플랫폼과의 계약을 위반하는 경우가 많습니다.<br><br>**출처 = 후원의 경우** <br>후원 및 경쟁 사례에서 데이터 캡처가 준수되었는지 확인하십시오. 첫 번째 커뮤니케이션에서 정보를 받은 방식을 명확히 하고 사람들이 쉽게 옵트아웃할 수 있도록 하는 것이 좋습니다. |  |
 | 4 | **관련성** | 이 대상자를 전송하려는 정보는 대상자 및 사용자와의 관계와 관련이 있습니다. | **예:** <br>예로 대답할 수 없는 경우 중지한 후 이 사람들에게 메일을 보내는 이유를 신중하게 고려하십시오. 귀하와 관련이 없는 정보를 보내면 성능 및 전달성에 부정적인 영향을 미칠 수 있으며 규정 준수 환경에 위반이 될 수 있습니다. |  |
 | 5 | **예상** | 이 대상자는 사용자의 의견을 듣기를 기대합니다. | **예:** <br>예로 대답할 수 없는 경우 중지한 후 이 사람들에게 메일을 보내는 이유를 신중하게 고려하십시오. 사용자의 의견을 듣기를 원하거나 원하지 않는 대상자에게 이메일을 보내면 성능 및 전달성에 부정적인 영향을 미칠 수 있으며 규정 준수 환경에 위반이 될 수 있습니다. |  |
 
@@ -185,7 +184,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 19 | **A/B 및 Champ/Challenger 테스트** | 이메일에서 챔피언/챌린저 테스트를 실행하고 있습니까? | **예 또는 아니요:**<br>&#x200B;테스트를 수행하지 않는 경우 대상자에 대해 자세히 알아볼 수 있는 기회를 놓치고 있는지 생각해 보십시오. | [A/B 테스트 만들기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=ko)<br><br>[이메일 챔피언/도전자 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=ko){target="_blank"} |
 | 20 | **클라이언트 테스트** | 클라이언트 테스트 소프트웨어를 통해 이메일을 실행했습니까?<li>주요 이메일 클라이언트에서 디스플레이 문제를 확인했습니까? <li>긴급하지 않은 템플릿 수정 사항을 수정하거나 기록했습니까? <li>로드 속도 문제를 식별하고 개선하려고 시도했습니까?<li>제목란/미리 보기 라인 문제를 식별했습니까? 해결되었습니까? | **예 또는 적용할 수 없음:**<br> 예(테스트 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. | 클라이언트 테스트 소프트웨어의 예로는 Litmus 또는 Email on Acid 또는 [Marketo 이메일 전달성 파워 팩](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=ko)<br><br>[받은 편지함 추적기 자습서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ko){target="_blank"}가 있습니다. |
 | 21 | **스팸 테스트** | 이메일을 스팸 처리로 실행했습니까?<li>인식을 위해 차단 목록에 추가 플래그가 있습니까?<li>받은 편지함 배치/이메일 클라이언트 플래그를 식별했습니까? <li>잠재적 원인을 찾고 해결하려고 시도한 적이 있습니까? | **예 또는 적용할 수 없음:**<br>&#x200B;테스트 소프트웨어가 없는 경우 예(yes)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. | 계약에 포함된 경우 이에 대해 [Marketo의 받은 편지함 추적기 기능](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ko){target="_blank"}을 사용하거나 Litmus 또는 Email on Acid와 같은 도구를 사용하십시오. |
-| 22 | **추가[!DNL Analytics]** | 이메일에는 추가 분석 코드가 포함되어 있습니까? | **예 또는 적용할 수 없음:**<br>       예(추가 분석 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. |  |
+| 22 | **추가[!DNL Analytics]** | 이메일에는 추가 분석 코드가 포함되어 있습니까? | **예 또는 적용할 수 없음:**<br> 예(추가 분석 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. |  |
 
 >[!TAB 최종 확인]
 
@@ -206,7 +205,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 
 **그레이스 브레브너**
 [!DNL Adobe] Marketo 챔피언(2021)
-*클라이언트 전략, APAC 지역, 디지털 Pi, LLC - A Merkle Company의 책임자*
+*클라이언트 전략, APAC 지역, 디지털 Pi, LLC - 머클 회사 이사*
 
 ![그레이스 브레브너](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Grace_Brebner.png){width=30%}
 
