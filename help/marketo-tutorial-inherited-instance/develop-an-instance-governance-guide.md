@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 기존 [!DNL Marketo Engage] 인스턴스를 시작할 때 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 발생합니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. [설정된 [!DNL Marketo Engage] 인스턴스](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)에서 작업할 때 효율성을 높이는 중요한 전략 중 하나입니다.
 
-[!DNL [!DNL Adobe] Marketo Champion] (2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
+[!DNL [!DNL Adobe] Marketo Champion](2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
 
 ## 상속된 인스턴스에 대한 인스턴스 거버넌스 안내서 개발
 
@@ -30,7 +29,7 @@ ht-degree: 0%
 
 1. 확장 가능한 방식으로 내부 사용자를 보다 쉽게 교육합니다.
 2. 장기적으로 [!DNL Marketo Engage]에서 보다 효율적으로 빌드합니다.
-3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ko) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ko)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
+3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
 4. 팀에 이직이 있는 경우 새 [!DNL Marketo Engage] 관리자에게 [!DNL Marketo Engage] 지식을 전송하는 데 시간을 절약하십시오.
 
 ## [!DNL Marketo Engage] 거버넌스 안내서 101
@@ -62,7 +61,7 @@ ht-degree: 0%
    * 프로그램 목적
    * 상태
    * 프로그램 템플릿 링크
-   * 참고 사항
+   * 메모
 * 변경 로그
    * 프로그램 템플릿 이름
    * 변경 날짜
@@ -111,7 +110,7 @@ ht-degree: 0%
 ### 작성자
 
 **Nick Hajdin**
-[!DNL [!DNL Adobe] Marketo Champion] (2018)
+[!DNL [!DNL Adobe] Marketo Champion](2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
@@ -119,4 +118,4 @@ ht-degree: 0%
 **에이미 추**
 *채택 및 유지 마케팅 관리자,[!DNL Adobe]*
 
-![에이미 주](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![에이미 추](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

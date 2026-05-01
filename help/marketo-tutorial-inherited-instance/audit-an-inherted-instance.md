@@ -9,9 +9,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
-hide: false
 exl-id: e691d38f-34c2-4e46-908e-c96f82eb1399
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -24,4 +23,4 @@ ht-degree: 0%
 
 이 자습서에서는 관리, 마케팅 활동, Design Studio 및 데이터베이스를 포함하여 [!DNL Marketo Engage] 내에서 가장 중요한 섹션을 안내하고 그 과정에서 감사 및 최적화를 위한 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453029/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
