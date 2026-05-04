@@ -6,10 +6,11 @@ index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 auto-video-transcripts: true
-source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
+source-git-commit: cddb05edf1f607bc1e695dcf593364958f21320b
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: 97
 ht-degree: 7%
 
 ---
@@ -26,5 +27,5 @@ ht-degree: 7%
 + [새 인스턴스 구성 및 이름 지정 규칙 설정](./organizing-new-instance.md)
 + [Dynamic Chat을 통한 옴니채널 대화 마케팅 디자인](./designing-omnichannel-conversational-marketing.md)
 + [인스턴스 거버넌스 및 설명서 시작](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage] 자습서](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/overview)
-+ [관점으로 돌아가기](https://experienceleague.adobe.com/ko/perspectives)
++ [[!DNL Marketo Engage] 자습서](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [관점으로 돌아가기](https://experienceleague.adobe.com/en/perspectives)
