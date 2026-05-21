@@ -26,5 +26,5 @@ ht-degree: 8%
 + [인스턴스 거버넌스 안내서 개발](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [마케팅 기술 스택을 시각적으로 매핑](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [프로그램 출시 전 품질 보증 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [[!DNL Marketo Engage] 자습서](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
-+ [관점으로 돌아가기](https://experienceleague.adobe.com/en/perspectives)
++ [[!DNL Marketo Engage] 자습서](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/overview)
++ [관점으로 돌아가기](https://experienceleague.adobe.com/ko/perspectives)
