@@ -21,7 +21,7 @@ ht-degree: 0%
 
 새 [!DNL Marketo Engage] 인스턴스를 라이브로 가져올 때 관련 팀이 작업에 [!DNL Marketo Engage]을(를) 활용할 수 있도록 속도를 높일 차례입니다.
 
-이러한 내부 온보딩 및 교육 우수 사례는 Adobe Marketo Engage 고객인 Naomi Liu가 제공했으며 [내부 온보딩](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank} 및 Imaging의 글로벌 팀에 대한 Electronics의 새 인스턴스를 구현한 경험에서 파생된 [교육 우수 사례](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank}를 공유합니다. 그녀의 통찰력을 따라 내부 팀을 위한 효과적인 교육 계획을 수립하십시오.
+이러한 내부 온보딩 및 교육 우수 사례는 Adobe Marketo Engage 고객인 Naomi Liu가 제공했으며 [내부 온보딩](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank} 및 Imaging의 글로벌 팀에 대한 Electronics의 새 인스턴스를 구현한 경험에서 파생된 [교육 우수 사례](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank}를 공유합니다. 그녀의 통찰력을 따라 내부 팀을 위한 효과적인 교육 계획을 수립하십시오.
 
 ## 새 인스턴스를 구현할 때 내부 온보딩 계획을 개발하는 이유는 무엇입니까?
 
