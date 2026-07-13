@@ -60,7 +60,7 @@ _복잡한 데이터 세분화의 복잡성을 파악하고 제외, 컨테이너
 
 ![그림2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*위와 같이&#x200B;**visit**내의 각 히트가 동일한 true/false로 평가됩니다. 그러나 반환되는 데이터 집합은 전체 방문의 데이터 집합입니다.*
+*위와 같이&#x200B;**visit**&#x200B;내의 각 히트가 동일한 true/false로 평가됩니다. 그러나 반환되는 데이터 집합은 전체 방문의 데이터 집합입니다.*
 
 - 각 히트에서 &quot;Value&quot;는 &quot;Example&quot;(예)을 포함하지 않으므로 true를 반환합니다. 마찬가지로 &quot;Example&quot;도 &quot;Example&quot;(아니요, 포함합니다.)을 포함하지 않으므로 false를 반환합니다.
    - 방문의 **any** 히트가 **true**&#x200B;을(를) 반환하면 **전체 방문**&#x200B;이 반환됩니다.*
@@ -76,7 +76,7 @@ _복잡한 데이터 세분화의 복잡성을 파악하고 제외, 컨테이너
 
 ![그림3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*위와 같이&#x200B;**visitor**에 의해 만들어진 각 히트는 동일한 true/false 논리로 평가됩니다. 그러나 지금은 이 방문자가 모든 방문 동안(선택한 날짜 범위 내) 수행한 모든 히트를 보고 있습니다.*
+*위와 같이&#x200B;**visitor**&#x200B;에 의해 만들어진 각 히트는 동일한 true/false 논리로 평가됩니다. 그러나 지금은 이 방문자가 모든 방문 동안(선택한 날짜 범위 내) 수행한 모든 히트를 보고 있습니다.*
 
 - 각 히트에서 &quot;Value&quot;는 &quot;Example&quot;(예)을 포함하지 않으므로 true를 반환합니다. 마찬가지로 &quot;Example&quot;도 &quot;Example&quot;(아니요, 포함합니다.)을 포함하지 않으므로 false를 반환합니다.
    - 방문자가 수행한 **any** 히트가 **true**&#x200B;을(를) 반환하면 **전체 방문**&#x200B;이 반환됩니다.
