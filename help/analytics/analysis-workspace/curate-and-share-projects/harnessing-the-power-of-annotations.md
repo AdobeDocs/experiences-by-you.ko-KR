@@ -1,5 +1,5 @@
 ---
-title: 분석 인사이트 잠금 해제, 주석의 기능 활용
+title: Analytics insight 잠금 해제, 주석의 강력한 기능 활용
 description: Adobe Analysis Workspace에서 주석이 수행하는 중요한 역할을 알아보고, 주석의 활용도를 극대화하기 위한 실용적인 팁을 확인합니다. 데이터 이해와 공동 작업을 새로운 수준으로 향상시켜 그 과정에서 더 풍부한 분석 통찰력을 얻을 수 있습니다.
 feature: Annotations
 role: User
@@ -12,12 +12,12 @@ thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '716'
 ht-degree: 3%
 
 ---
 
-# 분석 인사이트 잠금 해제, 주석의 기능 활용
+# Analytics insight 잠금 해제, 주석의 강력한 기능 활용
 
 주석 데이터 구성 요소는 Adobe Analysis Workspace에서 제공되는 가장 간단하지만 장기적으로 가장 시간을 절약할 수 있는 기능 중 하나입니다. Workspace 내의 다른 기능과 달리 이 기능은 사용자와 동료 Workspace 사용자에게 이야기 구조의 내역 메모리 역할을 합니다.
 
@@ -44,7 +44,7 @@ ht-degree: 3%
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-주석 작동 방식에 대한 모든 세부 정보는 [Experience League에 대한 비디오 튜토리얼](https://experienceleague.adobe.com/ko/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)을(를) 참조하십시오.
+Annotations의 작동 방식에 대한 자세한 내용은 [Experience League에 대한 비디오 튜토리얼](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace)을 참조하세요.
 
 ## 시작하기 위한 팁과 요령
 
@@ -75,7 +75,7 @@ ht-degree: 3%
 
 ![9thimage](assets/9thimage.png)
 
-자세한 설명서는 [주석 개요](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/annotations/overview) 및 관련 문서를 참조하십시오.
+자세한 설명서는 [주석 개요](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) 및 관련 문서를 참조하십시오.
 
 ## 작성자
 
@@ -83,4 +83,4 @@ ht-degree: 3%
 
 ![thomas-headshot](assets/thomas-headshot.png)
 
-Thomas Edward Buckley, Miles &amp; More(Lufthansa Group) Data Warehouse 및 Business Intelligence 관리자
+Thomas Edward Buckley, Manager Data Warehouse &amp; Business Intelligence at Miles &amp; More(Lufthansa Group)
