@@ -13,7 +13,7 @@ thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -28,8 +28,8 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ## 데이터 유형 불일치 오류
 
-**오류 코드:**
-`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
+**오류 코드:
+
 
 **원인:**
 이러한 유형의 오류는 다른 데이터 유형의 필드를 사용하여 조정하려고 할 때 워크플로우에 나타납니다. 예를 들어 문자열 필드가 있는 로드 파일을 사용하여 파일을 업로드할 때 문자열 필드를 데이터 유형이 int인 프로필 필드로 조정하려고 합니다.
@@ -44,8 +44,8 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ## 게재 Personalization 오류
 
-**오류 코드:**
-`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
+**오류 코드:
+
 
 **원인:**
 이 오류는 주소로 이메일을 보내지만 이메일 또는 다른 식별자가 프로필과 조정되지 않은 경우에 나타납니다. 이메일 통신을 보내려면 이메일 또는 식별자가 항상 프로필에 연결되어 있어야 합니다.
@@ -59,7 +59,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ![조정 세부 정보가 포함된 워크플로](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-[조정](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=ko)에 대해 자세히 알아보세요.
+[조정](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)에 대해 자세히 알아보세요.
 
 ## 공통 필드 데이터 세트 오류
 
@@ -83,12 +83,12 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 2. JOINS 제외 방법을 사용하여 레코드를 제외할 필드를 선택합니다.
 
-![일반 필드 데이터 세트 오류 - 솔루션 &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![일반 필드 데이터 세트 오류 - 솔루션 ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## 필드 이름 삭제 오류
 
-**오류 코드:**
-`XTK-170036 Unable to parse expression 'i__name'`
+**오류 코드:
+
 
 **원인:**
 
@@ -110,13 +110,13 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ## 임시 테이블 삭제 오류 
 
-**오류 코드:**
-`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
+**오류 코드:
+
 
 **원인:**
 데이터 보강 또는 기타 활동과 관련된 복잡한 워크플로의 일반적인 오류입니다. 이는 일부 활동 워크플로우가 워크플로우를 여러 번 변경하는 동안 올바르게 저장되지 않음을 의미할 수 있습니다.
 
-![임시 테이블 삭제 오류 &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![임시 테이블 삭제 오류 ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **솔루션:**
 이 오류가 발생할 수 있는 방법은 여러 가지가 있으므로 간단한 해결은 없습니다. 단순 워크플로우인 경우 활동을 다시 구성하는 것이 좋습니다. 복잡한 워크플로우에서는 워크플로우 활동을 새 워크플로우에 복사하고 저장한 다음 다시 실행하는 것이 좋습니다.
