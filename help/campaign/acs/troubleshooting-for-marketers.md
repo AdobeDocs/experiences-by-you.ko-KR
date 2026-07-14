@@ -59,7 +59,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ![조정 세부 정보가 포함된 워크플로](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-[조정](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en)에 대해 자세히 알아보세요.
+[조정](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=ko)에 대해 자세히 알아보세요.
 
 ## 공통 필드 데이터 세트 오류
 
