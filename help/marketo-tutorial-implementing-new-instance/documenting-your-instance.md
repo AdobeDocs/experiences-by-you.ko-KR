@@ -23,7 +23,7 @@ ht-degree: 0%
 
 하지만 거기서 멈추지 않습니다. Marketo Engage에 대한 숙련도를 높이기 위해 보충 지원 문서 또는 교육 자료가 필요할 수 있습니다. 이러한 리소스에는 대화형 연습, 액세스 퀴즈 또는 Marketo Engage 내의 허용되는 작업에 대한 지침이 포함될 수 있으므로 조직 내의 모든 Marketo Engage 사용자에게 도움이 됩니다. 포괄적인 거버넌스 가이드를 만들거나 주요 설정 측면을 처음에 문서화하든, 온보딩 중에 결정된 사항을 기록하는 것은 현재 팀과 미래 세대의 신규 채용을 위한 Marketo Engage의 성공을 보장하는 데 핵심입니다.
 
-이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문 지식을 가진 사람이 제공한 모범 사례에 대해 알아봅니다. [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}를 통해 프로세스를 구축하고 내부 사용자와 관련된 설명서를 유지할 수 있습니다.
+이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문 지식을 가진 사람이 제공한 모범 사례에 대해 알아봅니다. [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}를 통해 프로세스를 구축하고 내부 사용자와 관련된 설명서를 유지할 수 있습니다.
 
 ## 인스턴스 구현 중 변경 사항 및 결정을 문서화하는 것이 중요한 이유
 
@@ -68,7 +68,7 @@ ht-degree: 0%
    * 개인 라이프사이클
    * 데이터 관리
 1. Marketo Engage 인스턴스에서 빌드
-   * [COE(Center of Excellence)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
+   * [COE(Center of Excellence)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
    * 폴더 구조
    * 이름 지정 규칙
    * 프로그램 조직
