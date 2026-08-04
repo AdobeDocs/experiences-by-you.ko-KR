@@ -12,18 +12,18 @@ thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1098'
-ht-degree: 5%
+source-wordcount: '1194'
+ht-degree: 9%
 
 ---
 
-# 새 Marketo Engage 구현 계획
+# 새로운 Marketo Engage 구현을 위한 계획
 
 새로운 Marketo Engage 인스턴스 구현에는 세심한 계획, 팀 간의 공동 작업 및 지속적인 최적화가 포함됩니다. 새로운 인스턴스를 구현하는 완벽한 방법은 없지만, 이를 경험한 대부분의 Marketo Engage 관리자는 향후 계획을 통해 프로세스가 훨씬 더 원활해질 것이라는 데 동의할 수 있습니다.
 
 이 튜토리얼에서는 성공적인 Marketo Engage 롤아웃에 중요한 특정 이정표, 팀 참여 및 리소스 할당에 대해 알아봅니다.
 
-## 새 Marketo Engage 구현 동안의 주요 이정표
+## 새로운 Marketo Engage 구현 동안의 주요 이정표
 
 ### 1단계 - 검색 및 계획
 
@@ -32,13 +32,13 @@ ht-degree: 5%
 
 ### 2단계 - 기술 설정 및 구성
 
-- CNAME 및 Munchkin 코드를 포함한 관리 설정을 구성하는 중입니다.
+- CNAME 및 Munchkin 코드를 포함한 관리 설정을 구성합니다.
 - 리드 관리 프로세스 구성
 - 자동화 워크플로 및 데이터 동기화 테스트
 
 ### 3단계 - 프로그램 라이브러리 만들기 및 캠페인 설정
 
-- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
+- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
 - 세그먼테이션 및 Personalization 규칙 설정
 - 리드 생성 및 육성을 위한 초기 캠페인 만들기
 
@@ -56,7 +56,7 @@ ht-degree: 5%
 
 ## 이해 당사자 참여 및 리소스 필요
 
-새 인스턴스를 구현하려면 인스턴스의 이점을 극대화하기 위한 세심한 계획과 실행이 필요합니다. 처음부터 적절한 이해 당사자를 참여시키면 조직의 전반적인 요구 사항에 맞게 구현을 조정할 수 있습니다. 아래 프로젝트에서 주요 관련자와 이들의 잠재적인 역할에 대한 샘플을 참조하여 Marketo Engage을 구현할 올바른 내부 파트너를 찾을 수 있습니다.
+새 인스턴스를 구현하려면 인스턴스의 이점을 극대화하기 위한 세심한 계획과 실행이 필요합니다. 처음부터 적절한 이해 당사자를 참여시키면 조직의 전반적인 요구 사항에 맞게 구현을 조정할 수 있습니다. 아래 프로젝트에서 주요 관련자와 이들의 잠재적 역할에 대한 샘플을 참조하여 Marketo Engage을 구현할 올바른 내부 파트너를 찾을 수 있습니다.
 
 <table>
  <thead>
@@ -67,7 +67,7 @@ ht-degree: 5%
  </thead>    
  <tbody>
     <tr>
-        <td>마케팅 운영 Director/Manager</td>
+        <td>마케팅 운영 디렉터/관리자</td>
         <td>
         <li>프로젝트에 대한 주요 담당자</li>
         <li>인스턴스 거버넌스 규칙</li> 
@@ -84,7 +84,7 @@ ht-degree: 5%
      <tr>
         <td>IT 관리자</td>
         <td>
-        <li>먼치킨</li>
+        <li>Munchkin</li>
         <li>SPF/DKIM </li> 
         <li>웹 도메인 설정</li> 
         <li>CNAME</li> 
@@ -132,7 +132,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
 
 ## 다음은 무엇입니까?
 
-새 구현 프로젝트 계획 및 타임라인을 만듭니다. 다음은 샘플 이정표, 작업, 책임 팀, 기한 및 종속성에 대한 섹션을 포함하는 샘플 프로젝트 타임라인입니다. 이를 사용하여 Marketo Engage 구현 여정을 간소화하고 조직 전체에 대한 성공적인 롤아웃을 보장하십시오.
+새 구현 프로젝트 계획 및 타임라인을 만듭니다. 다음은 샘플 이정표, 작업, 책임 팀, 기한 및 종속성에 대한 섹션을 포함하는 샘플 프로젝트 타임라인입니다. 이를 사용하여 Marketo Engage 구현 여정을 간소화하고 조직 전체에 성공적으로 롤아웃할 수 있습니다.
 
 특정 마일스톤 작업 [여기](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx)를 편집하고 추적하는 예제를 다운로드할 수도 있습니다.
 
@@ -165,7 +165,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td>웹 개발 팀</td>
     </tr>
     <tr>
-        <td><em>예 -</em> 배달 가능성 및 전자 메일 추적 링크에 대해 DKIM(Domain Keys Identified Mail) 및 2개의 개별 CNAME을 설정합니다.</td>
+        <td><em>예 -</em> 배달 가능성 및 전자 메일 추적 링크를 위해 Domain Keys Identified Mail(DKIM)와 2개의 개별 CNAME을 설정합니다.</td>
         <td bgcolor="c6f0cf">완료</td>
         <td>9/15/24</td>
         <td>9/18/24</td>
@@ -177,7 +177,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td bgcolor="c6f0cf">완료</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
-        <td>Marketo Engage 액세스 권한이 필요한 사용자에 대한 마케팅 팀의 정보입니다.</td>
+        <td>Marketo Engage에 액세스해야 하는 사용자에 대한 마케팅 팀의 정보입니다.</td>
     </tr>
     <tr>
         <td><em>예 -</em> Adobe Admin Console에서 추가 Marketo Engage 제품 관리자 만들기</td>
@@ -198,7 +198,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td bgcolor="c6f0cf">완료</td>
         <td>9/7/24</td>
         <td>9/12/24</td>
-        <td>프로그램 유형 및 조직 요구 사항에 대한 Marketo Engage을 사용하여 각 팀의 정보를 입력합니다.</td>
+        <td>프로그램 유형 및 조직 요구 사항에 대해 Marketo Engage을 사용하는 각 팀의 입력입니다.</td>
     </tr>
     <tr>
         <td rowspan="2">CRM 통합(적용되는 경우)</td>
@@ -235,7 +235,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td bgcolor="ffeb9c">진행 중</td>
         <td>11/12/24</td>
         <td>N/A</td>
-        <td>이메일 및 랜딩 페이지를 위한 디지털 팀의 크리에이티브 자산입니다.</td>
+        <td>이메일 및 랜딩 페이지용 디지털 팀의 Creative 에셋.</td>
     </tr>
     <tr>    
         <td><em>예 -</em> 분기별 뉴스레터용 프로그램 만들기</td>
@@ -257,7 +257,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td bgcolor="ffc7cf">시작되지 않음</td>
         <td>12/7/24</td>
         <td>   </td>
-        <td>Google 광고에 액세스하기 위해 Marketo Engage을 인증하도록 웹 및 유료 미디어 팀의 지원을 제공합니다.</td>
+        <td>Marketo Engage을 인증하여 Google 광고에 액세스할 수 있도록 웹 및 유료 미디어 팀의 지원을 받습니다.</td>
         <td>
     </tr>
     <tr>
@@ -272,7 +272,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
         <td bgcolor="ffc7cf">시작되지 않음</td>
         <td>12/13/24</td>
         <td>N/A</td>
-        <td>Marketo Engage 액세스에 필수인 교육을 만들도록 마케팅 VP의 지원.</td>
+        <td>Marketo Engage 액세스에 필수 교육을 만들도록 마케팅 VP의 지원.</td>
     <tr>
         <td rowspan="2">실행</td>
         <td><em>예 -</em> 첫 번째 뉴스레터 전송</td>
@@ -292,9 +292,9 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
 </table>
 
 >[!NOTE]
->제공된 예제는 실제 구현 타임라인을 기반으로 하지 않습니다. 모든 구현은 조직의 요구 사항에 따라 서로 다른 이정표와 요구 사항을 가지고 있으므로 이러한 사항을 Marketo Engage으로 온보딩하기 위한 표준 타임라인으로 사용하지 마십시오.
+>제공된 예제는 실제 구현 타임라인을 기반으로 하지 않습니다. 모든 구현은 조직의 요구 사항에 따라 서로 다른 이정표와 요구 사항을 가지고 있으므로 이를 Marketo Engage과의 온보딩에 대한 표준 타임라인으로 사용하지 마십시오.
 
-인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
+인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
 
 ### 작성자
 
