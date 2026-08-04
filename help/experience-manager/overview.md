@@ -32,7 +32,7 @@ ht-degree: 27%
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="팁과 트릭 - 편집 가능한 템플릿" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="팁과 트릭 - 편집 가능한 템플릿" src="https://video.tv.adobe.com/v/3439844?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +58,7 @@ ht-degree: 27%
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="팁과 트릭" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="팁과 트릭" src="https://video.tv.adobe.com/v/3439478?captions=kor&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

@@ -128,7 +128,7 @@ ht-degree: 9%
 
 Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및 구현 경험에 대해 들어보십시오. 그가 직면한 문제와 온보딩 프로세스를 성공적이고 효율적으로 추진하는 방법에 대한 그의 조언에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447937/?captions=kor&quality=12&learn=on)
 
 ## 다음은 무엇입니까?
 

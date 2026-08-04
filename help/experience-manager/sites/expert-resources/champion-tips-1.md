@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # AEM 챔피언 팁 및 요령: 편집 가능한 템플릿
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439844?captions=kor&quality=12&learn=on)
