@@ -49,7 +49,7 @@ Sara가 대화 흐름 매핑에서 Dynamic Chat 및 Marketo Engage에서의 대�
 
 이 대화 상자는 사이트 방문자가 선택할 수 있는 5개의 초기 옵션을 제공하여 자기 성향에 따라 필요한 정보를 찾는 데 도움이 되는 셀프 가이드 경험을 만듭니다. 먼저 &#39;문의하기&#39; 이메일 받은 편지함을 탐색하여 일반적인 테마를 식별하고 사이트 방문자에게 적용되는 대화 상자 옵션으로 분류할 수 있습니다. 데모를 시청하고 아래 단계에 따라 기본 다목적 캐치 대화 상자를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453737/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446482/?captions=kor&learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ Sara가 대화 흐름 매핑에서 Dynamic Chat 및 Marketo Engage에서의 대�
 
 업계 타겟팅 콘텐츠를 통합하여 기본 다목적 대화 상자 를 더욱 향상시킬 수 있으므로 방문자에게 더욱 유용합니다. 예를 들어 방문자가 다운로드할 수 있는 산업별 백서 또는 사례 연구를 제안합니다. 데모를 시청하고 아래 단계에 따라 계정 기반 마케팅을 위한 기본 다목적 대화 상자를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441392/?captions=kor&learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +111,7 @@ Sara가 대화 흐름 매핑에서 Dynamic Chat 및 Marketo Engage에서의 대�
 
 이벤트와 웨비나는 B2B 비즈니스가 수요를 창출하기 위해 인기 있는 마케팅 전술입니다. 그들은 잠재 고객을 끌어들이는 매력적인 경험과 풍부한 정보를 제공합니다. 웹 사이트 방문자를 예정된 이벤트 및 웨비나에 연결하면 잠재 고객을 훨씬 더 빠르게 평가할 수 있습니다. 이 대화 상자를 만드는 것은 적은 노력과 낮은 비용이며 성공을 신속하게 보여 줄 수 있으므로 마케팅 이해 당사자로부터 옴니채널 자동화 계획에 대화 참여를 추가할 수 있는 지원을 얻을 수 있습니다. 데모를 시청하고 아래 단계에 따라 이벤트/웨비나 프로모션 대화 상자를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445097/?captions=kor&learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ Sara가 대화 흐름 매핑에서 Dynamic Chat 및 Marketo Engage에서의 대�
 >[!NOTE]
 >특정 보호 상태/국가에 관련된 잠재적인 보안 위험을 고려하고 법률 팀과 상의하여 이 개인화를 신중하게 구현하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437096/?captions=kor&learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +173,11 @@ Sara가 대화 흐름 매핑에서 Dynamic Chat 및 Marketo Engage에서의 대�
 
 매혹적인 윈도우 디스플레이가 시선을 사로잡는 것을 상상해 보세요. 접수원이 제품을 선택하는 데 도움을 주거나 질문에 답변해 줄 경우 구입하는 것이 더 편해질 수 있습니다. 이 경험을 온라인에서 복제하려면 마케팅 캠페인이 방문자에게 안내하는 웹 페이지에 Dynamic Chat 대화 상자가 나타나도록 할 수 있습니다. 사용자가 웹 콘텐츠에 참여하면 Dynamic Chat은 즉시 관련 대화를 표시하여 추가 콘텐츠를 제안하거나 잠재적인 질문을 해결합니다. 이는 자동화 트리거를 활용하여 Marketo Engage 프로그램 내의 사용자 참여를 기반으로 Dynamic Chat 캠페인을 활성화함으로써 달성할 수 있습니다. 이제 이 사용 사례를 어떻게 구현하는지 살펴보겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437586/?captions=kor&learn=on)
 
 Campaign 컨텐츠 참여 확장 - 구성:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439502/?captions=kor&learn=on)
 
 >[!BEGINTABS]
 

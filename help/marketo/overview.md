@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You: 사용자별 리소스, 사용자용.
 
-[!DNL Adobe] Experience Cloud 솔루션에 대한 가장 강력한 기능 너. 제품을 가져와서 파고들어 놀랍고 혁신적인 방법으로 적용하여 의미 있는 경험과 결과를 만드는 사용자입니다. 사용자별 경험은 [!DNL Adobe] Experience Cloud 솔루션으로 수준 높은 전문성과 영향력을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 이러한 P2P 지식은 공동 작업 및 발견을 촉진하여 귀하와 다른 모든 사용자가 귀하의 제품 전문 지식을 향상시키는 데 필요한 영감을 찾을 수 있도록 합니다.
+[!DNL Adobe] Experience Cloud 솔루션에 대한 가장 강력한 기능 너. 제품을 가져와서 파고들어 놀랍고 혁신적인 방법으로 적용하여 의미 있는 경험과 결과를 만드는 사용자입니다. 사용자별 경험은 [!DNL Adobe] Experience Cloud 솔루션으로 수준 높은 전문 지식과 영향을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 이러한 P2P 지식은 공동 작업 및 발견을 촉진하여 귀하와 다른 모든 사용자가 귀하의 제품 전문 지식을 향상시키는 데 필요한 영감을 찾을 수 있도록 합니다.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -76,7 +76,7 @@ ht-degree: 16%
 
 ## 추가 리소스
 
-* [Marketo 국가(커뮤니티)](https://nation.marketo.com/)
+* [Marketo Nation(커뮤니티)](https://nation.marketo.com/)
 * [Adobe Marketo Engage 설명서](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ko)
 * [Adobe Marketo Engage 자습서](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)
 * [Adobe Marketo Engage 제품 정보](https://business.adobe.com/kr/products/marketo/adobe-marketo.html)
