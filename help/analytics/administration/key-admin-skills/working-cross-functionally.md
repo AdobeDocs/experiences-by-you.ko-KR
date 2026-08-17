@@ -12,14 +12,14 @@ kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
 
 # 다양한 분야의 사람들과 일하기
 
->[!VIDEO](https://video.tv.adobe.com/v/345455/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 [!DNL Adobe Analytics]에 대한 여정은 올바른 구현으로 시작합니다. 우리는 모두 &quot;무가치한 결과가 나오면 무가치한 결과가 나온다&quot;라는 말을 알고 있다. &quot;무가치한 결과&quot;가 나오는 현상을 없애기 위해 관리자는 시스템에 입력되는 데이터의 모든 세부 정보를 모니터링해야 합니다. 즉, 데이터 수집 전략은 관리자가 근무하는 조직의 여러 관련자들로부터 영향을 받습니다.
 

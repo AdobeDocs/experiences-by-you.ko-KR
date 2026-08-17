@@ -13,7 +13,7 @@ thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
 source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1692'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ _데이터 전략을 혁신하고 팀이 SDR(Solid Solution Design Reference) �
 
 한 팀으로부터 다음과 같은 불만을 듣게 됩니다.
 
-&quot;이 단계의 전환율을 확인할 수 없는 이유는 무엇입니까?&quot;
+&quot;이 funnel에서 전환율을 파악할 수 없는 이유는 무엇입니까?&quot;
 
 &quot;이에 대한 지표가 없는 이유는 무엇입니까?&quot;
 
@@ -48,7 +48,7 @@ _팀원이 이 항목을 받아들이지 않는 이유는 무엇입니까?_
 
 ## 방법
 
-_측정 회의에 대해 알아봅니다. 단계 맵을 사용하여 계획의 각 단계를 시각화하십시오. 그룹으로 검토할 모의 대시보드를 만듭니다. 사용자용 데이터 사전을 만드십시오._
+_측정 회의에 대해 알아봅니다. funnel 맵을 사용하여 플랜의 각 단계를 시각화합니다. 그룹으로 검토할 모의 대시보드를 만듭니다. 사용자용 데이터 사전을 만드십시오._
 
 ### 측정 회의
 
@@ -59,18 +59,18 @@ _측정 회의에 대해 알아봅니다. 단계 맵을 사용하여 계획의 �
 1. 투표율이 낮은 지표 및 차원의 경우 이러한 구성 요소가 사용되는 이유를 물어본 이해 당사자에게 설명하도록 하십시오. 유용한 사용 사례가 있는 경우 이러한 구성 요소를 유지하십시오. 해당 데이터를 가져오는 더 나은 방법이 있는 경우, 또는 아무도 이러한 데이터가 어떻게 실행 가능한지 설명할 수 없는 경우 또는 지표와 차원을 제거해야 하는 다른 적절한 이유가 있는 경우 그렇게 하십시오.
 1. 출석한 이해 관계자의 초기 검토를 위해 이러한 지표와 차원을 SDR에 추가합니다.
 
-### 단계 맵
+### funnel 맵
 
 1. 모든 상태가 포함된 상태에서 단계별로 모든 유입 경로의 시각화를 가져옵니다.
-1. 디자이너와 제품 관리자와 함께 각 단계를 진행하고 모든 사람이 해당 단계에서 성공이라고 생각하는 사항을 논의합니다. 전환율입니까? 특별한 길을 택하고 있는 건가요? 특정 기능을 사용하고 있습니까?
-1. 단계 및 전체의 각 단계에서 단계 성능을 이해하는 데 필요한 지표 및 차원에 대해 질문합니다.
-1. 단계의 각 단계 위에 계산된 지표를 포함하여 해당 단계에서 측정된 지표 및 차원을 추가합니다.
-1. 각 단계를 시작할 때 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성하십시오. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 단계와 관련된 모든 내용이 포함됩니다.
+1. 디자이너와 제품 관리자와 함께 각 단계를 살펴보고 모든 사람이 해당 funnel에서 성공했다고 생각하는 사항에 대해 논의하십시오. 전환율입니까? 특별한 길을 택하고 있는 건가요? 특정 기능을 사용하고 있습니까?
+1. funnel의 각 단계 및 전반에서 funnel 성능을 이해하는 데 필요한 지표 및 차원에 대해 질문합니다.
+1. funnel의 각 단계 위에 계산된 지표를 포함하여 해당 단계에서 측정된 지표 및 차원을 추가합니다.
+1. 각 funnel의 시작 부분에서 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성합니다. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 funnel과 관련된 모든 내용이 포함됩니다.
 1. 발견한 새 지표와 차원을 SDR에 추가하고 관련자에게 보내 두 번째 검토를 수행합니다.
 
 ### 미리보기 대시보드
 
-1. 단계 맵을 안내서로 사용하여 목업 대시보드를 만듭니다.
+1. funnel 맵을 안내서로 사용하여 mockup 대시보드를 만듭니다.
 1. [실행 요약 대시보드](driving-success-with-executive-summary-dashboards.md)와 같은 전체 보기 및 각 단계 흐름에 대한 대시보드가 있어야 합니다.
 1. 제품 성능이나 콘텐츠 성능과 같이 사이트나 앱에 특정한 기능도 있습니다.
 1. 관련 이해 당사자에게 배포하고 디자인에 대한 피드백을 받습니다.
