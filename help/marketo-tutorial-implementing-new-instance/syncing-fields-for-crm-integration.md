@@ -129,7 +129,7 @@ Marketo Engage과 CRM 시스템 간의 초기 동기화는 대부분의 기존 �
 
 Marketo Engage과 Salesforce이 함께 판매와 마케팅 데이터를 동기화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426908/?captions=kor&learn=on)
 
 +++**비디오에 사용된 링크:**
 
@@ -155,7 +155,7 @@ Marketo Engage과 Salesforce이 함께 판매와 마케팅 데이터를 동기�
 
 Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 서로 통신할 수 있도록 설정을 올바르게 구성합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430215/?captions=kor&learn=on)
 
 +++**비디오에 사용된 링크:**
 
