@@ -27,7 +27,7 @@ ht-degree: 2%
 
 ## Marketo Engage 인스턴스 구성 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422766/?captions=kor&quality=12&learn=on)
 
 ### 1단계 - 프로그램을 순서대로 배치하기 위한 폴더 구조 설정
 
