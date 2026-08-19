@@ -13,18 +13,18 @@ thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 # 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
 
-*Source: Marketo 챔피언 Adobe*
+*Source: Adobe Marketo 챔피언*
 
 여러 사용자가 관리하는 [!DNL Marketo Engage] 인스턴스를 상속하면 잘못된 모든 항목을 메모할 수 있습니다. 작업을 분류한 다음 먼 길을 가는 작업을 우선시하여 정리 및 최적화 작업을 구성하는 것이 중요합니다.
 
-[!DNL Adobe] Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=ko) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
+[!DNL Adobe] Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
 
 ## 주제 및 학습 내용
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 * **[마케팅 기술 스택을 시각적으로 매핑](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *시각적 아키텍처 다이어그램을 사용하여 데이터 소스를 매핑하여 기술 스택을 이해하는 방법에 대해 알아봅니다*
 
-* **[프로그램 실행 전 QA(품질 보증) 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+* **[프로그램 실행 전 품질 보증(QA) 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
   *오류를 방지하기 위해 효과적인 프로그램 실행 전 QA 프로세스를 설정하는 방법을 알아봅니다.*
