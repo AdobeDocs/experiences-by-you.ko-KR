@@ -12,7 +12,7 @@ jira: KT-15324
 exl-id: 89530e01-c769-4553-bbe8-e543f84de827
 source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 54%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 54%
 
 AEM 전문가 Wilson Faure의 중요한 통찰력을 살펴보십시오. 이 비디오에서 그는 전환을 최적화하기 위한 필수 마이그레이션 이후 전략과 팁을 자세히 설명합니다. 마이그레이션 이후 며칠과 몇 주 동안 집중해야 할 사항을 명확하게 파악해 보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446606/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3446606/?captions=kor&learn=on)

@@ -13,14 +13,14 @@ thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 # 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
 
-*Source: Marketo 챔피언 Adobe*
+*Source: Adobe Marketo 챔피언*
 
 여러 사용자가 관리하는 [!DNL Marketo Engage] 인스턴스를 상속하면 잘못된 모든 항목을 메모할 수 있습니다. 작업을 분류한 다음 먼 길을 가는 작업을 우선시하여 정리 및 최적화 작업을 구성하는 것이 중요합니다.
 
@@ -40,5 +40,5 @@ ht-degree: 0%
 * **[마케팅 기술 스택을 시각적으로 매핑](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *시각적 아키텍처 다이어그램을 사용하여 데이터 소스를 매핑하여 기술 스택을 이해하는 방법에 대해 알아봅니다*
 
-* **[프로그램 실행 전 QA(품질 보증) 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
+* **[프로그램 실행 전 품질 보증(QA) 프로세스](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
   *오류를 방지하기 위해 효과적인 프로그램 실행 전 QA 프로세스를 설정하는 방법을 알아봅니다.*
