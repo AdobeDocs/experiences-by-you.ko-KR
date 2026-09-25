@@ -7,17 +7,15 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
 source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '879'
 ht-degree: 0%
-
 ---
-
 # 실행 요약 대시보드를 사용하여 성공을 유도합니다.
 
 _경영진이 사이트 및 앱에 대한 적절한 정보가 적시에 부족하거나 월간 Excel 차트에 의존하거나 세부적인 데이터에 의존하지 못하는 경우가 많습니다. 해결 방법: Experience Manager Cloud Managerarketo Engagexecutive 요약 대시보드입니다._
