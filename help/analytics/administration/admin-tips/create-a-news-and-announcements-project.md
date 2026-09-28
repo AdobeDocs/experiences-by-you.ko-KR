@@ -13,11 +13,9 @@ kt: 10535
 exl-id: 59944fab-11f8-4af5-92ed-00dcd4205eda
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '499'
 ht-degree: 0%
-
 ---
-
 # 뉴스 및 공지 사항 프로젝트 만들기
 
 **내용:** 주로 텍스트가 될 &#39;뉴스 및 공지 사항&#39; 프로젝트를 Workspace 내에서 만들어 회사 전체와 공유합니다. 매번 업데이트될 때마다 목록의 맨 위에 표시되므로 이 페이지를 사용자에게 랜딩 페이지로 강제 적용할 필요는 없습니다(단 가능함).
