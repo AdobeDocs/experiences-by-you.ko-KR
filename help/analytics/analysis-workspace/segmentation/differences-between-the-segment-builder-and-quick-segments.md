@@ -66,4 +66,4 @@ Adobe Analytics 챔피언
 
 ## 다운로드
 
-[![빠른 세그먼트 다운로드](assets/quick-segments-download-small.jpg)](assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![빠른 세그먼트 다운로드](assets/quick-segments-download-small.jpg)] (assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
