@@ -8,13 +8,11 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: baeaa90e-8cce-4ddd-b099-fecd266e410c
-source-git-commit: 849ec510944d3299c3515fcecd5fc57d74c3fa26
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace의 세그먼트 빌더와 빠른 세그먼트 간의 차이점
 
 세그먼트는 데이터 분석 툴킷에서 가장 강력한 도구 중 하나가 될 수 있습니다. 효율성을 위해 Analysis Workspace에서 세그먼트 빌더와 빠른 세그먼트 사용 간의 차이점을 알아봅니다.
@@ -68,4 +66,4 @@ Adobe Analytics 챔피언
 
 ## 다운로드
 
-[![빠른 세그먼트 다운로드](assets/quick-segments-download-small.jpg)] (assets/[!DNL Adobe]_[!DNL Analytics]_&#x200B;Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![빠른 세그먼트 다운로드](assets/quick-segments-download-small.jpg)] (assets/ Adobe_Analytics_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
