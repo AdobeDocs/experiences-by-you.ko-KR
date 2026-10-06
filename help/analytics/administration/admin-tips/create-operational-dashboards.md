@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 내에서 운영 대시보드 만들기
-description: ' [!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 의사소통과 효율성을 혁신했는지 살펴보십시오.'
+description: '[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및 효율성을 혁신했는지 살펴보십시오.'
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace 내에서 운영 대시보드 만들기
 
 _[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및 효율성을 혁신했는지 살펴봅니다. 간소화된 정보, 향상된 사용자 경험 및 향상된 참여를 위해 FAQ, 뉴스 및 공지 사항, 버그 및 기능 대시보드를 만드는 방법을 알아봅니다._
@@ -28,7 +41,7 @@ _[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및
 
 사용자가 &quot;내 VPN이 꺼져 있습니다.&quot; 또는 &quot;지금은 읽을 수 없습니다.&quot; 등의 이유로 Confluence 사이트에 대한 내 추천을 종종 무시하는 것을 발견했습니다. 기본적으로 &#39;그 문서는 나중에 읽겠다&#39;는 말은 절대 안 읽힐 것이라는 뜻이고, 다음 주에도 같은 질문이 다시 나온다.
 
-***실현 히트:**&#x200B;Workspace의 다기능성은 게임을 바꿀 수 있습니다. 사용자는 Workspace 내에서 빠른 직접 답변을 선호하므로 추가 단계를 피하고 그대로 유지해 보겠습니다.*
+***실현 히트:**Workspace의 다기능성은 게임을 바꿀 수 있습니다. 사용자는 Workspace 내에서 빠른 직접 답변을 선호하므로 추가 단계를 피하고 그대로 유지해 보겠습니다.*
 
 회사 전체에 공유할 운영 대시보드를 만들었습니다. 지금까지, 그들은 사용자에게 정보를 제공하고, 중앙 집중식으로 정보를 제공하고, 좌절감을 줄였습니다. 이는 시간이 지남에 따라 효율성을 높이는 쉽고 진화하는 프로세스였습니다.
 
@@ -49,7 +62,7 @@ _[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및
 
 대답이 반복되는 끝없는 루프에 질렸나요? 멈춰! FAQ 대시보드를 작성하여 시간을 절약하십시오. 사용자가 문의하기 전에 이를 참조하거나 응답에서 빠르게 연결할 수 있습니다.
 
-제목과 답변/설명 형식의 질문을 콘텐츠로 사용하여 [텍스트 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=ko)만 만들면 모두 축소되어 질문만 표시됩니다. 관련성(예: 페이지 또는 제품)별로 그룹화하거나 패널을 사용합니다. 상단에서 일반적인 쿼리에 우선 순위를 지정하여 단순하게 유지합니다.
+제목과 답변/설명 형식의 질문을 콘텐츠로 사용하여 [텍스트 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)만 만들면 모두 축소되어 질문만 표시됩니다. 관련성(예: 페이지 또는 제품)별로 그룹화하거나 패널을 사용합니다. 상단에서 일반적인 쿼리에 우선 순위를 지정하여 단순하게 유지합니다.
 
 긴 이메일을 작성하거나 이전 설명을 다시 검색하는 대신 FAQ 대시보드를 업데이트합니다. 지금 시작하고 시간이 지남에 따라 확장하십시오. 하이퍼링크를 사용하여 보고서 내의 다른 대시보드 또는 관련 FAQ를 참조합니다. 필요한 경우 다른 대시보드에서 FAQ로 연결하여 복잡한 컨텍스트를 제공합니다.
 

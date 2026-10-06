@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역'
-description: 그 어느 때보다 디지털 세계에 대한 관심이 높아지면서  [!DNL Adobe Analytics] 설정에서 사용할 수 있는 풍부한 데이터를 이해, 분석 및 작업해야 하는 필요성이 증가하고 있습니다. 이렇게 늘어난 관심으로 prop 및 eVar가 완전히 처음인 이해 당사자들이 부각될 수 있습니다. 조직의  [!DNL Adobe Analytics] 전문가로서 이해 당사자가 기술 세부 정보를 이해하고  [!DNL Adobe Analytics] 투자를 최대한 활용할 수 있도록 하는 중요한 역할을 하게 됩니다.
+title: '[!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역'
+description: 그 어느 때보다 디지털 세계에 대한 관심이 높아지면서 [!DNL Adobe Analytics] 설정에서 사용할 수 있는 풍부한 데이터를 이해, 분석 및 실행해야 할 필요성이 증가했습니다. 이렇게 늘어난 관심으로 prop 및 eVar가 완전히 처음인 이해 당사자들이 부각될 수 있습니다. 조직의 [!DNL Adobe Analytics] 전문가로서 이해 당사자는 기술 세부 정보를 이해하고 [!DNL Adobe Analytics] 투자를 최대한 활용할 수 있습니다.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '1009'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Analytics] 기술 언어를 비기술 언어로 번역
 
->[!VIDEO](https://video.tv.adobe.com/v/345331/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## 다른 언어로 말하기
 
@@ -35,7 +45,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**설명을 사용하여 구성 요소(차원, 세그먼트, 지표) 이름을 명확하게 지정하십시오.eVar 및 prop의 데이터 사전 공유는 조직의 데이터를 널리 쓰이게 하는 좋은 방법이지만 일반적인 사용자가 사용자 지정 변수와 지표/숫자에 의해 만들어진 용법을 모두 기억할 것이라고 기대해서는 안 됩니다. 대신 [!DNL Adobe] Workspace에서 구성 요소 이름이 의미 있는 태그와 설명을 사용하여 설명되었는지 확인하십시오. 이렇게 하면 사용자가 수백 개의 eVar와 무한한 지표/세그먼트 중에서 올바른 지표를 빠르게 찾을 수 있습니다.
+>**설명을 사용하여 구성 요소(차원, 세그먼트, 지표) 이름을 명확하게 지정하십시오.**
+>eVar 및 prop의 데이터 사전 공유는 조직의 데이터를 널리 쓰이게 하는 좋은 방법이지만 일반적인 사용자가 사용자 지정 변수와 지표/숫자에 의해 만들어진 용법을 모두 기억할 것이라고 기대해서는 안 됩니다. 대신 [!DNL Adobe] Workspace에서 구성 요소 이름이 의미 있는 태그와 설명을 사용하여 설명되었는지 확인하십시오. 이렇게 하면 사용자가 수백 개의 eVar와 무한한 지표/세그먼트 중에서 올바른 지표를 빠르게 찾을 수 있습니다.
 
 ## 팁 #2: 일반적인 언어 찾기
 
@@ -45,7 +56,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**구현에 일반적인 언어 반영하기[!DNL Adobe Analytics] UI의 모든 항목을 사용자 지정할 수 있습니다. 조직이 장바구니로 쇼핑 카트를 사용하고 있다면, 카트 이벤트의 이름을 장바구니로 바꿀 수 있습니다.
+>**구현에 일반적인 언어 반영하기**
+>[!DNL Adobe Analytics] UI의 모든 항목을 사용자 지정할 수 있습니다. 조직이 장바구니로 쇼핑 카트를 사용하고 있다면, 카트 이벤트의 이름을 장바구니로 바꿀 수 있습니다.
 >
 >주변에서 밀접한 단어를 찾거나 사용자가 자주 실수하는 단어가 있는 경우 조직에 맞게 어휘를 만들어 보십시오. 솔선수범하여 원하는 용어의 표준화를 추진하십시오. 또한 온보딩 및 활성화 세션에서 자주 헷갈리는 용어를 검토하여 사용자가 익숙해질 수 있도록 합니다.
 
@@ -57,7 +69,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**주석이 있는 해결책별 작업 영역 템플릿과 지침 만들기Analysis Workspace의 회사 보고서(템플릿)와 텍스트 시각화를 활용하여 록스타들이 올바른 방향으로 진행할 수 있도록 돕는 맥락적인 가이드를 만듭니다.
+>**주석이 있는 해결책별 작업 영역 템플릿과 지침 만들기**
+>Analysis Workspace의 회사 보고서(템플릿)와 텍스트 시각화를 활용하여 록스타들이 올바른 방향으로 진행할 수 있도록 돕는 맥락적인 가이드를 만듭니다.
 >
 >Analysis Workspace의 유연성으로 더 빠른 분석을 위한 템플릿을 만들 수 있을 뿐만 아니라 셀프서비스 및 셀프활성화가 가능합니다. 엄선된 템플릿, 주석 및 내부 작업 영역 연결 등의 기능을 결합하면 [!DNL Adobe Analytics]의 컨텍스트에 있는 비기술적 사용자에게 효율적이고 접근 가능하며 쉽게 지침을 전달할 수 있습니다.
 

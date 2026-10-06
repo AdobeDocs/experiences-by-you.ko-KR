@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '627'
 ht-degree: 1%
-
 ---
-
 # 마케팅 기술 스택을 이해하는 데이터 흐름 다이어그램 만들기
 
 수년 동안 라이브된 [!DNL Marketo Engage] 인스턴스를 인수하는 관리자로서 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. [!DNL Adobe] [!DNL Marketo Champion]&#x200B;(2019), Kelly Jo Horton이 오래 지속된 인스턴스에 진입했을 때, Kelly Jo Horton은 데이터 세계를 숙지하기 위해 [리드 및 데이터 소스 다이어그램을 생성](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}하여 이 문제를 해결했습니다. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
@@ -25,7 +43,7 @@ ht-degree: 1%
 
 1. **라이브 인스턴스에서 상속받은 마케팅 기술 스택에 대해 숙지하십시오.** 모든 마케팅 운영 관리자/플랫폼 운영 관리자는 새 회사에서 시작할 때 이 연습을 수행하는 것이 좋습니다. 이 만들기 프로세스를 통해 관리자는 외부 통합에서 [!DNL Marketo Engage]&#x200B;(으)로 전송된 데이터 및 활동의 전체 그림을 보고 API 오류를 쉽게 해결할 수 있습니다.
 2. **외부 통합을 관리하는 주요 이해 당사자에 대해 숙지하십시오.** Kelly Jo Horton이 이해 당사자를 빠르게 식별하는 데 사용하는 팁은 API 사용자 목록을 참조하는 것입니다.
-   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ko){target="_blank"}.
+   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. API 호출 정보 섹션의 통합>웹 서비스 탭에서 API 사용자별 API 사용 통계를 찾습니다. API 호출 번호를 클릭하면 각 사용자가 수행한 특정 개별 호출을 볼 수 있습니다.
 
 ## 이 시각적 데이터 흐름 다이어그램 연습을 수행하는 방법

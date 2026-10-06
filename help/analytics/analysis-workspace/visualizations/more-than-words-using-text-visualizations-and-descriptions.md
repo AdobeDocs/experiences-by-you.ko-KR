@@ -6,17 +6,30 @@ feature: Visualizations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13267
 thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 0%
-
 ---
-
 # 단어 이상 - Analysis Workspace에서 텍스트 시각화 및 설명 사용
 
 [!DNL Adobe Analytics] Analysis Workspace 사용자라면 누구나 요약을 입력할 수 있으므로 대개 데이터 및 데이터 시각화로 초점을 맞춥니다. 그러나 텍스트 시각화 또는 시각화 설명과 같은 Analysis Workspace의 기능을 간과하는 것은 인사이트를 귀중한 텍스트, 이미지, gif 및 링크와 결합할 수 있는 중요한 기회를 누락하는 것을 의미할 수 있습니다. 참조와 더 많은 컨텍스트를 제공하여 데이터의 의미를 사용자에게 알림으로써 데이터를 보다 효과적이고 효과적으로 만들 수 있습니다.

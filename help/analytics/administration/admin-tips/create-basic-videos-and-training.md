@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: f615c9af-9920-4a10-a55a-c750b39d5aea
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
-
+source-wordcount: '343'
+ht-degree: 6%
 ---
-
 # 기록된 기본 교육 세션 및 짧은 비디오 만들기
 
 **내용:** 새로운 사용자가 도구를 사용하게 되면 매번 회의를 통해 동일한 콘텐츠를 제공하지 않도록 다양한 기본 및 고급 주제를 다루는 간단하고 짧은 교육 비디오를 만드십시오.
@@ -35,7 +48,7 @@ ht-degree: 0%
 
 그런 다음 긴 이메일을 작성하거나 다른 회의를 준비하는 대신 사용자를 쉽게 안내할 수 있습니다. 사용자 교육에 대한 추가 팁과 요령은 사용자 교육 간소화 및 시간 단축에 대한 [[!DNL Adobe] 챔피언 Thomas Edward Buckley의 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ko){target="_blank"}를 확인하십시오.
 
-또한 [!DNL Adobe] Experience League에 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko){target="_blank"}과(와) [무료 강좌](https://experienceleague.adobe.com/ko?lang=en#dashboard/learning){target="_blank"}이(가) 많이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우 반드시 나만의 비디오를 녹화합니다. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
+또한 [!DNL Adobe] Experience League에는 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}과 [무료 강좌](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}가 많이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우 반드시 나만의 비디오를 녹화합니다. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
 
 ## 작성자
 

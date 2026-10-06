@@ -6,32 +6,39 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # 새 인스턴스 구성 및 이름 지정 규칙 설정
 
 새 Marketo Engage 인스턴스를 구현하는 관리자는 조직 내에서 향후 마케터가 인스턴스를 쉽게 탐색할 수 있는 기반을 다지고 있습니다. 트리 폴더 구조 및 이름 지정 규칙에 익숙해지면 인스턴스가 깔끔하게 유지되고 장기적인 성공을 위해 설정됩니다. 이 튜토리얼에는 Adobe 및 Marketo Engage 챔피언(2019-2020), Natalie Kremer가 [폴더를 구성하고 자산의 이름을 일관되게 지정](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}하는 데 도움이 되는 예제가 포함되어 있습니다.
 
 ## 폴더를 구조화하고 이름 지정 규칙을 적용하는 것이 필요한 이유는 무엇입니까?
 
-인스턴스에서 정돈되어 있으면 사용자와 동료가 캠페인, 프로그램 및 에셋을 쉽게 추적하고 프로그램 성과를 보고할 수 있습니다. 인스턴스에서 탐색 트리를 구성하고 규모에 맞게 빌드하려면 [폴더](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [표준 명명 규칙](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} 및 [복제](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}와 같은 기능을 사용하는 것이 좋습니다.
+인스턴스에서 정돈되어 있으면 사용자와 동료가 캠페인, 프로그램 및 에셋을 쉽게 추적하고 프로그램 성과를 보고할 수 있습니다. 인스턴스에서 탐색 트리를 구성하고 규모에 맞게 빌드하려면 [폴더](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [표준 명명 규칙](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} 및 [복제](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}와 같은 기능을 사용하는 것이 좋습니다.
 
 ## Marketo Engage 인스턴스 구성 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3422766/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### 1단계 - 프로그램을 순서대로 배치하기 위한 폴더 구조 설정
 
-인스턴스를 구성하는 첫 번째 단계는 [폴더 구조를 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=ko)하는 것입니다. 이 단계를 통해 프로그램 및 자산을 쉽고 질서 있게 찾을 수 있습니다.
+인스턴스를 구성하는 첫 번째 단계는 [폴더 구조를 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)하는 것입니다. 이 단계를 통해 프로그램 및 자산을 쉽고 질서 있게 찾을 수 있습니다.
 
 다음은 트리에서 폴더를 구조화할 때의 몇 가지 빠른 팁입니다.
 

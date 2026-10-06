@@ -6,17 +6,30 @@ feature: Curate and Share
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
 exl-id: 99729c18-9f0d-4bbb-be99-01ddd0d2dcb0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '695'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace에서 읽기 전용 공유의 기능 사용
 
 [!DNL Adobe] Analysis Workspace 프로젝트를 &quot;읽기 전용&quot;으로 공유하면 깔끔한 사용자 인터페이스와 사전 정의된 필터링 옵션을 사용하여 경영진 준비가 된 대시보드 보고서를 만드는 방법뿐만 아니라 &quot;모바일 스코어카드&quot;를 통해 이동 중에 경영진과 디지털 경험 KPI를 간단하게 공유하는 방법에 대해 알아봅니다.
@@ -48,6 +61,6 @@ ht-degree: 0%
 
 ![레오 라우](assets/leo_headshot.png)
 
-**Leo Lau**, Director, MarTech 리드 아시아
+**Leo Lau**, MarTech 리드 아시아 책임자
 
 [!DNL Adobe Analytics] 챔피언

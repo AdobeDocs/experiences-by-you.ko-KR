@@ -6,7 +6,17 @@ level: Beginner
 doc-type: overview
 solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 12%
@@ -30,7 +40,7 @@ ht-degree: 12%
 <tr>
   <td>
     <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
-      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3422280?captions=kor&format=jpeg" />
+      <img alt="[!DNL Adobe Analytics] 팁과 트릭" src="https://video.tv.adobe.com/v/3417736?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md">
@@ -43,7 +53,7 @@ ht-degree: 12%
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] 이메일 프로그램" src="https://video.tv.adobe.com/v/3453374?captions=kor&format=jpeg" />
+      <img alt="[!DNL Marketo Engage] 이메일 프로그램" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -73,8 +83,8 @@ ht-degree: 12%
 
 ## 추가 리소스
 
-* [Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/?profile.language=ko)
-* [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/?lang=ko)
+* [Experience League 커뮤니티](https://experienceleaguecommunities.adobe.com/)
+* [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/)
 * [Experience Cloud 튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko)
-* [business.adobe.com](https://business.adobe.com/kr)
+* [business.adobe.com](https://business.adobe.com)
 

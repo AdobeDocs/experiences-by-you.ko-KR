@@ -9,18 +9,31 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
-
 ---
-
 # 7 마우스 오른쪽 버튼 클릭 팁과 요령
 
 다음은 워크플로우의 효율성을 높이기 위해 Analysis Workspace에서 사용할 수 있는 7가지 마우스 오른쪽 버튼 클릭 팁입니다. 아래 텍스트에서 읽거나 비디오를 통해 시연된 내용을 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422280/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
 
 다음은 Analysis Workspace에서 워크플로를 보다 효율적으로 만들기 위해 사용할 수 있는 7가지 마우스 오른쪽 버튼 클릭 팁입니다.
 

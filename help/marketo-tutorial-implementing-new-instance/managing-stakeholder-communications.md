@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Marketo Engage을 구현할 이해 당사자 관리
 
 Marketo Engage 구현은 MarTech 스택을 확장하는 중요한 순간입니다. 마케팅에서 영업, IT에 이르기까지 다양한 관련자들이 참여할 수 있습니다. 적절한 질문을 하고 정기적으로 필요한 업데이트 및 지원을 전달하여 조직에서 새 Marketo Engage 인스턴스에 대한 지원을 받는 방법에 대해 알아봅니다. 튜토리얼 및 템플릿(다운로드 가능한 버전 포함)을 사용하여 구현 및 사용자 온보딩 전반에 걸쳐 내부 커뮤니케이션을 안내합니다.
@@ -30,10 +37,10 @@ Marketo Engage 구현은 MarTech 스택을 확장하는 중요한 순간입니�
 | **질문** | **예** | **유용한 리소스** |
 | --- | --- | --- |
 | 어떤 관련자에 초점을 맞추어야 하는가? | <ul><li>영업 담당자</li><li>CMO</li><li>CEO</li> |  |
-| 주요(마케팅/판매/비즈니스) 목표는 무엇입니까? | <ol><li>고객 및 잠재 고객과의 소통 강화</li><li>운영 규모를 확대합니다.</li> | <ul><li>[마케팅 목표 및 전략 개발에 대해 알아보기](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=_blank}</li><ul> |
-| Marketo Engage은 이러한 목표를 달성하는 데 어떻게 도움이 됩니까? | <ol><li>토큰, 다이내믹 콘텐츠 등을 사용하여 개인화된 프로그램을 만들 수 있습니다</li><li> Dell은 잠재 고객 및 고객과 장기적인 관계를 유지할 수 있는 육성 프로그램을 제작할 수 있습니다</li><li>마케팅 프로그램을 자동화하여 각 프로그램에 투자하는 인원수를 줄여 더 많은 사람들에게 다가갈 수 있습니다.</li></ol> | <ul><li>[마케팅 전략에 자동화가 필수적인 이유](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=_blank}</li><li>[마케팅 자동화 로드맵 구축을 위한 팁](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=_blank}</li></ul> |
-| 마케팅 운영 팀/주주가 알아야 하는 온보딩 및 구현 중 예상되는 잠재적인 장애/장애물은 무엇입니까? | <ol><li>CRM의 많은 사용자 지정 개체</li><li>명확하게 정의된 리드/개인 점수 책정 전략 없음</li><li>더티 데이터</li><li>비현실적인 일정 및/또는 관리로부터의 기대치</li><li>리소스를 가져오는 경쟁 프로젝트</li></ul> | <ul><li>[Marketo Engage 새 구현 팁](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=_blank}</li><li>[처음 Marketo을 구현하고 관리하기 위한 팁](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=_blank}</li><li>[Adobe Marketo Engage 온보딩을 위한 피어의 상위 10개 팁](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=_blank}</li></ul> |
-| 어떤 리소스/지원이 필요하며, 조직의 누구/누구로부터 지원받습니까? | <ol><li>CRM 관리자와 협력</li><li>영업 리더와의 정기적인 커뮤니케이션을 통해 리드/개인 점수 책정 전략 결정</li><li>관리자/경영진과의 정기적인 회의 및 지원</li><li>경영진의 우선 순위 및 전략에 대한 지침</li><li>IT, SOP(표준 운영 절차), 재무 등의 지원</li></ul> | <ul><li>[Marketo 성공에 대한 유니버설 키: 거버넌스 및 진행 중인 교육](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=_blank}</li></ul> |
+| 주요(마케팅/판매/비즈니스) 목표는 무엇입니까? | <ol><li>고객 및 잠재 고객과의 소통 강화</li><li>운영 규모를 확대합니다.</li> | <ul><li>[마케팅 목표 및 전략 개발에 대해 알아보기](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=&quot;_blank}</li><ul> |
+| Marketo Engage은 이러한 목표를 달성하는 데 어떻게 도움이 됩니까? | <ol><li>토큰, 다이내믹 콘텐츠 등을 사용하여 개인화된 프로그램을 만들 수 있습니다</li><li> Dell은 잠재 고객 및 고객과 장기적인 관계를 유지할 수 있는 육성 프로그램을 제작할 수 있습니다</li><li>마케팅 프로그램을 자동화하여 각 프로그램에 투자하는 인원수를 줄여 더 많은 사람들에게 다가갈 수 있습니다.</li></ol> | <ul><li>[마케팅 전략에 자동화가 필수적인 이유](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=&quot;_blank}</li><li>[마케팅 자동화 로드맵 구축을 위한 팁](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=&quot;_blank}</li></ul> |
+| 마케팅 운영 팀/주주가 알아야 하는 온보딩 및 구현 중 예상되는 잠재적인 장애/장애물은 무엇입니까? | <ol><li>CRM의 많은 사용자 지정 개체</li><li>명확하게 정의된 리드/개인 점수 책정 전략 없음</li><li>더티 데이터</li><li>비현실적인 일정 및/또는 관리로부터의 기대치</li><li>리소스를 가져오는 경쟁 프로젝트</li></ul> | <ul><li>[Marketo Engage 새 구현 팁](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=&quot;_blank}</li><li>[처음 Marketo을 구현하고 관리하기 위한 팁](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=&quot;_blank}</li><li>[Adobe Marketo Engage 온보딩을 위한 피어의 상위 10개 팁](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=&quot;_blank}</li></ul> |
+| 어떤 리소스/지원이 필요하며, 조직의 누구/누구로부터 지원받습니까? | <ol><li>CRM 관리자와 협력</li><li>영업 리더와의 정기적인 커뮤니케이션을 통해 리드/개인 점수 책정 전략 결정</li><li>관리자/경영진과의 정기적인 회의 및 지원</li><li>경영진의 우선 순위 및 전략에 대한 지침</li><li>IT, SOP(표준 운영 절차), 재무 등의 지원</li></ul> | <ul><li>[Marketo 성공에 대한 유니버설 키: 거버넌스 및 진행 중인 교육](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=&quot;_blank}</li></ul> |
 
 ### 작업 2 - 주주에게 타기팅된 커뮤니케이션 제공
 
@@ -182,7 +189,7 @@ Salesforce과 Marketo Engage 통합 - <i>[완료/진행 중/시작되지 않음]
 
 ## 다음은 무엇입니까?
 
-[온보딩 내부 커뮤니케이션 안내서 및 템플릿](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=_blank}을 다운로드하여 사용하여 이해 당사자를 위한 정기 업데이트를 작성하고 진행 상황을 보고합니다. 주요 지표, 성과 및 예정된 마일스톤을 포함시켜 정보를 얻고 참여하도록 하십시오.
+[온보딩 내부 커뮤니케이션 안내서 및 템플릿](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target=&quot;_blank}을 다운로드하여 사용하여 이해 당사자를 위한 정기 업데이트를 작성하고 진행 상황을 보고합니다. 주요 지표, 성과 및 예정된 마일스톤을 포함시켜 정보를 얻고 참여하도록 하십시오.
 
 ### 작성자
 

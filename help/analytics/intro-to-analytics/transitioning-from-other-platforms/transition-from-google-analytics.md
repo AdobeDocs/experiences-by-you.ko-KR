@@ -1,6 +1,6 @@
 ---
-title: Google에서  [!DNL Adobe Analytics] 로 전환 [!DNL Analytics]에 대한 포괄적인 안내서
-description: Google [!DNL Analytics] 에서  [!DNL Adobe Analytics] (으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
+title: Google [!DNL Analytics]에서 [!DNL Adobe Analytics](으)로 전환에 대한 포괄적인 안내서
+description: Google [!DNL Analytics]에서 [!DNL Adobe Analytics](으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3354'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # Google [!DNL Analytics]에서 [!DNL Adobe Analytics]&#x200B;(으)로 전환에 대한 포괄적인 안내서{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. 소개
@@ -94,19 +107,19 @@ GA4에는 홈 화면에 사용자의 보고서를 맞춤화하고 추가할 수 
 * 폴아웃
 * 흐름
 * 그래프
-   * 영역(스택 및 언스택)
-   * 선
-   * 분산
-   * 막대(스택 및 언스택)
-   * 글머리 기호
-   * 도넛
-   * 히스토그램
-   * 가로 막대(스택 및 언스택)
+  * 영역(스택 및 언스택)
+  * 선
+  * 분산
+  * 막대(스택 및 언스택)
+  * 글머리 기호
+  * 도넛
+  * 히스토그램
+  * 가로 막대(스택 및 언스택)
 * 맵
 * 요약 블록
-   * 요약 변경
-   * 요약 텍스트
-   * 텍스트(컨텍스트를 제공하기 위해 추가 정보를 입력하는 자유 텍스트 필드)
+  * 요약 변경
+  * 요약 텍스트
+  * 텍스트(컨텍스트를 제공하기 위해 추가 정보를 입력하는 자유 텍스트 필드)
 * 벤
 
 각 패널 및 시각화에는 정보가 표시되는 내용에 대한 컨텍스트를 제공하는 데 도움이 되도록 제목을 지정하고 설명을 적용할 수 있습니다.
@@ -138,7 +151,7 @@ Workspace을 사용하면 창의력을 발휘할 수 있으며 &quot;표준&quot
 
 >[!IMPORTANT]
 >
->드롭다운 및 자유 형식 분류 사용에 대한 자세한 내용은 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=ko>을(를) 참조하십시오.
+>드롭다운 및 자유 형식 분류 사용에 대한 자세한 내용은 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>을(를) 참조하십시오.
 
 ##### 2.1.2.2. Google [!DNL Analytics]: 대시보드, 사용자 지정 보고서 및 저장된 보고서
 
@@ -268,7 +281,7 @@ Google [!DNL Analytics]에서 확장된 방식으로 데이터를 가져와야 �
 
 이 안내서 외에도 전략을 개선하는 데 도움이 될 수 있는 다양한 리소스가 있습니다.
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/ko#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
 * [[!DNL Adobe] 사용자 그룹](https://analytics-augs.adobe.com/) - 사용자가 서로 연결하고 구현을 개선하는 데 도움이 되는 커뮤니티 실행 이벤트의 허브입니다.
 * [[!DNL Adobe Analytics] 사용자 그룹 YouTube 채널](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - [!DNL Adobe Analytics] 사용자 그룹 세션을 만들 수 없습니까? 전 세계의 이전 사용자 그룹 세션을 다시 시청하여 동료들이 도구를 사용하는 방법에 대해 자세히 알아보십시오.
 * [채팅 Slack 채널 측정](https://www.measure.chat/) - 전 세계 [!DNL Adobe Analytics]명의 사용자와 연결하여 업계의 학습 내용을 공유하고, 동료들에게 질문하고, 측정 중심의 관심 그룹에 참여하십시오.

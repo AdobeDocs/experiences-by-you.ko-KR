@@ -7,17 +7,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: 2024-04-25T00:00:00.000Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1692'
 ht-degree: 0%
-
 ---
-
 # 데이터 문화 구축 및 더 나은 솔루션 디자인 참조
 
 _데이터 전략을 혁신하고 팀이 SDR(Solid Solution Design Reference) 문서를 만들 수 있도록 권한을 부여합니다. 단계별 방법론을 통해 측정 격차를 없애고 공동 데이터 문화를 조성합니다._
@@ -65,7 +78,7 @@ _측정 회의에 대해 알아봅니다. funnel 맵을 사용하여 플랜의 �
 1. 디자이너와 제품 관리자와 함께 각 단계를 살펴보고 모든 사람이 해당 funnel에서 성공했다고 생각하는 사항에 대해 논의하십시오. 전환율입니까? 특별한 길을 택하고 있는 건가요? 특정 기능을 사용하고 있습니까?
 1. funnel의 각 단계 및 전반에서 funnel 성능을 이해하는 데 필요한 지표 및 차원에 대해 질문합니다.
 1. funnel의 각 단계 위에 계산된 지표를 포함하여 해당 단계에서 측정된 지표 및 차원을 추가합니다.
-1. 각 funnel의 시작 부분에서 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성합니다. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 funnel과 관련된 모든 내용이 포함됩니다.
+1. 각 funnel의 시작 부분에서 제품 관리자가 성능을 추적하는 데 사용할 수 있는 대시보드에 있는 보고서를 작성합니다. 이러한 보고서에는 [폴아웃 보고서](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [현재 월](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [트렌드 전환율](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) 및 해당 funnel과 관련된 모든 내용이 포함됩니다.
 1. 발견한 새 지표와 차원을 SDR에 추가하고 관련자에게 보내 두 번째 검토를 수행합니다.
 
 ### 미리보기 대시보드

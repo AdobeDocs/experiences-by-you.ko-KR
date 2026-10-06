@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # 새로운 Marketo Engage 구현을 위한 계획
 
 새로운 Marketo Engage 인스턴스 구현에는 세심한 계획, 팀 간의 공동 작업 및 지속적인 최적화가 포함됩니다. 새로운 인스턴스를 구현하는 완벽한 방법은 없지만, 이를 경험한 대부분의 Marketo Engage 관리자는 향후 계획을 통해 프로세스가 훨씬 더 원활해질 것이라는 데 동의할 수 있습니다.
@@ -38,7 +45,7 @@ ht-degree: 9%
 
 ### 3단계 - 프로그램 라이브러리 만들기 및 캠페인 설정
 
-- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
+- 이메일 템플릿 및 랜딩 페이지 개발. [프로그램 가져오기 라이브러리](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)에서 [시작 프로그램 가져오기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program)부터 시작.
 - 세그먼테이션 및 Personalization 규칙 설정
 - 리드 생성 및 육성을 위한 초기 캠페인 만들기
 
@@ -128,7 +135,7 @@ ht-degree: 9%
 
 Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및 구현 경험에 대해 들어보십시오. 그가 직면한 문제와 온보딩 프로세스를 성공적이고 효율적으로 추진하는 방법에 대한 그의 조언에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447937/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
 ## 다음은 무엇입니까?
 
@@ -294,7 +301,7 @@ Marketo Engage 챔피언(2019), Kyle McCormick의 Palotos Networks 온보딩 및
 >[!NOTE]
 >제공된 예제는 실제 구현 타임라인을 기반으로 하지 않습니다. 모든 구현은 조직의 요구 사항에 따라 서로 다른 이정표와 요구 사항을 가지고 있으므로 이를 Marketo Engage과의 온보딩에 대한 표준 타임라인으로 사용하지 마십시오.
 
-인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/kr/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
+인스턴스의 Marketo Engage 구현 및 사용자 지정에 대한 직접적인 지원은 Adobe 계정 팀에 문의하거나 [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}에 문의하십시오.
 
 ### 작성자
 

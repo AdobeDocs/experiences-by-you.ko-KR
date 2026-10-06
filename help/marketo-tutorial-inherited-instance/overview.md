@@ -1,30 +1,40 @@
 ---
-title: 상속된  [!DNL Marketo Engage] 인스턴스 감사를 위한 팁과 요령
-description: 상속된 Live [!DNL Marketo Engage] 인스턴스를 최적화하고 확장하는 방법을 알아봅니다.
+title: 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
+description: 상속된 라이브 [!DNL Marketo Engage] 인스턴스를 최적화하고 확장하는 방법을 알아봅니다.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
 
 *Source: Adobe Marketo 챔피언*
 
 여러 사용자가 관리하는 [!DNL Marketo Engage] 인스턴스를 상속하면 잘못된 모든 항목을 메모할 수 있습니다. 작업을 분류한 다음 먼 길을 가는 작업을 우선시하여 정리 및 최적화 작업을 구성하는 것이 중요합니다.
 
-[!DNL Adobe] Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=ko) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
+[!DNL Adobe] Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
 
 ## 주제 및 학습 내용
 

@@ -6,24 +6,31 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # 인스턴스 거버넌스 및 설명서 시작하기
 
 유용한 설명서는 실제 인스턴스 구현 자체만큼 중요할 수 있습니다. 거버넌스 가이드는 프로그램/폴더 구조, 통신 제한 등과 같은 주제를 다루는 Marketo Engage 인스턴스 설정 세부 사항을 대략적으로 설명하는 중요한 리소스입니다. 이 라이브 문서는 Marketo Engage 관리자 또는 고급 사용자를 위한 참조로서, Marketo Engage 인스턴스 및 조직에 맞는 특정 모범 사례와 관리 표준을 소개합니다.
 
 하지만 거기서 멈추지 않습니다. Marketo Engage에 대한 숙련도를 높이기 위해 보충 지원 문서 또는 교육 자료가 필요할 수 있습니다. 이러한 리소스에는 대화형 연습, 액세스 퀴즈 또는 Marketo Engage 내의 허용되는 작업에 대한 지침이 포함될 수 있으므로 조직 내의 모든 Marketo Engage 사용자에게 도움이 됩니다. 포괄적인 거버넌스 가이드를 만들거나 주요 설정 측면을 처음에 문서화하든, 온보딩 중에 결정된 사항을 기록하는 것은 현재 팀과 미래 세대의 신규 채용을 위한 Marketo Engage의 성공을 보장하는 데 핵심입니다.
 
-이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문 지식을 가진 사람이 제공한 모범 사례에 대해 알아봅니다. [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank}를 통해 프로세스를 구축하고 내부 사용자와 관련된 설명서를 유지할 수 있습니다.
+이 튜토리얼에서는 설명서 및 거버넌스의 중요성을 이해함으로써 전문 지식을 가진 사람이 제공한 모범 사례에 대해 알아봅니다. [Marketo Engage 거버넌스 및 교육 설명서 시작하기](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank} 및 [인스턴스를 어떻게 문서화합니까?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank}를 통해 프로세스를 구축하고 내부 사용자와 관련된 설명서를 유지할 수 있습니다.
 
 ## 인스턴스 구현 중 변경 사항 및 결정을 문서화하는 것이 중요한 이유
 
@@ -68,7 +75,7 @@ ht-degree: 0%
    * 개인 라이프사이클
    * 데이터 관리
 1. Marketo Engage 인스턴스에서 빌드
-   * [COE(Center of Excellence)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
+   * [COE(Center of Excellence)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
    * 폴더 구조
    * 이름 지정 규칙
    * 프로그램 조직
