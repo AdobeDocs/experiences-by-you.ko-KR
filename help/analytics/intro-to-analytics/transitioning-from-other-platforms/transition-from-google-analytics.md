@@ -1,6 +1,6 @@
 ---
-title: Google [!DNL Analytics]에서 [!DNL Adobe Analytics](으)로 전환에 대한 포괄적인 안내서
-description: Google [!DNL Analytics]에서 [!DNL Adobe Analytics](으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
+title: Google [!DNL Analytics]에서 [!DNL Adobe Analytics] (으)로 전환에 대한 포괄적인 안내서
+description: Google [!DNL Analytics]에서 [!DNL Adobe Analytics] (으)로 전환할 때 동일한 기능의 위치와 이 기능을 효율적으로 사용하는 방법에 대해 알아봅니다.
 solution: Analytics
 feature: Third-party Integration
 role: User
