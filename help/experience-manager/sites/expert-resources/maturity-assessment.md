@@ -39,9 +39,9 @@ AEM 성숙도 평가는 주로 On-Premise 및 Managed Service 구현을 대상�
 
 관리, 개발 또는 작성에 대한 우수 사례는 다음 리소스를 참조하십시오.
 
-* [모범 사례 관리](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [모범 사례 개발](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [작성 모범 사례](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [모범 사례 관리](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=ko)
+* [모범 사례 개발](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=ko)
+* [작성 모범 사례](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=ko)
 
 위의 각 모범 사례 영역에는 AEM 작성, 개발 및 배포에 대한 추가 모범 사례도 포함되어 있습니다.
 
