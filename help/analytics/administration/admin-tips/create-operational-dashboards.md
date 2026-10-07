@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 내에서 운영 대시보드 만들기
-description: ' [!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 의사소통과 효율성을 혁신했는지 살펴보십시오.'
+description: '[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및 효율성을 혁신했는지 살펴보십시오.'
 solution: Analytics
 feature-set: Analytics
 feature: Curate and Share
@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # Analysis Workspace 내에서 운영 대시보드 만들기
 
 _[!DNL Adobe Analytics] Workspace의 운영 대시보드가 어떻게 통신 및 효율성을 혁신했는지 살펴봅니다. 간소화된 정보, 향상된 사용자 경험 및 향상된 참여를 위해 FAQ, 뉴스 및 공지 사항, 버그 및 기능 대시보드를 만드는 방법을 알아봅니다._

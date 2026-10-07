@@ -1,6 +1,6 @@
 ---
 title: 다양한 분야의 사람들과 일하기
-description: ' [!DNL Adobe Analytics] 에 대한 여정은 올바른 구현으로 시작합니다. 우리는 모두 "무가치한 결과가 나오면 무가치한 결과가 나온다"라는 말을 알고 있다. "무가치한 결과"가 나오는 현상을 없애기 위해 관리자는 시스템에 입력되는 데이터의 모든 세부 정보를 모니터링해야 합니다. 즉, 데이터 수집 전략은 관리자가 근무하는 조직의 여러 관련자들로부터 영향을 받습니다.'
+description: '[!DNL Adobe Analytics]에 대한 여정은 올바른 구현으로 시작합니다. 우리는 모두 "무가치한 결과가 나오면 무가치한 결과가 나온다"라는 말을 알고 있다. "무가치한 결과"가 나오는 현상을 없애기 위해 관리자는 시스템에 입력되는 데이터의 모든 세부 정보를 모니터링해야 합니다. 즉, 데이터 수집 전략은 관리자가 근무하는 조직의 여러 관련자들로부터 영향을 받습니다.'
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342071.jpg
 kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '713'
 ht-degree: 0%
-
 ---
-
 # 다양한 분야의 사람들과 일하기
 
 >[!VIDEO](https://video.tv.adobe.com/v/345455/?captions=kor&quality=12&learn=on)

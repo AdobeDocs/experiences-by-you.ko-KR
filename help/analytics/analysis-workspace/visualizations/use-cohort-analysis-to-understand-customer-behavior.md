@@ -6,17 +6,30 @@ feature: Cohort Analysis
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1151'
 ht-degree: 0%
-
 ---
-
 # 집단 분석을 사용하여 고객 행동 이해
 
 고객 경험과 매출을 향상시키기 위해 기업은 고객 행동을 이해해야 합니다. 집단 분석은 참여 및 유지를 이해하는 데 도움이 되며, 이를 통해 계정 생성 개선 및 대량 구매를 위한 캠페인 생성과 같은 작업을 수행할 수 있습니다.

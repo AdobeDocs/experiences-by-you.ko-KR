@@ -1,22 +1,29 @@
 ---
 title: 내부 온보딩 및 교육 로드쇼 개발
-description: ' [!DNL Marketo Engage] 인스턴스의 설명서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다. 이렇게 하면 팀의 지식 공유에 드는 시간이 절약될 뿐만 아니라 인스턴스의 상태와 효율성도 향상됩니다.'
+description: '[!DNL Marketo Engage] 인스턴스에 대한 문서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다. 이렇게 하면 팀의 지식 공유에 드는 시간이 절약될 뿐만 아니라 인스턴스의 상태와 효율성도 향상됩니다.'
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # 내부 온보딩 및 교육 로드쇼 개발
 
 새 [!DNL Marketo Engage] 인스턴스를 라이브로 가져올 때 관련 팀이 작업에 [!DNL Marketo Engage]을(를) 활용할 수 있도록 속도를 높일 차례입니다.

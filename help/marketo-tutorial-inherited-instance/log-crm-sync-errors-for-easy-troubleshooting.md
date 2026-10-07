@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
-
 ---
-
 # 문제 해결을 위한 CRM 동기화 오류 기록
 
 [!DNL Marketo Engage] 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 [일별 루틴](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}의 핵심 부분이어야 합니다. [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ko){target="_blank"}([!DNL Marketo Engage] 인터페이스의 오른쪽 상단 모서리에서 찾기)에서 자주 발생하는 동기화 문제를 찾아 조사하기 시작하지만 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 Pro 팁이 있습니다. [!DNL Adobe] Marketo Champion(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.

@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04T00:00:00.000Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '2235'
 ht-degree: 0%
-
 ---
-
 # 기본 CRM 커넥터의 동기화 필드
 
 조직 내에서 Salesforce 또는 Microsoft Dynamics을 사용하고 있습니까? 그렇다면 Marketo Engage의 기본 CRM 커넥터(예: Salesforce, Microsoft Dynamics 및 Veeva)를 사용하면 Marketo Engage과 CRM 간에 관련 정보를 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다. 초기 CRM 동기화를 구성하기 전에 Marketo Engage 데이터베이스를 깔끔하게 유지하기 위해 두 시스템 간에 동기화할 필드를 식별해야 합니다.

@@ -1,22 +1,35 @@
 ---
-title: 내가 수행한 캠페인
+title: 내가 만든 캠페인
 description: Campaign by You는 Adobe Campaign에 대한 지식을 바탕으로 일정 수준의 전문 지식과 영향력을 확보한 일반 사용자가 만든 사용자 생성 콘텐츠를 제공합니다.
 role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
-thumbnail: null
+thumbnail:
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 26%
-
+source-wordcount: '278'
+ht-degree: 33%
 ---
-
 # [!DNL Campaign] 사용자: 사용자별 리소스, 사용자용.
 
-[!DNL Adobe] Experience Cloud 솔루션에 대한 가장 강력한 기능 너. 제품을 가져와서 파고들어 놀랍고 혁신적인 방법으로 적용하여 의미 있는 경험과 결과를 만드는 사용자입니다. 사용자별 경험은 [!DNL Adobe] Experience Cloud 솔루션으로 수준 높은 전문성과 영향력을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 이러한 P2P 지식은 공동 작업 및 발견을 촉진하여 귀하와 다른 모든 사용자가 귀하의 제품 전문 지식을 향상시키는 데 필요한 영감을 찾을 수 있도록 합니다.
+[!DNL Adobe] Experience Cloud 솔루션에 대한 가장 강력한 기능 너. 제품을 가져와서 파고들어 놀랍고 혁신적인 방법으로 적용하여 의미 있는 경험과 결과를 만드는 사용자입니다. 사용자별 경험은 [!DNL Adobe] Experience Cloud 솔루션으로 수준 높은 전문 지식과 영향을 얻은 일반 사용자가 만든 콘텐츠를 제공합니다. 이러한 P2P 지식은 공동 작업 및 발견을 촉진하여 귀하와 다른 모든 사용자가 귀하의 제품 전문 지식을 향상시키는 데 필요한 영감을 찾을 수 있도록 합니다.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

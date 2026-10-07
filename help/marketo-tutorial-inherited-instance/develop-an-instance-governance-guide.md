@@ -1,22 +1,40 @@
 ---
 title: 설명서를 사용하여 인스턴스 거버넌스 안내서 개발
-description: ' [!DNL Marketo Engage] 인스턴스의 설명서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다.'
+description: '[!DNL Marketo Engage] 인스턴스에 대한 문서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다.'
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '937'
 ht-degree: 0%
-
 ---
-
 # 설명서를 사용하여 인스턴스 거버넌스 안내서 개발
 
 기존 [!DNL Marketo Engage] 인스턴스를 시작할 때 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 발생합니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. [설정된 [!DNL Marketo Engage] 인스턴스](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)에서 작업할 때 효율성을 높이는 중요한 전략 중 하나입니다.
@@ -54,22 +72,22 @@ ht-degree: 0%
 형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [시작할 수 있는 중요한 요소를 다루는 간단한 설명서 및 변경 로그 Excel 서식 파일입니다](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 여기에는 다음이 포함됩니다.
 
 * 설명서
-   * 프로그램 템플릿 이름
-   * 채널
-   * 만든 날짜
-   * 제작자
-   * 프로그램 목적
-   * 상태
-   * 프로그램 템플릿 링크
-   * 메모
+  * 프로그램 템플릿 이름
+  * 채널
+  * 만든 날짜
+  * 제작자
+  * 프로그램 목적
+  * 상태
+  * 프로그램 템플릿 링크
+  * 메모
 * 변경 로그
-   * 프로그램 템플릿 이름
-   * 변경 날짜
-   * 업데이트한 사람
-   * 업데이트 목적
-   * 변경 전 경험(링크/스크린샷 포함)
-   * 변경 후 경험(링크/스크린샷 포함)
-   * 프로그램 URL
+  * 프로그램 템플릿 이름
+  * 변경 날짜
+  * 업데이트한 사람
+  * 업데이트 목적
+  * 변경 전 경험(링크/스크린샷 포함)
+  * 변경 후 경험(링크/스크린샷 포함)
+  * 프로그램 URL
 
 ### 3단계: 주요 운영 프로그램의 현재 상태 파악 및 문서화
 

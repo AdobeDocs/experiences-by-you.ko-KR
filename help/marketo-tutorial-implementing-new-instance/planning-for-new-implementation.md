@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # 새로운 Marketo Engage 구현을 위한 계획
 
 새로운 Marketo Engage 인스턴스 구현에는 세심한 계획, 팀 간의 공동 작업 및 지속적인 최적화가 포함됩니다. 새로운 인스턴스를 구현하는 완벽한 방법은 없지만, 이를 경험한 대부분의 Marketo Engage 관리자는 향후 계획을 통해 프로세스가 훨씬 더 원활해질 것이라는 데 동의할 수 있습니다.

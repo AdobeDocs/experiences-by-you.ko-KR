@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '6045'
+source-wordcount: '6054'
 ht-degree: 2%
-
 ---
-
 # 성공을 위한 필수 프로그램 출시 전 품질 보증 프로세스
 
 [!DNL Marketo Engage] 관리자 또는 마케팅 운영 팀의 경우 고객이 직면한 실수를 방지하기 위해 프로그램 구성을 제대로 검토하는 것이 중요합니다. 실수를 제한하는 과정에서 실수를 통해 배울 수 있지만 확장 가능한 프로세스는 아닙니다. 빌더와 고급 사용자/검토자 간에 프로그램 사전 실행 품질 보증(QA) 프로세스를 설계 및 실행하는 방법은 시간을 절약하고, 오류를 방지하며, 내부 사용자를 보다 신속하게 교육하는 데 도움이 됩니다.
@@ -130,7 +148,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 1 | **정확도** | 필요한 모든 스마트 [!DNL Campaign]을(를) 확인, 검토 및 정확하게 간주했습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이 문제를 해결하고 확인해야 합니다. | [스마트 [!DNL Campaign] 검사 목록](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html?lang=ko){target="_blank"} |
 | 2 | **전송 개수** | 이메일 전송 캠페인이 일괄 캠페인(트리거되지 않음)인 경우 &#39;예약&#39; 탭에서 리드 수를 확인합니다. 예상한 수치에 맞게 수치가 정렬됩니까? 중단 임계값보다 작습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이 문제를 해결하고 확인해야 합니다. | [전자 메일 프로그램 예약](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html?lang=ko){target="_blank"} |
 | 3 | **기본 규칙** | 적절한 경우 기본 세그먼트/목록이 사용됩니까? 아니면 적절한 위치에 있습니까? | **예 또는 적용할 수 없음:**<br> 기본 목록/세그먼테이션은 참조해야 하는 필드 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않는 경우 규칙을 신뢰해야 합니다. |  |
-| 4 | **속성** | 프로그램에서 새 잠재 고객을 가져오는 경우(예: 이벤트 프로그램) 필요에 따라 속성 설정이 포함됩니까? 획득 프로그램이 매핑되고 있습니까? | **예 또는 적용할 수 없음:** <br>프로그램을 통해 사람을 가져오는 경우 또는 프로그램에서 새 사람을 가져오는 경우 획득 프로그램 설정을 사용해야 합니다. |  |
+| 4 | **특성** | 프로그램에서 새 잠재 고객을 가져오는 경우(예: 이벤트 프로그램) 필요에 따라 속성 설정이 포함됩니까? 획득 프로그램이 매핑되고 있습니까? | **예 또는 적용할 수 없음:** <br>프로그램을 통해 사람을 가져오는 경우 또는 프로그램에서 새 사람을 가져오는 경우 획득 프로그램 설정을 사용해야 합니다. |  |
 | 5 | **참여 프로그램** | 참여 프로그램에서 Smart [!DNL Campaign]을(를) 사용하면 구성원이 추가, 일시 중지 및 다시 시작되도록 할 수 있는 단계가 있습니까? 다른 사용자가 이러한 단계를 검토했습니까? | **예 또는 적용할 수 없음:**<br> 참여 프로그램이며 정당한 이유 없이 예로 대답할 수 없는 경우 이 프로그램이 적용될 때까지 활성화하지 마십시오. | [참여 프로그램에 직원 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html?lang=ko){target="_blank"} |
 | 6 | **구독 환경 설정** | 필요한 구독 환경 설정 요소가 모두 포함되었습니까? | **예 또는 적용할 수 없음:**<br> 확실하지 않은 경우 [!DNL Marketo Engage] 관리자에게 문의하십시오. N/A(예: 작동 전송)를 진행하려면 상당한 이유가 필요합니다. | [구독 센터를 설정하고 관리하는 방법](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=ko){target="_blank"} |
 | 7 | **프로그램 상태** | 프로그램 상태를 업데이트하는 흐름 단계가 포함되어 있습니까? | **예:** <br>예로 대답할 수 없는 경우 Smart [!DNL Campaign] 흐름 단계에 추가해야 합니다. | [프로그램 상태 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html?lang=ko){target="_blank"} |

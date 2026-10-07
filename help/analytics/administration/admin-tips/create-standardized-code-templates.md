@@ -1,6 +1,6 @@
 ---
 title: 표준화된 코드 템플릿 만들기
-description: 기본 구현(즉, 회사에서 모든 [!DNL Adobe Analytics] 개 사이트에 대해 필수 KPI를 고려하는 것)의 경우 조직에는 가능한 한 단일 구현 방법이 있어야 합니다.
+description: 기본 구현(즉, 회사에서 모든 [!DNL Adobe Analytics] 사이트에 대해 필수 KPI를 고려하는 것)의 경우 조직에는 가능한 한 단일 구현 방법이 있어야 합니다.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: edd3df73-6d1a-4a26-a984-810cc7dd382f
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
-
 ---
-
 # 표준화된 코드 템플릿 만들기
 
 **내용:** &quot;기준&quot; 구현(즉, 회사에서 모든 [!DNL Adobe Analytics] 사이트에 대해 필수 KPI를 고려하는 것)의 경우 조직에는 가능한 한 단일 구현 방법이 있어야 합니다. 예를 들어 사이트 간에 동일한 데이터 레이어 구조를 사용하고 동일한 태그 관리자 규칙/사용자 지정 코드를 사용하여 내부 검색 또는 방문자 프로필 정보와 같은 항목을 캡처합니다.

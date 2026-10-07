@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Marketo Engage을 구현할 이해 당사자 관리
 
 Marketo Engage 구현은 MarTech 스택을 확장하는 중요한 순간입니다. 마케팅에서 영업, IT에 이르기까지 다양한 관련자들이 참여할 수 있습니다. 적절한 질문을 하고 정기적으로 필요한 업데이트 및 지원을 전달하여 조직에서 새 Marketo Engage 인스턴스에 대한 지원을 받는 방법에 대해 알아봅니다. 튜토리얼 및 템플릿(다운로드 가능한 버전 포함)을 사용하여 구현 및 사용자 온보딩 전반에 걸쳐 내부 커뮤니케이션을 안내합니다.

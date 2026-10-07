@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 79cec21e-2b52-4e7b-88ad-db137a8cef4e
-source-git-commit: c568ed0a06551d910b6f533698ec47c15adecf6c
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
-
 ---
-
 # 표준화된 이름 지정 규칙 만들기
 
 **내용:** 표준화된 이름 지정 규칙은 [!DNL Adobe Analytics]&#x200B;(AA) 관리 UI에서 활성화된 경우 변수 이름 자체와 차원으로 전달된 값에 모두 적용됩니다. (즉, 페이지 이름은 변수 이름으로 &quot;page name (v1)&quot;이 되고 전달된 페이지 이름 값은 균일해야 하며 &quot;sitename|homepage&quot; 또는 &quot;sitename|search|searchresults&quot;와 같은 특정 구조/계층 구조를 따라야 합니다.)

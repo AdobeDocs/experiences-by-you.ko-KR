@@ -1,5 +1,5 @@
 ---
-title: 내부  [!DNL Adobe Analytics] 사이트 만들기(Confluence 또는 기타)
+title: 내부 [!DNL Adobe Analytics] 사이트 만들기(Confluence 또는 기타)
 description: 모든 사용자가 교육 문서를 공유하고 참조할 수 있는 중앙 위치를 만듭니다.
 solution: Analytics
 feature-set: Analytics
@@ -11,13 +11,26 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 2fc27a2c-15e0-432e-a435-d7e4793ce670
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
-
 ---
-
 # 내부 [!DNL Adobe Analytics] 사이트 만들기(Confluence 또는 기타)
 
 **내용:** [이 팁](create-basic-videos-and-training.md){target="_blank"}의 권장 사항에 따라 교육용 문서를 만드는 경우 하드 드라이브에 보관할 수 없습니다. 모든 사용자가 공유하고 참조할 수 있는 중앙 위치(이러한 모든 문서를 게시하고 다른 버전을 유지 관리할 수 있는 내부 [!DNL Adobe Analytics] 사이트(Confluence 또는 기타)를 만드십시오.
@@ -29,7 +42,7 @@ ht-degree: 0%
 * _소개_: 액세스 방법, 연락처, 로그인 방법, JIRA 티켓 생성 방법, 도움말 받는 위치 등
 * _문서에 태그 지정_: 속성 문서, 문서에 태그 지정 문서, 코드 템플릿 등
 * _지식 문서_: 여기에 이름 지정 규칙을 게시할 수 있지만 교육 비디오와 동일한 목적을 가진 지식 문서도 게시할 수 있습니다. 예를 들어 다운로드 추적 방법, 쿠폰 추적 방법 등입니다.
-* _교육 문서_: 기본 및 고급 교육 세션, 5~10분 분량의 짧은 비디오. Experience League, YouTube 채널 등 [!DNL Adobe] 리소스에 대한 링크도 제공할 수 있습니다.
+* _교육 문서_: 기본 및 고급 교육 세션, 5~10분 분량의 짧은 비디오. Experience League, YouTube 채널 등 [!DNL Adobe]개의 리소스에 대한 링크도 제공할 수 있습니다.
 * _관리 문서_: SAINT 파일, JS 파일, 데이터 피드 등의 관리 항목에 대한 지식 문서
 
 또한 새 계정을 만들 때 &quot;[!DNL Adobe Analytics] 시작&quot; 이메일에서 이 사이트에 대한 링크를 공유하고 교육 섹션을 강조 표시하는 것이 좋습니다.

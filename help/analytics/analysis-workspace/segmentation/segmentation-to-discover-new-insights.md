@@ -1,22 +1,41 @@
 ---
 title: 이제 세그먼트를 기다려 주세요. 세그먼테이션을 사용하여 Analysis Workspace에서 새로운 인사이트 발견
-description: ' [!DNL Adobe Analytics] 에서 세그먼트를 사용하여 Analysis Workspace 시각화 및 자유 형식 테이블에서 새로운 통찰력을 발견하는 방법에 대해 알아봅니다.'
+description: '[!DNL Adobe Analytics]에서 세그먼트를 사용하여 Analysis Workspace 시각화 및 자유 형식 테이블에서 새로운 통찰력을 발견하는 방법에 대해 알아봅니다.'
 feature-set: Analytics
 feature: Segmentation
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
 exl-id: 3496b6ff-f8d6-48a1-92f4-442a792663e7
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 2%
-
 ---
-
 # 이제 세그먼트를 기다려 주세요. 세그먼트를 사용하여 Analysis Workspace에서 새로운 인사이트 발견
 
 새 [!DNL Adobe Analytics] 사용자든 숙련된 프로든 간에 Analysis Workspace 프로젝트에서 세그먼트를 상당히 활용합니다. [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ko)에서 설명한 대로 &quot;세그먼트를 사용하면 특성 또는 웹 사이트 상호 작용에 따라 방문자의 하위 집합을 식별할 수 있습니다.&quot; 이 기능의 기본 결과는 사용자, 방문 또는 사이트 히트 그룹을 격리하는 의미이지만, 본인과 같은 예리한 정신의 분석가는 이 도구를 사용하여 창의력을 발휘하고 사이트 활동에 대한 통찰력을 얻을 수 있는 새로운 방법을 찾을 수 있습니다. 가능한 옵션 목록은 광범위하므로 주저하지 말고 직접 만들어 조직 또는 Experience League의 [[!DNL Adobe Analytics] 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko) 또는 [Slack](https://www.measure.chat/) 커뮤니티와 같은 커뮤니티의 온라인#Measure 다른 사용자와 공유해 보십시오.

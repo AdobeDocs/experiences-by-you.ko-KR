@@ -1,27 +1,40 @@
 ---
 title: Excel 님, 안녕하세요 계산된 지표입니다.
-description: ' [!DNL Adobe Analytics] 에서 계산된 지표를 사용할 때의 이점 및 이 문서에서 지표가 데이터에 대한 지속적이고 동적인 보기를 제공하는 방법에 대해 알아봅니다.'
+description: '[!DNL Adobe Analytics]에서 계산된 지표를 사용하여 얻을 수 있는 이점 및 이 문서에서 지표가 데이터에 대한 연속적이고 동적인 보기를 제공하는 방법에 대해 알아보십시오.'
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '1277'
 ht-degree: 0%
-
 ---
-
 # Excel 님, 안녕하세요 계산된 지표입니다.
 
 [!DNL Adobe Analytics]에서 계산된 지표를 사용하여 얻을 수 있는 이점 및 이 문서에서 지표가 데이터에 대한 연속적이고 동적인 보기를 제공하는 방법에 대해 알아보십시오.
 
-이봐! 지금 Excel에 있는 이유는 무엇입니까? 왜인지는 알아요 적절한 사람에게 연락하기 위해 보고를 받습니다. [!DNL Adobe Analytics]에서 가져온 데이터를 입력하고 전환율을 계산하고 차트를 작성한 다음 의사 결정자에게 보낼 PowerPoint에 데이터를 모두 넣을 준비를 하느라 바쁘게 됩니다. 최소한 Report Builder을 사용하여 작업을 수행했으면 좋겠지만, 일부 사용자는 Workspace의 데이터를 수동으로 복사하여 Excel에 붙여넣고 있는 것으로 알고 있습니다.
+안녕하세요! 지금 Excel에 있는 이유는 무엇입니까? 왜인지는 알아요 적절한 사람에게 연락하기 위해 보고를 받습니다. [!DNL Adobe Analytics]에서 가져온 데이터를 입력하고 전환율을 계산하고 차트를 작성한 다음 의사 결정자에게 보낼 PowerPoint에 데이터를 모두 넣을 준비를 하느라 바쁘게 됩니다. 최소한 Report Builder을 사용하여 작업을 수행했으면 좋겠지만, 일부 사용자는 Workspace의 데이터를 수동으로 복사하여 Excel에 붙여넣고 있습니다.
 
 왜요?
 
@@ -39,7 +52,7 @@ ht-degree: 0%
 
    나도 가봤어. 복사/붙여넣기합니다. 수식을 입력하거나 수식 위의 셀을 아래로 끕니다. 차트를 클릭하고 범위를 변경하여 지난 12개월 또는 13개월을 사용할 수 있도록 합니다. 이제 차트를 복사합니다. 이제 다시 해 그리고 또. 그리고 또. PowerPoint를 전송합니다. 지루하고 시간도 많이 걸리고 매달 영원히 해야 할 것 같은 느낌이 든다.
 
-   대신 계산된 지표를 사용하고, 최근 12개월 또는 13개월을 날짜 범위로 사용하고, 매월 1일 자정 즈음에 데이터와 차트가 자동으로 업데이트되도록 하는 Workspace을 만들 수 있습니다. 수신자는 Workspace에 직접 액세스할 수 있습니다. 이 사용자는 매월 1일 또는 텍스트 시각화를 사용하여 데이터에 대한 주석을 추가한 후(보고의 재미있는 부분) PDF 사본을 이메일로 자동 전송할 수 있습니다.
+   대신 계산된 지표를 사용하고, 최근 12개월 또는 13개월을 날짜 범위로 사용하고, 매월 1일 자정 즈음에 데이터와 차트가 자동으로 업데이트되도록 하는 Workspace을 만들 수 있습니다. 수신자는 Workspace에 직접 액세스할 수 있습니다. 이 사용자는 매월 1일 또는 텍스트 시각화를 사용하여 데이터에 대한 주석을 추가한 후(보고의 재미있는 부분) PDF 사본을 자동으로 이메일로 보낼 수 있습니다.
 
 1. **계산된 지표를 큰 데이터 집합에 적용할 수 있음**
 
@@ -53,7 +66,7 @@ ht-degree: 0%
 
 **사용 사례 1: 전환율**
 
-대부분의 전환율은 단순 분할일 뿐입니다. 전환 수를 방문자 수 또는 방문 수로 나눕니다. 단계의 최종 페이지에 대한 페이지 보기 수를 단계의 첫 번째 페이지에 대한 페이지 보기 수로 나눕니다. 내부 캠페인 클릭스루 수를 노출 횟수로 나눕니다. 이러한 모든 작업을 계산된 지표로 쉽게 수행할 수 있으며 낮은 데이터 지연, 시각화 업데이트 및 공유 기능을 활용하는 대시보드에 배치할 수 있습니다.
+대부분의 전환율은 단순 분할일 뿐입니다. 전환 수를 방문자 수 또는 방문 수로 나눕니다. funnel의 최종 페이지에 대한 페이지 보기 수를 funnel의 첫 번째 페이지에 대한 페이지 보기 수로 나눕니다. 내부 캠페인 클릭스루 수를 노출 횟수로 나눕니다. 이러한 모든 작업을 계산된 지표로 쉽게 수행할 수 있으며 낮은 데이터 지연, 시각화 업데이트 및 공유 기능을 활용하는 대시보드에 배치할 수 있습니다.
 
 **사용 사례 2: 내부 검색**
 

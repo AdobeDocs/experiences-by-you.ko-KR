@@ -1,23 +1,33 @@
 ---
-title: 상속된  [!DNL Marketo Engage] 인스턴스 감사를 위한 팁과 요령
-description: 상속된 Live [!DNL Marketo Engage] 인스턴스를 최적화하고 확장하는 방법을 알아봅니다.
+title: 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
+description: 상속된 라이브 [!DNL Marketo Engage] 인스턴스를 최적화하고 확장하는 방법을 알아봅니다.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # 상속된 [!DNL Marketo Engage] 인스턴스를 감사하기 위한 팁과 요령
 
 *Source: Adobe Marketo 챔피언*

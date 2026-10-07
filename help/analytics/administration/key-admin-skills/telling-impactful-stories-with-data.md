@@ -1,6 +1,6 @@
 ---
 title: 데이터를 통해 깊은 인상을 주는 스토리 전달
-description: 데이터 스토리텔링은 데이터, 시각화, 묘사를 사용하여 예술과 과학을 하나로 합치는 것입니다.  이러한 구성 요소를 활용하여 효과적인 데이터 스토리를 만드는 세 가지 부분이 있습니다. 데이터를 통해 효과적으로 스토리를 전달하면  [!DNL Analytics] 더 많은 대상이 접근할 수 있게 되고 데이터 기반 결정으로 조직에 더 높은 가치를 가져다 줄 수 있습니다.
+description: 데이터 스토리텔링은 데이터, 시각화, 묘사를 사용하여 예술과 과학을 하나로 합치는 것입니다.  이러한 구성 요소를 활용하여 효과적인 데이터 스토리를 만드는 세 가지 부분이 있습니다. 데이터를 통해 효과적으로 스토리를 전달하면 [!DNL Analytics]은(는) 더 많은 대상이 접근할 수 있게 되고 데이터 기반 결정으로 조직에 더 높은 가치를 가져다 줄 수 있습니다.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # 데이터를 통해 깊은 인상을 주는 스토리 전달
 
 데이터 스토리텔링은 데이터, 시각화, 묘사를 사용하여 예술과 과학을 하나로 합치는 것입니다.  이러한 구성 요소를 활용하여 효과적인 데이터 스토리를 만드는 세 가지 부분이 있습니다. 데이터를 통해 효과적으로 스토리를 전달하면 [!DNL Analytics]은(는) 더 많은 대상이 접근할 수 있게 되고 데이터 기반 결정으로 조직에 더 높은 가치를 가져다 줄 수 있습니다.

@@ -6,16 +6,23 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-23T00:00:00Z
+last-substantial-update: 2024-05-23T00:00:00.000Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1458'
 ht-degree: 0%
-
 ---
-
 # Dynamic Chat을 사용한 옴니채널 대화 마케팅 디자인
 
 마케터는 리드를 생성하고 전환을 활성화하며 판매 주기를 가속화하는 데 웹 사이트가 필수적입니다. 웹 사이트에서 방문자와 실시간으로 소통하면 판매 팀이 보다 효율적으로 구매자를 평가할 수 있습니다. Adobe Marketo Engage 구독 내의 기본 채팅 채널인 Adobe Dynamic Chat을 사용하면 대화를 자동화하여 Marketo Engage의 기능을 확장할 수 있습니다.

@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # 새 인스턴스 구성 및 이름 지정 규칙 설정
 
 새 Marketo Engage 인스턴스를 구현하는 관리자는 조직 내에서 향후 마케터가 인스턴스를 쉽게 탐색할 수 있는 기반을 다지고 있습니다. 트리 폴더 구조 및 이름 지정 규칙에 익숙해지면 인스턴스가 깔끔하게 유지되고 장기적인 성공을 위해 설정됩니다. 이 튜토리얼에는 Adobe 및 Marketo Engage 챔피언(2019-2020), Natalie Kremer가 [폴더를 구성하고 자산의 이름을 일관되게 지정](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}하는 데 도움이 되는 예제가 포함되어 있습니다.
