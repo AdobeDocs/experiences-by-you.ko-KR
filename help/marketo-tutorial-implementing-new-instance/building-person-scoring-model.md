@@ -6,17 +6,15 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2055'
+source-wordcount: '2148'
 ht-degree: 2%
-
 ---
-
 # 개인 채점 모델 작성
 
 개인 점수를 매기면 귀사와 가장 관련이 있고 이상적인 고객 프로필인 사람을 식별하는 데 도움이 되므로 이러한 잠재 고객을 영업팀과 공유하고 거래를 성사시킬 수 있습니다. Adobe Marketo Engage의 잠재 고객/개인 점수 책정 프로그램을 사용하여 판매와 함께 고객에게 전달할 잠재 고객을 결정합니다. 이것은 행동 채점, 인구 통계학적 채점, 또는 둘 모두의 최소값에 의해 결정될 수 있다.
@@ -27,7 +25,7 @@ ht-degree: 2%
 
 데이터베이스에 많은 잠재 고객이 있을 수 있지만 현재 제품 및 서비스를 구매할 준비가 된 고객을 어떻게 알 수 있습니까? 마케팅 조직은 잠재 고객 품질 및 판매 준비를 최적화하기 위해 노력하므로 여기에서 채점 모델이 작동합니다.
 
-Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 고객의 자격을 측정하고 영업 준비가 된 시기에 대한 기준을 설정할 수 있습니다. 이를 통해 영업 팀은 닫을 가능성이 가장 높은 리드에 집중할 수 있으며 마케팅 팀은 마케팅 프로그램을 통해 데이터베이스의 다른 사용자를 계속 육성합니다.
+Marketo Engage 데이터베이스에서 점수를 매겨 생성된 잠재 고객의 자격을 측정하고 영업 준비가 된 시기에 대한 기준을 설정할 수 있습니다. 이를 통해 영업 팀은 닫을 가능성이 가장 높은 리드에 집중할 수 있으며 마케팅 팀은 마케팅 프로그램을 통해 데이터베이스의 다른 사용자를 계속 육성합니다.
 
 ## 연습 1 - 행동 점수로 구매자 관심 결정
 
@@ -87,20 +85,20 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 
 * 업종, 회사, 부서 및 역할 등 목록 속성을 고려합니다. 이러한 특성이 Marketo Engage 인스턴스에서 사용 가능한 인구 통계 필드에 해당하는지 확인하십시오.
 * 영업 팀과 협력하여 영업 기회 중 영업 문의에 가장 많이 응답하고 주요 연락처인 잠재 고객을 파악합니다.
-   * 최근 마감된 성공 기회를 분석하여 우수 고객이 어떤 특성을 가지고 있는지 확인하는 것이 도움이 될 수 있습니다. 예:
-      * 패턴에 대한 닫힌 손실 기회를 파헤치면 피하고 싶은 인구 통계 데이터를 찾을 수 있습니다.
-      * 판매 노력을 주도하는 의사 결정권자 및 내부 챔피언을 식별합니다. 데이터에 대해 자세히 알아보고 일부 영업 팀과 함께 워크샵에 결과를 제출하여 결론을 검증하거나 구체화합니다.
-   * 다음 샘플 질문으로 영업 팀과 인터뷰할 수도 있습니다.
-      * 보통 어떤 부서와 교류하고 있나요?
-      * 제품 데모와 관련된 사람들의 직함은 무엇이며 구매에 동의해야 하는 사람은 누구입니까?
+  * 최근 마감된 성공 기회를 분석하여 우수 고객이 어떤 특성을 가지고 있는지 확인하는 것이 도움이 될 수 있습니다. 예:
+    * 패턴에 대한 닫힌 손실 기회를 파헤치면 피하고 싶은 인구 통계 데이터를 찾을 수 있습니다.
+    * 판매 노력을 주도하는 의사 결정권자 및 내부 챔피언을 식별합니다. 데이터에 대해 자세히 알아보고 일부 영업 팀과 함께 워크샵에 결과를 제출하여 결론을 검증하거나 구체화합니다.
+  * 다음 샘플 질문으로 영업 팀과 인터뷰할 수도 있습니다.
+    * 보통 어떤 부서와 교류하고 있나요?
+    * 제품 데모와 관련된 사람들의 직함은 무엇이며 구매에 동의해야 하는 사람은 누구입니까?
 
 **예 2a - 이상적인 잠재 고객 특성**
 
 | **범주** | **이상적인 잠재 고객 특성** |
 | --- | --- |
-| 산업 | 항공 우주, 제조 |
+| 업계 | 항공 우주, 제조 |
 | 회사 규모 | 100 - 999, 1,000 - 9,999 |
-| 직위 | Director, 부사장, C-Level |
+| 직위 | 책임자, 부사장, C-레벨 |
 | 부서 | 시간 |
 
 **2단계** - 이상적인 잠재 고객 프로필에서의 관련성에 따라 각 특성에 점수를 할당합니다. 리드가 제품에 적합하지 않도록 하는 바람직한 트레이트에는 양수 점수를, 트레이트에는 음수 점수를 사용하십시오.
@@ -119,9 +117,9 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 
 완료한 기본 행동 및 인구 통계학적 채점 모델을 사용하여 로컬 유연성을 허용함으로써 다음 수준으로 전환할 수 있습니다. 조직이 전 세계적으로 운영될 때 비즈니스 가치는 다른 시장에서 달라질 수 있습니다. 다음 연습에서는 서로 다른 상황에서 리드 활동의 실제 비즈니스 가치 또는 특성을 반영하기 위해 점수를 적용하는 방법을 배웁니다.
 
-이 연습을 위한 비디오 연습이 더 좋습니까? Marketo Engage 챔피언 Katja Keesom이 채점 모델에 로컬 유연성을 구축하는 방법을 보여 주므로 이를 활용하십시오.
+이 연습을 위한 비디오 연습이 더 좋습니까? Marketo Engage 챔피언 Katja Keesom이 채점 모델에 로컬 유연성을 구축하는 방법을 보여 주므로, 이를 활용하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457446/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3457446/?captions=kor&learn=on)
 
 **1단계** - 연습 1과 2의 활동 및 특성을 가져와서 각 항목에 대해 위치 또는 제품 라인별로 다른지 여부를 결정합니다.
 
@@ -130,7 +128,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 | **신호** | **전역** | **로컬** |
 | --- | --- | --- |
 | 활동 | <ul><li>&quot;데모 요청&quot; 양식을 작성했습니다</li><li>지난 90일(약 3개월) 동안 상호 작용 없음</li></ul> | <ul><li>박람회 방문</li><li>백서 다운로드</li></ul> |
-| 특성 | <ul><li>부서</li><li>직위</li></ul> | <ul><li>산업</li><li>회사 규모</li></ul> |
+| 특성 | <ul><li>부서</li><li>직위</li></ul> | <ul><li>업계</li><li>회사 규모</li></ul> |
 
 **2단계** - 로컬 시장에 대한 채점 매트릭스 정의:
 
@@ -139,7 +137,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 * 주제 내에서 평가하는 데 사용되는 값의 수를 정의합니다.
 * 상대 가치를 글로벌 점수와 정렬하여 개별 값을 할당합니다.
 * 잠재 고객이 내 브랜드와 상호 작용할 때 일반적인 시나리오를 정의하고 해당 시나리오에 대한 전체 점수를 테스트해 보십시오.
-   * 예를 들어, 표시되는 일반적인 잠재 고객 여정은 한 사람이 컨텐츠 페이지에 웹 사이트를 입력한 다음 제품 페이지를 클릭하고 브로셔를 다운로드하는 것입니다. 웨비나 초대를 통해 타겟팅하면 등록은 하되 참석은 하지 않는 방식으로 응답합니다. 영업 담당자가 이미 이 담당자와 이야기하고 싶어하는지 여부를 고려하여 채점 모델이 해당 관심 수준을 반영하기 위해 이러한 잠재 고객을 올바른 전체 점수로 파악하는지 평가합니다.
+  * 예를 들어, 표시되는 일반적인 잠재 고객 여정은 한 사람이 컨텐츠 페이지에 웹 사이트를 입력한 다음 제품 페이지를 클릭하고 브로셔를 다운로드하는 것입니다. 웨비나 초대를 통해 타겟팅하면 등록은 하되 참석은 하지 않는 방식으로 응답합니다. 영업 담당자가 이미 이 담당자와 이야기하고 싶어하는지 여부를 고려하여 채점 모델이 해당 관심 수준을 반영하기 위해 이러한 잠재 고객을 올바른 전체 점수로 파악하는지 평가합니다.
 
 **예제 3b - 인구 통계학적 점수 지표:**
 
@@ -169,8 +167,8 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
  <tr>
     <td rowspan="6">1</td>
     <td rowspan="6"><b>필수</b></td>
-    <td rowspan="6">인구 통계학</td>
-    <td rowspan="6">산업</td>
+    <td rowspan="6">인구 통계</td>
+    <td rowspan="6">업계</td>
     <td rowspan="6"><b>2</b></td>
     <td>기술</td>
     <td><b>높음</b></td>
@@ -198,7 +196,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 <tr>
     <td rowspan="3">2</td>
     <td rowspan="3"><b>예</td>
-    <td rowspan="3">인구 통계학</td>
+    <td rowspan="3">인구 통계</td>
     <td rowspan="3">회사 규모(직원)</td>
     <td rowspan="3"><b>3</td>
     <td>직원 수 1000명 이상</td>
@@ -215,7 +213,7 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 <tr>
     <td rowspan="3">3</td>
     <td rowspan="3"><b>아니요</b></td>
-    <td rowspan="3">동작</td>
+    <td rowspan="3">행동 기반</td>
     <td rowspan="3">웹 사이트의 페이지 방문 횟수</td>
     <td rowspan="3"><b>2</b></td>
     <td>&gt;제품 정보 페이지</td>
@@ -233,19 +231,19 @@ Marketo Engage 데이터베이스에서 사람을 채점하여 생성된 가망 
 
 ## 다음은 무엇입니까?
 
-* 오프라인 채점 모델을 개발하려면 [개인 채점 연습 시트](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank}를 다운로드하십시오.
-* Marketo Engage에서 개인 점수를 매깁니다. 시작하려면 이 [튜토리얼](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} 및 [데모](https://experienceleague.adobe.com/ko/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}를 확인하세요. Marketo Engage 참조 라이브러리에서 잠재 고객/개인 채점 프로그램 [템플릿](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank}을(를) 가져와 프로그램 빌드를 가속화할 수 있습니다.
+* 오프라인으로 채점 모델을 개발하려면 [개인 채점 연습 시트](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target=_blank}를 다운로드하십시오.
+* Marketo Engage에서 개인 점수를 매깁니다. 시작하려면 이 [자습서](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target=_blank} 및 [데모](https://experienceleague.adobe.com/ko/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target=_blank}를 확인하십시오. Marketo Engage 참조 라이브러리에서 잠재 고객/개인 채점 프로그램 [template](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target=_blank}을 가져와서 프로그램 빌드를 가속화할 수 있습니다.
 * 채점 프로그램의 두 가지 버전을 만듭니다.
-   * 로컬로 업데이트할 수 없는 모든 채점을 실행하는 중앙 프로그램입니다.
-   * 구성 가능한 채점 요소가 있는 로컬 복사본입니다.
+  * 로컬로 업데이트할 수 없는 모든 채점을 실행하는 중앙 프로그램입니다.
+  * 구성 가능한 채점 요소가 있는 로컬 복사본입니다.
 * 채점 프로그램 내에서 채점 값을 토큰으로 설정합니다. 이렇게 하면 시간에 따라 점수를 조정할 때에도 일관성이 유지됩니다.
-   * 토큰화된 점수의 일반적인 예로는 데모 요청 또는 영업 팀과의 회의 예약과 같이, 자동으로 임계값을 충족하는 고가치 활동에 대한 토큰이 있습니다. 임계값을 충족하는 데 필요한 최소 점수를 변경하더라도 하나의 토큰을 업데이트하여 모든 가치가 높은 활동을 한 번에 쉽게 업데이트할 수 있습니다.
+  * 토큰화된 점수의 일반적인 예로는 데모 요청 또는 영업 팀과의 회의 예약과 같이, 자동으로 임계값을 충족하는 고가치 활동에 대한 토큰이 있습니다. 임계값을 충족하는 데 필요한 최소 점수를 변경하더라도 하나의 토큰을 업데이트하여 모든 가치가 높은 활동을 한 번에 쉽게 업데이트할 수 있습니다.
 * 각 위치에 대해 로컬 Smart Campaign 조정:
-   * 한 번만 점수를 매기는 인구 통계학 및 행동 활동(즉, 업계)과 잠재 고객이 자격을 얻을 때마다 점수를 매기는 활동(즉, 웨비나에 참석함)을 결정합니다. 이렇게 하면 데이터 값 변경으로 트리거된 잠재적 연락처가 매출과 관련이 있습니다.
-   * 여러분의 선택이 상호 배타적인지 확인하십시오.
-   * 개인 점수가 인구 통계 점수와 동일한 방식으로 업데이트되도록 두 흐름 단계에서 모두 업데이트합니다. 이렇게 하면 개인 점수는 행동 점수와 인구 통계학적 점수의 조합과 일치합니다.
-* 프로그램 빌드가 완료되면 스마트 캠페인을 테스트합니다. 예를 들어, 데모 양식으로 이동하여 테스트 전자 메일을 작성하고 [Marketo Engage 데이터베이스](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}에서 테스트 개인의 점수를 확인합니다.
-* 모델을 만든 후 개인의 점수가 판매 핸드오프 임계값에 도달하면 판매로 이동하도록 경고를 설정하는 것이 좋습니다. 이 [자습서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}를 사용하여 경고를 설정하는 방법에 대해 자세히 알아보세요.
+  * 한 번만 점수를 매기는 인구 통계학 및 행동 활동(즉, 업계)과 잠재 고객이 자격을 얻을 때마다 점수를 매기는 활동(즉, 웨비나에 참석함)을 결정합니다. 이렇게 하면 데이터 값 변경으로 트리거된 잠재적 연락처가 매출과 관련이 있습니다.
+  * 여러분의 선택이 상호 배타적인지 확인하십시오.
+  * 개인 점수가 인구 통계 점수와 동일한 방식으로 업데이트되도록 두 흐름 단계에서 모두 업데이트합니다. 이렇게 하면 개인 점수는 행동 점수와 인구 통계학적 점수의 조합과 일치합니다.
+* 프로그램 빌드가 완료되면 스마트 캠페인을 테스트합니다. 예를 들어, 데모 양식으로 이동하여 테스트 전자 메일을 작성하고 [Marketo Engage 데이터베이스](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target=_blank}에서 테스트 개인의 점수를 확인합니다.
+* 모델을 만든 후 개인의 점수가 판매 핸드오프 임계값에 도달하면 판매로 이동하도록 경고를 설정하는 것이 좋습니다. 이 [자습서](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target=_blank}를 사용하여 경고를 설정하는 방법에 대해 자세히 알아보세요.
 
 ### 작성자
 
