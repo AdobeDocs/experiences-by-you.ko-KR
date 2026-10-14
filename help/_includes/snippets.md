@@ -5,9 +5,7 @@ source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
-
 ---
-
 # 스니펫
 
 ## 에이미 추 {#amy-chiu}
@@ -20,7 +18,7 @@ ht-degree: 1%
 
 ![Naomi Liu](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**Naomi Liu**, Director, 글로벌 마케팅 운영, EFI(Electronics for Imaging)
+**Naomi Liu**, 글로벌 마케팅 운영 담당 이사, EFI(Electronics for Imaging)
 
 ## 나탈리 크레머 {#natalie-kremer}
 
@@ -54,7 +52,7 @@ Adobe Marketo Engage 챔피언(2015)
 
 ![피터 리바다스](/help/marketo-tutorial-implementing-new-instance/assets/peter_livadas.png){width="150"}
 
-**Peter Livadas**, Adobe의 Marketo Engage 수석 기술 컨설턴트
+Adobe의 Marketo Engage 수석 기술 컨설턴트 **Peter Livadas**
 
 ## 세라 배리우소 {#sara-barriuso}
 
