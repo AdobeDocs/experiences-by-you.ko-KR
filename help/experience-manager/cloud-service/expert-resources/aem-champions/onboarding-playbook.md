@@ -48,7 +48,7 @@ ht-degree: 1%
 
 동료 기술 팀장인 Rakesh Pasupuleti가 알려 주는 팁을 확인해 보십시오. Rakesh는 [!DNL Adobe] Experience Manager 챔피언이며 온보딩 플레이북을 사용하는 방법에 대한 아이디어를 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506882?captions=kor&quality=12&learn=on)
 
 ## 추가 리소스 {#additional-resources}
 

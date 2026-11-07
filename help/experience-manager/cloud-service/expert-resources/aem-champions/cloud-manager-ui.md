@@ -42,7 +42,7 @@ ht-degree: 2%
 
 동료 기술 팀장인 Rakesh Pasupuleti가 알려 주는 팁을 확인해 보십시오. Rakesh는 [!DNL Adobe] Experience Manager 챔피언이며 [!DNL Cloud Manager]의 UI를 탐색하고 이해하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419298?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506900?captions=kor&quality=12&learn=on)
 
 ## 추가 리소스 {#additional-resources}
 
